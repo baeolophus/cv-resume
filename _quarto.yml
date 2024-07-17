@@ -7,8 +7,18 @@ book:
   date: "7/17/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - education.qmd
+    - work_positions.qmd
+    - peer-reviewed_pubs.qmd
+    - presentations.qmd
+    - invited_presentations.qmd
+    - teaching_experience.qmd
+    - professional_service.qmd
+    - awards.qmd
+    - funding.qmd
+    - popular_outreach.qmd
+    - training_skills.qmd
+    - memberships.qmd
     - references.qmd
 
 bibliography: references.bib
