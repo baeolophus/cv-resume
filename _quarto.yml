@@ -7,21 +7,20 @@ book:
   date: "7/17/2024"
   chapters:
     - index.qmd
-    - education.qmd
-    - work_positions.qmd
-    - peer-reviewed_pubs.qmd
-    - presentations.qmd
-    - invited_presentations.qmd
-    - teaching_experience.qmd
-    - professional_service.qmd
-    - awards.qmd
-    - funding.qmd
-    - popular_outreach.qmd
-    - training_skills.qmd
-    - memberships.qmd
-    - references.qmd
+    - section-education.qmd
+    - section-work_positions.qmd
+    - section-peer-reviewed_pubs.qmd
+    - section-presentations.qmd
+    - section-invited_presentations.qmd
+    - section-teaching_experience.qmd
+    - section-professional_service.qmd
+    - section-awards.qmd
+    - section-funding.qmd
+    - section-popular_outreach.qmd
+    - section-training_skills.qmd
+    - section-memberships.qmd
 
-bibliography: references.bib
+bibliography: section-peer-reviewed_pubs.bib
 
 format:
   html:
