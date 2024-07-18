@@ -1,7 +1,21 @@
-# Summary
+# Education {.unnumbered}
 
-In summary, this book has no content whatsoever.
+## Ph.D. in Ecology and Evolutionary Biology (Zoology)
 
-```{r}
-1 + 1
-```
+University of Oklahoma (Norman, OK, USA)
+
+::: column-margin
+2008-2014
+:::
+
+Advisor: Dr. Michael Patten
+
+## B.S. in Biology, Chemistry minor (summa cum laude)
+
+University of North Texas (Denton, TX, USA)
+
+::: column-margin
+2005-2007
+:::
+
+Honors thesis advisor: Dr. James H. Kennedy.

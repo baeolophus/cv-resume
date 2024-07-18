@@ -1,0 +1,17 @@
+# Publications {.unnumbered}
+
+
+## Peer-reviewed
+Projects [@pipherCattleGrazingIntensity2016]
+
+[@semenovGeographicallyConsistentHybridization2023]
+
+
+## Popular
+
+## Outreach
+
+## Impact
+
+::: {#refs}
+:::

@@ -1,9 +1,121 @@
-# Introduction
+# Positions Held  {.unnumbered}
 
-This is a book created from markdown and executable code.
+## Science Librarian
 
-See @knuth84 for additional discussion of literate programming.
+University Libraries, University of Oklahoma (Norman, OK, USA)
+
+::: column-margin
+2018-present
+:::
+
+Supervisor: Karie Antell
+
+## Post-doctoral research associate
+
+Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)
+
+::: column-margin
+2016-2018
+:::
+
+PI: Dr. Eli S. Bridge
+
+PI: Dr. Michael A. Patten (2018)
+
+## Research Associate
+
+Natural Resources Institute, University of Manitoba (Winnipeg, MB, Canada)
+
+::: column-margin
+2016
+:::
+
+PI: Dr. Nicola Koper
+
+## Post-doctoral Fellow
+
+Natural Resources Institute, University of Manitoba, (Winnipeg, MB, Canada)
+
+::: column-margin
+2014-2016
+:::
+
+PI: Dr. Nicola Koper
+
+## U.S. Forest Service Contractor
+
+Caddo/Lyndon B. Johnson National Grasslands, US Forest Service (Decatur, TX, USA)
+
+::: column-margin
+March-June 2008
+:::
+
+Supervisor: Alfredo Sanchez, USFS Wildlife Biologist (retired)
+
+Conducted a Black-capped Vireo survey and designed a Loggerhead Shrike survey on LBJ National Grasslands.
+
+## Undergraduate research assistant
+
+Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)
+
+::: column-margin
+March-August 2007
+:::
+
+PI: Dr. James Kennedy
+
+Sorted aquatic invertebrates in sediment samples, identified Chironomidae subfamilies and formatted data
+
+## Seasonal Field Biologist
+
+Leon River Restoration Project (with Texas A&M University)
+
+::: column-margin
+May-July 2006
+:::
+
+Field site: private properties near Gatesville, TX
+
+Point counts of birds, nest searching, fledgling searching, and entering data for one field season.
+
+## Undergraduate research assistant
+
+Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)
+
+::: column-margin
+October 2005-May 2006
+:::
+
+PI: Dr. James Kennedy
+
+Sorted aquatic invertebrates in sediment samples part-time.
+
+## Field technician
+
+Texas Agricultural Experiment Station in Vernon, TX
+
+::: column-margin
+June-August 2005
+:::
+
+Counting birds, nest searching, measuring vegetation, and sampling insects for one field season.
+
+## U.S. Forest Service Contractor
+
+Caddo/Lyndon B. Johnson National Grasslands, US Forest Service (Decatur, TX, USA)
+
+::: column-margin
+December 2001-February 2002
+:::
+
+Counting grassland bird species along designated transects on the Lyndon B. Johnson National Grasslands.
 
 ```{r}
-1 + 1
+#| echo: false
+#| warning: false
+#| output: asis
+# class-output: "sourceCode r"
+
+# cat(readLines("section-work_positions.qmd"), sep = "\n")
+
 ```
