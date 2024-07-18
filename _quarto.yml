@@ -23,15 +23,14 @@ book:
 
 #https://www.andrewheiss.com/blog/2023/12/11/separate-bibliographies-quarto/
 
-filters:
-  - multibib
-validate-yaml: false
+# filters:
+#   - multibib
+# validate-yaml: false
+# 
+# citeproc: false
 
-citeproc: false
-
-bibliography: 
-  main: refs-peer-reviewed_pubs.bib
-  impact: refs-impact.bib
+bibliography: refs-peer-reviewed_pubs.bib
+csl: council-of-science-editors.csl
 
 format:
   html:
@@ -41,20 +40,21 @@ format:
     css: style.css
     fontsize: 12pt
     reference-location: margin
-    citation-location: margin
+    #citation-location: margin
   pdf:
     documentclass: report
 # https://tex.stackexchange.com/questions/36988/regarding-the-book-report-and-article-document-classes-what-are-the-mai
     toc: false
     keep-tex: false
-    cite-method: natbib
-    reference-location: margin
-    citation-location: margin
-    geometry: 
+    geometry:
       - left=.75in
       - textwidth=4.75in
       - marginparsep=.25in
       - marginparwidth=2in
 
+# nocite: |
+#    @shortkey, @shortkey2
+  
 editor: visual
 
+#https://forums.zotero.org/discussion/38693/insert-a-full-bibliographic-entry-through-the-insert-citation-function
