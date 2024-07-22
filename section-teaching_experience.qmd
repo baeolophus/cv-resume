@@ -1,35 +1,172 @@
 # Teaching Experience
 
 ## Research Data Workshops
+Teach, develop, and modify curricula to enhance researchers' abilities to process and visualize information.
 
-2018-present Library workshops UPDATE
+::: {.column-margin}
+2018-present
+:::
 
+- Developed curricula for multiple workshops
+  - Smoother Meetings
+  - Repetitive Tasks in R
+  - ggplot2 in R
+  - Troubleshooting Computer Code (collaboration with co-instructor Logan Cox)
+  - Concepts of Data-Driven Visualization
+- Co-developed curricula for multiple workshops
+  - Managing Research Files
+  - Citation management with Zotero
+  - Open Science Framework intro
+- Instructing from existing curricula
+  - R for Scientific PRogramming
+  - R for Ecology
+  - R for Social Sciences
+  - R for GIS
+    - Including modifications for 2.5 hr two session short version
+  - Tidy data/spreadsheets
+  - SQL
+  - ??
+  - Git/GitHub
+    - Including modifications for 2.5 hr two session short version
+  - Bash
+- Helping from existing curricula
+  - OpenRefine
+  - Python
+- Chairing organizational committee since its inception (2022)
+  - Repsonsible for reminding instructors of scheduling
+  - Automated emails via Zapier and Trello to instructors to remind them and to listserv to announce registration
+- Certified Carpentries instructor (as of 2019) as part of Science Librarian position
 
-2018-present Software and Data Carpentry 2-3+ workshops per semester (including lead instructor), certified Carpentries instructor (as of 2019) as part of Science Librarian position
 
 ## Library instruction
+Teach, develop, and scaffold information literacy skills to undergraduate and graduate-level STEM students
 
-2018-present Library instruction 20-50 class visits per year teaching information literacy to undergraduate and graduate classes in STEM fields at OU.
+::: {.column-margin}
+2018-present
+:::
+
+- Develop and deliver one-shot and multiple visit teaching sessions
+- Develop information literacy materials for asynchronous learning
+- Using ACRL STEM literacy framework
+- Deliver materials in-person, hybrid, and virtual
+- Teach solo, with a shadow trainee, and in collaboration (for interdisciplinary courses)
+- 20-50 class visits per year teaching information literacy to undergraduate and graduate
+classes in STEM fields
 
 ## Instructor of record
 
 ### Study Design and Quantitative Methods in Natural Resource Management {#sec-nrm-quant}
 
-2015-2016 (winter only) graduate level Two semesters\
-Co-instructor with Dr. Nicola Koper Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments. 2015 (fall) One semester Ecological Dimensions of Natural Resource Management (graduate) Sessional instructor Instructor: lecture, guide discussions, grade assignments.
+Cross-listed graduate/undergraduate lab.
+
+::: {.column-margin}
+2015-2016 (winter only)
+:::
+
+Co-instructor with Dr. Nicola Koper
+
+Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
+
+### Ecological Dimensions of Natural Resource Management
+Graduate level lecture class
+
+::: {.column-margin} 
+Fall 2015
+:::
+
+Sessional instructor: Lecture, guide discussions, grade assignments.
+
 
 ## Mentoring
 
-Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab, plus additional help to Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
+### University of Manitoba Students
 
-Alexandra Ainsworth (spring 2012): undergraduate independent study (3 credit hours); she fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Nicola Koper lab
 
-Sarai H. Stuart (January-April 2012, January-March 2013): volunteer was a recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+::: {.column-margin}
+2014-2016
+:::
+
+Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
+
+### University of Oklahoma Undergraduates
+#### Alexandra Ainsworth
+
+Independent study (3 credit hours), PI: Michael A. Patten
+
+::: {.column-margin}
+Spring 2012
+:::
+
+She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+
+#### Sarai H. Stuart
+
+Volunteer, recently graduated from OU.
+
+::: {.column-margin}
+January-April 2012, January-March 2013
+:::
+
+Volunteer was a recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+
 
 ## Graduate Teaching Assistantships
 
-2012 (spring) One semester Intro. to Evolution, Ecology, and Diversity (undergraduate, majors) Professor: Dr. Phil Gibson Graduate teaching assistant. Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments. 2009-2012 (fall only) Four semesters Entomology (undergraduate/graduate) Professor: Dr. Ken Hobson Graduate teaching assistant. Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips. 2008, 2012 (fall only) Two semesters Introductory Zoology Lab (undergraduate, non-majors) Professor: Dr. Penny Hopkins Graduate teaching assistant. Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes. 2009 (spring & fall), 2010-2011 (fall only) Four semesters Principles of Ecology (undergraduate, majors) Professor: Dr. Ken Hobson Graduate teaching assistant Discussion of concepts, guiding students through field experiments; and grading lab reports.
+### Intro. to Evolution, Ecology, and Diversity
+Undergraduate, majors lab
 
-## Undergraduate teaching assistant (volunteer)
+::: {.column-margin}
+2012 (spring) One semester  
+:::
 
-Fall 2006 and fall 2007 Two semesters Insect Biology Lab (undergraduate/graduate) Professor: Dr. James Kennedy Volunteer teaching assistant Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
+Professor: Dr. Phil Gibson 
+
+Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
+
+### Entomology
+
+Cross-listed undergraduate/graduate lab
+
+::: {.column-margin}
+2009-2012 (fall only - total four semesters)
+:::
+
+Professor: Dr. Ken Hobson (retired)
+
+Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
+
+### Introductory Zoology Lab
+Undergraduate, non-majors lab
+
+::: {.column-margin}
+Fall 2008, fall 2012
+::: 
+
+Professor: Dr. Penny Hopkins (retired)
+
+Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
+
+### Principles of Ecology
+Undergraduate, majors lab
+
+::: {.column-margin}
+2009 (spring & fall), 2010-2011 (fall only) 
+:::
+
+Professor: Dr. Ken Hobson (retired)
+
+Discussion of concepts, guiding students through field experiments; and grading lab reports.
+
+## Undergraduate Teaching Assistant (Volunteer)
+
+### Insect Biology Lab
+Cross-listed undergraduate/graduate lab
+
+::: {.column-margin}
+Fall 2006 and fall 2007
+:::
+
+Professor: Dr. James Kennedy
+
+Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
