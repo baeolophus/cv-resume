@@ -41,6 +41,9 @@ format:
     reference-location: margin
     link-citations: false
     #citation-location: margin
+  docx:
+    toc: false
+    number-sections: true
   pdf:
     documentclass: report
 # https://tex.stackexchange.com/questions/36988/regarding-the-book-report-and-article-document-classes-what-are-the-mai
