@@ -5,6 +5,9 @@ Teach, develop, and modify curricula to enhance researchers' abilities to proces
 
 ::: {.column-margin}
 2018-present
+
+@sec-science-librarian
+
 :::
 
 - Developed curricula for multiple workshops
