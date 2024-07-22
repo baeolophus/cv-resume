@@ -1,4 +1,4 @@
-# Career {.unnumbered}
+# Career
 
 I am a research librarian, specializing in STEM and quantitative, with additional experience helping researchers synthesize and analyze data.
 
@@ -13,7 +13,7 @@ Where does this show up? As a science librarian at OU Libraries in concert with 
 
 I use a wide range of software tools to explore interesting research questions from my own areas of expertise (originally in quantitative biology), in collaboration with other researchers, and now helping patrons in my current position as a science librarian. I am experienced in and enjoy helping other researchers use R and SAS, choose appropriate statistical techniques, and manage their data.
 
-This is evidenced by my certification as an instructor for Software and Data Carpentries, co-instructing graduate-level experimental design and statistics [Study Design and Quantitative Methods in Natural Resource Management](@section-teaching_experience.qmd#sec-nrm-quant) during my time at the Natural Resources Institute, and helping many patrons and collaborators with R, SAS, ArcGIS, QGIS, and statistics. This is now part of my position as a science librarian to help guide patrons to appropriate software and statistical resources. 
+This is evidenced by my certification as an instructor for Software and Data Carpentries, co-instructing graduate-level experimental design and statistics (Section @sec-nrm-quant) during my time at the Natural Resources Institute, and helping many patrons and collaborators with R, SAS, ArcGIS, QGIS, and statistics. This is now part of my position as a science librarian to help guide patrons to appropriate software and statistical resources. 
 
 
 #### Class instruction

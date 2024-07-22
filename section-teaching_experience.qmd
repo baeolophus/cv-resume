@@ -1,8 +1,11 @@
-# Teaching Experience {.unnumbered}
+# Teaching Experience
 
 ## Research Data Workshops
 
-2018-present Library workshops UPDATE 2018-present Software and Data Carpentry 2-3+ workshops per semester (including lead instructor), certified Carpentries instructor (as of 2019) as part of Science Librarian position
+2018-present Library workshops UPDATE
+
+
+2018-present Software and Data Carpentry 2-3+ workshops per semester (including lead instructor), certified Carpentries instructor (as of 2019) as part of Science Librarian position
 
 ## Library instruction
 
@@ -16,6 +19,7 @@
 Co-instructor with Dr. Nicola Koper Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments. 2015 (fall) One semester Ecological Dimensions of Natural Resource Management (graduate) Sessional instructor Instructor: lecture, guide discussions, grade assignments.
 
 ## Mentoring
+
 Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab, plus additional help to Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
 
 Alexandra Ainsworth (spring 2012): undergraduate independent study (3 credit hours); she fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
