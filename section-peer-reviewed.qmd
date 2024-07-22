@@ -1,17 +1,44 @@
 # Publications {.unnumbered}
 
-
 ## Peer-reviewed
-Projects [@pipherCattleGrazingIntensity2016]
-
 [@semenovGeographicallyConsistentHybridization2023]
 
+[@robbinsRecruitingHiringOnBoarding2022]
 
-## Popular
+[@rockwoodDistributedExpertiseLeadership2022]
+
+[@pattenForgingBayesianLink2021]
+
+[@gaffinArachnidNavigationReview2020]
+
+[@curryComplexSpatiotemporalVariation2019]
+
+[@warringtonNoiseFourTypes2018]
+
+[@curryNoiseSourceIndividual2018]
+
+[@curryVaryingDatasetResolution2018]
+
+[@curryAbilityAlterSong2017]
+
+[@pipherCattleGrazingIntensity2016]
+
+[@curryShadowDoubtPremating2016]
+
+[@koperEffectsAmbientNoise2016]
+
+[@curryIntegratedFrameworkHybrid2015]
+
+[@curryCurrentHistoricalExtent2014]
+
+[@bridgeEffectsNutritionalCondition2010]
+
+[@curryFactorsAffectingInteraction2010]
+
+
 
 ## Outreach
 
 ## Impact
 
-::: {#refs}
-:::
+## Popular

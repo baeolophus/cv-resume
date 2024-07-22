@@ -14,8 +14,6 @@ book:
     - section-work_positions.qmd
     - section-teaching_experience.qmd
     - section-peer-reviewed.qmd
-    - section-non-reviewed.qmd
-    - section-impact.qmd
     - section-professional_service.qmd
     - section-awards.qmd
     - section-funding.qmd
@@ -30,7 +28,7 @@ book:
 # citeproc: false
 
 bibliography: refs-peer-reviewed_pubs.bib
-csl: council-of-science-editors.csl
+csl: council-of-science-editors_text.csl
 
 format:
   html:
@@ -40,12 +38,15 @@ format:
     css: style.css
     fontsize: 12pt
     reference-location: margin
+    link-citations: false
     #citation-location: margin
   pdf:
     documentclass: report
 # https://tex.stackexchange.com/questions/36988/regarding-the-book-report-and-article-document-classes-what-are-the-mai
     toc: false
-    keep-tex: false
+    link-citations: false
+    number-sections: true
+    keep-tex: true
     geometry:
       - left=.75in
       - textwidth=4.75in

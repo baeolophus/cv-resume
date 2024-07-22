@@ -1,4 +1,0 @@
-# News Features and Impact {.unnumbered}
-
-::: {#refs-impact}
-:::
