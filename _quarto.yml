@@ -46,7 +46,7 @@ format:
     toc: false
     link-citations: false
     number-sections: true
-    keep-tex: true
+    keep-tex: false
     geometry:
       - left=.75in
       - textwidth=4.75in
