@@ -1,4 +1,4 @@
-# Teaching Experience
+# Teaching Experience {.unnumbered}
 
 ## Research Data Workshops
 
@@ -15,12 +15,17 @@
 2015-2016 (winter only) graduate level Two semesters\
 Co-instructor with Dr. Nicola Koper Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments. 2015 (fall) One semester Ecological Dimensions of Natural Resource Management (graduate) Sessional instructor Instructor: lecture, guide discussions, grade assignments.
 
+## Mentoring
+Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab, plus additional help to Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
+
+Alexandra Ainsworth (spring 2012): undergraduate independent study (3 credit hours); she fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+
+Sarai H. Stuart (January-April 2012, January-March 2013): volunteer was a recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+
 ## Graduate Teaching Assistantships
 
 2012 (spring) One semester Intro. to Evolution, Ecology, and Diversity (undergraduate, majors) Professor: Dr. Phil Gibson Graduate teaching assistant. Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments. 2009-2012 (fall only) Four semesters Entomology (undergraduate/graduate) Professor: Dr. Ken Hobson Graduate teaching assistant. Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips. 2008, 2012 (fall only) Two semesters Introductory Zoology Lab (undergraduate, non-majors) Professor: Dr. Penny Hopkins Graduate teaching assistant. Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes. 2009 (spring & fall), 2010-2011 (fall only) Four semesters Principles of Ecology (undergraduate, majors) Professor: Dr. Ken Hobson Graduate teaching assistant Discussion of concepts, guiding students through field experiments; and grading lab reports.
 
 ## Undergraduate teaching assistant (volunteer)
 
-Fall 2006 and fall 2007 Two semesters Insect Biology Lab (undergraduate/graduate)
-Professor: Dr. James Kennedy
-Volunteer teaching assistant Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
+Fall 2006 and fall 2007 Two semesters Insect Biology Lab (undergraduate/graduate) Professor: Dr. James Kennedy Volunteer teaching assistant Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.

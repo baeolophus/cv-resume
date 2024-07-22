@@ -10,6 +10,9 @@ University Libraries, University of Oklahoma (Norman, OK, USA)
 
 Supervisor: Karie Antell
 
+### Supervisory experience
+- Ahmed Sharaf (August 2022-August 2023): Undergraduate student web developer. professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023. 
+
 ## Post-doctoral research associate
 
 Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)
@@ -21,6 +24,9 @@ Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)
 PI: Dr. Eli S. Bridge
 
 PI: Dr. Michael A. Patten (2018)
+
+### Supervisory experience
+- Henry Dang (2017-2018?)
 
 ## Research Associate
 
@@ -41,6 +47,10 @@ Natural Resources Institute, University of Manitoba, (Winnipeg, MB, Canada)
 :::
 
 PI: Dr. Nicola Koper
+
+## Supervisory experience
+
+- 3 Field technicians summer 2015
 
 ## U.S. Forest Service Contractor
 
@@ -109,6 +119,14 @@ December 2001-February 2002
 :::
 
 Counting grassland bird species along designated transects on the Lyndon B. Johnson National Grasslands.
+
+
+
+
+
+
+
+
 
 ```{r}
 #| echo: false

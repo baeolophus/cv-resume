@@ -2,51 +2,56 @@
 
 ## Skills
 
-### Evidence Synthesis Institute
-
-August 2022 cohort.
-Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education.
-Development of Evidence Synthesis LibGuide Page for initial information for community members: https://guides.ou.edu/data_resources/synthesis 
-Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
+### Evidence synthesis
+- Evidence Synthesis Institute August 2022 cohort. Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
+- Development of Evidence Synthesis LibGuide Page for initial information for community members: https://guides.ou.edu/data_resources/synthesis Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
+- Two peer-reviewed narrative reviews (@sec-peer)
 
 ### Certified Carpentries instructor
+
 Have taught modules on Git/GitHub, Bash, OpenRefine, Tidy Data, R (both Software and Data Carpentry versions), and helped with Python
 
-### Software
+### Working with People and Organizations
+- Consultations for undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
+- Collaborating with partner organizations and co-workers 
+- Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
+- Obtaining permission for field work on private (US), state (US), and federal (US) land
+- Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
+
+
+## Software
 
 ### Statistical programs
-R 4.0+ (including package ‘tidyverse’ for data, ‘lme4’ and ‘nlme’ for mixed models, and ‘sqldf’ to perform SQL queries within R)
-	SAS 9.2+
-	
+- R 4.0+ (including package ‘tidyverse’ for data, ‘lme4’ and ‘nlme’ for mixed models, and ‘sqldf’ to perform SQL queries within R)
+- SAS 9.2+
+- SPSS
+
 ### Data management
-Databases
-	PostgreSQL database language (queries, import and export of data)
-	pgAdmin III database interface and psql command line interface for use with PostgreSQL
-	LibreOffice 3.4+ Base
-	Microsoft Access (uses jetSQL)
-Version control
-	Git
-Github.com
-	Git Large File System
+
+Databases PostgreSQL database language (queries, import and export of data) pgAdmin III database interface and psql command line interface for use with PostgreSQL LibreOffice 3.4+ Base Microsoft Access (uses jetSQL) Version control Git Github.com Git Large File System
 
 ## Citation/reference management
-	Zotero 3.0.7+ bibliography software
+- Zotero 3.0.7+ bibliography software
+
 
 ### Specialized Software
-	Raven Pro 1.5 sound analysis software
-
-	Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, 			FigTree, and MEGA 4.0
+- Raven Pro 1.5 sound analysis software
+- Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0,          FigTree, and MEGA 4.0
 
 ### Word Processing and Spreadsheets
-	Microsoft Office: Word, Access, Excel, PowerPoint, OneNote
-	LibreOffice 3.3.0+: Writer, Impress (PowerPoint equivalent), Base (Access equivalent)
-	
+
+- Microsoft Office: Word, Access, Excel, PowerPoint, OneNote
+- LibreOffice 3.3.0+: Writer, Impress (PowerPoint equivalent), Base (Access equivalent)
+
 ### Geographic Information Systems (GIS)
-	R for GIS: packages ‘rgdal’, ‘sp’, ‘sf’, ‘terra’, ‘raster’, and ‘rgeos’
-	QuantumGIS opensource GIS software v. 2.10+
-ArcGIS 9.2 and later.  Current use for consultations, past use for research, plus completed course Introduction to Geographic Information Systems course (UNT, Fall 2007).
+- R for GIS: packages ‘rgdal’, ‘sp’, ‘sf’, ‘terra’, ‘raster’, and ‘rgeos’
+- QuantumGIS opensource GIS software v. 2.10+
+- ESRI ArcGIS 9.2 and later
+  - Good relationship with vendor representatives at OU.
+  - Current use for consultations
+  - Past use for research
+  - Completed course Introduction to Geographic Information Systems course (UNT, Fall 2007)
 
 ### Graphics and Data Visualization
-	SigmaPlot 11.0
-	Inkscape 0.48 (creating vector graphics)
-
+- R package `ggplot2` and extensions such as `ggparty`
+- Inkscape 0.48 (creating vector graphics)

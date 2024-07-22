@@ -13,7 +13,7 @@ Where does this show up? As a science librarian at OU Libraries in concert with 
 
 I use a wide range of software tools to explore interesting research questions from my own areas of expertise (originally in quantitative biology), in collaboration with other researchers, and now helping patrons in my current position as a science librarian. I am experienced in and enjoy helping other researchers use R and SAS, choose appropriate statistical techniques, and manage their data.
 
-This is evidenced by my certification as an instructor for Software and Data Carpentries, co-instructing graduate-level experimental design and statistics (@sec-nrm-quant) during my time at the Natural Resources Institute, and helping many patrons and collaborators with R, SAS, ArcGIS, QGIS, and statistics. This is now part of my position as a science librarian to help guide patrons to appropriate software and statistical resources. 
+This is evidenced by my certification as an instructor for Software and Data Carpentries, co-instructing graduate-level experimental design and statistics [Study Design and Quantitative Methods in Natural Resource Management](@section-teaching_experience.qmd#sec-nrm-quant) during my time at the Natural Resources Institute, and helping many patrons and collaborators with R, SAS, ArcGIS, QGIS, and statistics. This is now part of my position as a science librarian to help guide patrons to appropriate software and statistical resources. 
 
 
 #### Class instruction
@@ -24,9 +24,6 @@ This is evidenced by my certification as an instructor for Software and Data Car
 
 In my own research, I have used a wide variety of techniques, from univariate (including basic statistics to mixed models to power analyses) to multivariate (including canonical correlation analysis to PCA to Mantel tests) statistics. I have also spoken on more than one occasion about data and project management from my experiences managing my own and others' data during my Ph.D. and post-doctoral work and instruct with The Carpentries to promote best practices in data and coding skills for scientists of all disciplines.
 
-##### Data
-
-##### Literature
 
 #### Mentoring
 
