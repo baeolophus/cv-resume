@@ -21,7 +21,7 @@ Teach, develop, and modify curricula to enhance researchers' abilities to proces
   - Citation management with Zotero
   - Open Science Framework intro
 - Instructing from existing curricula
-  - R for Scientific PRogramming
+  - R for Scientific Programming
   - R for Ecology
   - R for Social Sciences
   - R for GIS
@@ -36,7 +36,7 @@ Teach, develop, and modify curricula to enhance researchers' abilities to proces
   - OpenRefine
   - Python
 - Chairing organizational committee since its inception (2022)
-  - Repsonsible for reminding instructors of scheduling
+  - Responsible for reminding instructors of scheduling
   - Automated emails via Zapier and Trello to instructors to remind them and to listserv to announce registration
 - Certified Carpentries instructor (as of 2019) as part of Science Librarian position
 
@@ -63,7 +63,7 @@ classes in STEM fields
 Cross-listed graduate/undergraduate lab.
 
 ::: {.column-margin}
-2015-2016 (winter only)
+Winter 2015, winter 2016
 :::
 
 Co-instructor with Dr. Nicola Koper
@@ -127,7 +127,7 @@ Professor: Dr. Phil Gibson
 
 Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
 
-### Entomology
+### Entomology {#sec-teach-ento}
 
 Cross-listed undergraduate/graduate lab
 
@@ -150,7 +150,7 @@ Professor: Dr. Penny Hopkins (retired)
 
 Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
 
-### Principles of Ecology
+### Principles of Ecology {#sec-teach-ecology}
 Undergraduate, majors lab
 
 ::: {.column-margin}
@@ -167,7 +167,7 @@ Discussion of concepts, guiding students through field experiments; and grading 
 Cross-listed undergraduate/graduate lab
 
 ::: {.column-margin}
-Fall 2006 and fall 2007
+Fall 2006, fall 2007
 :::
 
 Professor: Dr. James Kennedy

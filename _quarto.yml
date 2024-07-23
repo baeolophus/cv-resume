@@ -28,6 +28,8 @@ book:
 # 
 # citeproc: false
 
+number-depth: 2
+
 bibliography: refs-peer-reviewed_pubs.bib
 csl: council-of-science-editors_text.csl
 
@@ -53,10 +55,7 @@ format:
     number-sections: true
     keep-tex: false
     geometry:
-      - left=.75in
-      - textwidth=4.75in
-      - marginparsep=.25in
-      - marginparwidth=2in
+      - papersize=letter
 
 # nocite: |
 #    @shortkey, @shortkey2

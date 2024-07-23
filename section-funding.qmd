@@ -1,93 +1,362 @@
 # Successful Funding
 
 ## Intramural
-### OU Data Institute for Societal Challenges Seed Funding
-June 2022-May 2023. Seed funding to develop Statistics Helper educational website prototype, $10,000.
-### OU College of Arts and Sciences Student Travel Fund
-August 2013, travel to joint meeting in Chicago, IL, Utah in August 2013, $750.
 
-## OU Department of Biology Travel Funding
-, May 2013, to attend Evolution 2013 meeting in Snowbird, UT in June 2013, $250.
-## M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
-summer 2012, proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department, $2500.
-## George Miksch Sutton Scholarship in Ornithology
-2012, proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse
-hybrid zone”, research equipment, travel, and lab expenses, $3500.
+### Research and Projects
 
-## OU College of Arts and Sciences Student Travel Fund
-August 2012, travel to North American Ornithological Conference in Vancouver BC in August 2012, $750.
+#### OU Data Institute for Societal Challenges Seed Funding
 
-## M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship
-2011-2012, proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses, $1000.
-## M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
-summer 2011, proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department, $2500.
-## George Miksch Sutton Scholarship in Ornithology
-2011, proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses, $6700.
-## OU Department of Zoology travel funding
-February 2011, travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011, $250.
-## OU College of Arts and Sciences Student Travel Fund
-October 2010, travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010, $750.
-## OU Robberson Travel Grant
-October 2010, travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010, $500 (granted once per degree).
-## M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship
-2010-2011, proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses, $1000.
-## M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
-summer 2010, proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below), $756.
-## George Miksch Sutton Scholarship in Ornithology
-2010, proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend, $4800.
-## OU Graduate Student Senate Research and Creative Endeavors Grant
-spring 2010; research equipment and travel to north-central Texas to examine field sites, $224.82.
-## OU Graduate Student Senate Conference and Creative Exhibition Grant
-spring 2010; lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX, $79.86.
-## OU Robberson Research Grant
-February 2010, research travel and genetic analysis costs, $1000 (granted once per degree).
-## OU Graduate Student Senate Research and Creative Endeavors Grant
-fall 2009; travel expenses to southwestern Oklahoma to examine field sites, $315.62.
-## Carl and Pat Bynum Riggs Scholarship
-Summer 2009; to defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class, $500.
-## M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
-summer 2009, proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department, $2500.
-## George Miksch Sutton Scholarship in Ornithology
-2009, proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses, $5000.
+\$10,000
+
+::: column-margin
+June 2022-August 2023
+:::
+
+Seed funding to develop Statistics Helper educational website prototype
+
+#### M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
+
+\$2500
+
+::: column-margin
+Summer 2012
+:::
+
+Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department
+
+#### George Miksch Sutton Scholarship in Ornithology
+
+\$3500
+
+::: column-margin
+2012
+:::
+
+Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+
+
+#### M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship
+
+\$1000
+
+::: column-margin
+2011-2012
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+
+#### M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
+
+\$2500
+
+::: column-margin
+Summer 2011
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+
+#### George Miksch Sutton Scholarship in Ornithology
+
+\$6700
+
+::: column-margin
+2011
+:::
+
+Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+
+#### M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship
+
+\$1000
+
+::: column-margin
+2010-2011
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+
+#### M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
+
+\$756
+
+::: column-margin
+summer 2010
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
+
+#### George Miksch Sutton Scholarship in Ornithology
+
+\$4800
+
+::: column-margin
+2010
+:::
+
+Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
+
+#### OU Graduate Student Senate Research and Creative Endeavors Grant
+\$224.82
+
+::: column-margin
+Spring 2010
+:::
+
+Research equipment and travel to north-central Texas to examine field sites
+
+
+#### OU Robberson Research Grant
+
+\$1000 (granted once per degree)
+
+::: column-margin
+February 2010
+:::
+
+Research travel and genetic analysis costs
+
+#### OU Graduate Student Senate Research and Creative Endeavors Grant
+\$315.62
+
+::: column-margin
+Fall 2009
+:::
+
+Travel expenses to southwestern Oklahoma to examine field sites
+
+#### M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
+\$2500
+
+::: column-margin
+Summer 2009
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+
+#### George Miksch Sutton Scholarship in Ornithology
+\$5000
+
+::: column-margin
+2009
+:::
+
+Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
+
+
+### Travel Awards
+
+#### OU College of Arts and Sciences Student Travel Fund
+
+\$750
+
+::: column-margin
+August 2013
+:::
+
+Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
+
+#### OU Department of Biology Travel Funding
+
+\$250
+
+::: column-margin
+May 2013
+:::
+
+To attend Evolution 2013 meeting in Snowbird, UT in June 2013
+
+#### OU College of Arts and Sciences Student Travel Fund
+
+\$750
+
+::: column-margin
+August 2012
+:::
+
+Travel to North American Ornithological Conference in Vancouver BC in August 2012
+
+#### OU Department of Zoology travel funding
+
+\$250
+
+::: column-margin
+February 2011
+:::
+
+Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
+
+#### OU College of Arts and Sciences Student Travel Fund
+
+\$750
+
+::: column-margin
+October 2010
+:::
+
+Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+
+#### OU Robberson Travel Grant
+
+\$500 (granted once per degree)
+
+::: column-margin
+October 2010
+:::
+
+Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+
+#### OU Graduate Student Senate Conference and Creative Exhibition Grant
+\$79.86
+
+::: column-margin
+Spring 2010
+:::
+
+Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
+
+#### Carl and Pat Bynum Riggs Scholarship
+\$500
+
+::: column-margin
+Summer 2009
+:::
+
+To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class 
 
 ## Extramural
 
-### Prairie Biotic Research, Inc. small grants program
-March 2018, proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”, $1500.  Co-PI Mary Curry.
+### Research
 
-## Amazon Web Services (AWS) Cloud Credits for Research program
-2017, proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”, $6500 in computing credits on AWS.
+#### Prairie Biotic Research, Inc. small grants program
 
-## American Ornithological Society Post-Doctoral Travel Award
-August 2017, to attend 2017 American Ornithology Conference in East Lansing, MI, $290.
+\$1500
 
-## Association of Field Ornithologists’ Post-Doctoral Travel Award
-August 2016, to attend NAOC2016 meeting in Washington, DC, $260.
+::: column-margin
+March 2018
+:::
 
-## American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award
-September 2014, to attend AOU/COS/SCO joint meeting in Estes Park, CO, $370.
+Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
 
+Co-PI Mary Curry
 
-## American Ornithologists Union/Cooper Ornithological Society Student Travel Award
-August 2013, to attend AOU/COS joint meeting in Chicago, IL, $333.
+#### Amazon Web Services (AWS) Cloud Credits for Research program
 
-## American Society of Naturalists Student Travel Award
-June 2013, to attend Evolution 2013 meeting in Snowbird, UT, $500.
+\$6500 in computing credits on AWS
 
-## Sigma Xi Grant-in-Aid of Research
-Spring 2012, proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites, $500.
+::: column-margin
+2017
+:::
 
-## Frank M. Chapman Memorial Fund Grant
-American Museum of Natural History, funding period 2012-2013, proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs, $2000.
+Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
 
-## Student Travel Award from 2012 North American Ornithological Conference
-in Vancouver BC, $300.
+#### Sigma Xi Grant-in-Aid of Research
 
-## Frank M. Chapman Memorial Fund Grant
-American Museum of Natural History, funding period 2011-2013, proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs, $2000.
+\$500
 
-## Oklahoma Ornithological Society
-2012, proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses, $500.
+::: column-margin
+Spring 2012
+:::
 
-## Oklahoma Ornithological Society
-2010, proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses, $400.
+Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
+
+#### American Museum of Natural History Frank M. Chapman Memorial Fund Grant
+
+\$2000
+
+::: column-margin
+2012-2013
+:::
+
+Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
+
+#### American Museum of Natural History Frank M. Chapman Memorial Fund Grant
+
+\$2000
+
+::: column-margin
+2011-2013
+:::
+
+Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
+
+#### Oklahoma Ornithological Society
+
+\$500
+
+::: column-margin
+2012
+:::
+
+Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
+
+#### Oklahoma Ornithological Society
+
+\$400
+
+::: column-margin
+2010
+:::
+
+Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
+
+### Travel Awards
+
+#### American Ornithological Society Post-Doctoral Travel Award
+
+\$290
+
+::: column-margin
+August 2017
+:::
+
+To attend 2017 American Ornithology Conference in East Lansing, MI
+
+#### Association of Field Ornithologists’ Post-Doctoral Travel Award
+
+\$260
+
+::: column-margin
+August 2016
+:::
+
+To attend NAOC2016 meeting in Washington, DC
+
+#### American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award
+
+\$370
+
+::: column-margin
+September 2014
+:::
+
+To attend AOU/COS/SCO joint meeting in Estes Park, CO
+
+#### American Ornithologists Union/Cooper Ornithological Society Student Travel Award
+
+\$333
+
+::: column-margin
+August 2013
+:::
+
+To attend AOU/COS joint meeting in Chicago, IL
+
+#### American Society of Naturalists Student Travel Award
+
+\$500
+
+::: {.column-margin}
+June 2013
+:::
+
+To attend Evolution 2013 meeting in Snowbird, UT
+
+#### Student Travel Award from 2012 North American Ornithological Conference
+
+\$300
+
+::: column-margin
+2012
+:::
+
+To attend 2012 North American Ornithological Conference in Vancouver, BC
