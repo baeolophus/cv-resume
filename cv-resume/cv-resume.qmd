@@ -4,14 +4,14 @@ format:
   quarto-cv-pdf: default
 author: Claire M. Curry
 date: last-modified
-phone: 940-600-8362
+#phone: 940-600-8362
 address: "University Libraries · University of Oklahoma · Norman, OK 73019"
 email: cmcurry@ou.edu
 fontsize: 11pt
 #fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
 #mainfont: Ubuntu # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
-#github: github # github account
+github: baeolophus #github account username
 orcid: 0000-0003-4649-7537 # orcid identifier
 osf: 94hfg # osf five character id
 #twitter: twitter # twitter handle
@@ -19,8 +19,8 @@ web: cmcurry.com
 fontawesome: yes
 nocite: '@*'
 bibliography: 
-  peer: peer_bib.bib
-  other: other_bib.bib
+  peer: refs-peer-reviewed_pubs.bib
+  impact: refs-impact.bib
 validate-yaml: false
 csl: apa-cv.csl
 format:
@@ -29,164 +29,598 @@ format:
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*University of Oklahoma* Ph.D. in Ecology and Evolutionary Biology (Zoology) \hfill 2008-2014
+
+*University of North Texas* B.S. in Biology, Chemistry minor (summa cum laude) \hfill 2005-2007
 
 # Employment
 
-## University Libraries, University of Oklahoma (Norman, OK, USA)*
+*University Libraries, University of Oklahoma (Norman, OK, USA)*
 
 Science Librarian (Senior Librarian) \hfill 2018-present
 
-## Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)
+*Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)*
 
 Post-doctoral research associate \hfill 2016-2018
 
-## Natural Resources Institute, University of Manitoba, (Winnipeg, MB, Canada)*
+*Natural Resources Institute, University of Manitoba, (Winnipeg, MB, Canada)*
 
 Research Associate \hfill 2016
 
 Post-doctoral Fellow \hfill 2014-2016
 
-## U.S. Forest Service Contractor (Decatur, TX, USA)
+*U.S. Forest Service Contractor (Decatur, TX, USA)*
 
-Contractor Lyndon B. Johnson National Grasslands \hfill March-June 2008 
+Contractor for Lyndon B. Johnson National Grasslands \hfill March-June 2008 
 
-*to conduct and design bird surveys*
+Contractor for Lyndon B. Johnson National Grasslands \hfill December 2001-February 2002
 
-Contractor \hfill December 2001-February 2002
 
-for grassland bird surveys on Lyndon B. Johnson National Grasslands
-
-## Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)
+*Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)*
 
 Undergraduate research assistant \hfill March-August 2007
 
-*Sorted aquatic invertebrates in sediment samples, identified Chironomidae subfamilies and formatted data*
-
 Undergraduate research assistant \hfill October 2005-May 2006
 
-PI: Dr. James Kennedy
+*Leon River Restoration Project (with Texas A&M University)*
+
+Seasonal Field Biologist  \hfill May-July 2006
 
 
-
-## Seasonal Field Biologist
-
-Leon River Restoration Project (with Texas A&M University)
-
- column-margin
-May-July 2006
-
-
-Field site: private properties near Gatesville, TX
-
-Point counts of birds, nest searching, fledgling searching, and entering data for one field season.
-
-## Undergraduate research assistant
-
-Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)
-
- column-margin
-October 2005-May 2006
-
-
-PI: Dr. James Kennedy
-
-Sorted aquatic invertebrates in sediment samples part-time.
-
-## Field technician
-
-Texas Agricultural Experiment Station in Vernon, TX
-
- column-margin
-June-August 2005
-
-
-Counting birds, nest searching, measuring vegetation, and sampling insects for one field season.
+*Texas Agricultural Experiment Station (Vernon, TX, USA)* 
+Field technician \hfill June-August 2005
 
 # Teaching experience
+## Research Data Workshops \hfill 2018-present
+Teach, develop, and modify curricula to enhance researchers' abilities to process and visualize information.
 
+- Software/Data Carpentries Instructor Training \hfill 2019
+- Developed curricula for multiple workshops
+  - Smoother Meetings
+  - Repetitive Tasks in R
+  - ggplot2 in R
+  - Troubleshooting Computer Code (collaboration with co-instructor Logan Cox)
+  - Concepts of Data-Driven Visualization
+- Co-developed curricula for multiple workshops
+  - Managing Research Files
+  - Citation management with Zotero
+  - Open Science Framework intro
+- Instructing from existing curricula
+  - R for Scientific Programming
+  - R for Ecology
+  - R for Social Sciences
+  - R for GIS
+    - Including modifications for 2.5 hr two session short version
+  - Tidy data/spreadsheets
+  - SQL
+  - Git/GitHub
+    - Including modifications for 2.5 hr two session short version
+  - Bash
+- Helping from existing curricula
+  - OpenRefine
+  - Python
+- Chairing organizational committee since its inception (2022)
+  - Responsible for reminding instructors of scheduling
+  - Automated emails via Zapier and Trello to instructors to remind them and to listserv to announce registration
+
+## Library instruction \hfill 2018-present
+Teach, develop, and scaffold information literacy skills to undergraduate and graduate-level STEM students
+
+- Develop and deliver one-shot and multiple visit teaching sessions
+- Develop information literacy materials for asynchronous learning
+- Using ACRL STEM literacy framework
+- Deliver materials in-person, hybrid, and virtual
+- Teach solo, with a shadow trainee, and in collaboration (for interdisciplinary courses)
+- 20-50 class visits per year teaching information literacy to undergraduate and graduate
+classes in STEM fields
+
+## Instructor of record
+- *Study Design and Quantitative Methods in Natural Resource Management*
+  - Cross-listed graduate/undergraduate lab \hfill Winter 2015, winter 2016
+  - Co-instructor with Dr. Nicola Koper
+  - Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
+
+- *Ecological Dimensions of Natural Resource Management*
+  - Graduate level lecture class \hfill Fall 2015
+  - Sessional instructor: Lecture, guide discussions, grade assignments.
+
+## Mentoring
+
+- *University of Manitoba Students* \hfill 2014-2016
+  - Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Nicola Koper lab
+  - Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
+- *University of Oklahoma Undergraduates*
+  - Alexandra Ainsworth \hfill Spring 2012
+    - Independent study (3 credit hours), PI: Michael A. Patten
+    - She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+  - Sarai H. Stuart \hfill January-April 2012, January-March 2013
+    - Volunteer
+    - Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+
+## Graduate Teaching Assistantships
+-  *Intro. to Evolution, Ecology, and Diversity*
+  - Undergraduate, majors lab \hfill spring 2012 
+  - Professor: Dr. Phil Gibson 
+  - Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
+- *Entomology*
+  - Cross-listed undergraduate/graduate lab \hfill 2009-2012 (fall only - total four semesters)
+  - Professor: Dr. Ken Hobson (retired)
+  - Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
+- *Introductory Zoology Lab*
+- Undergraduate, non-majors lab \hfill Fall 2008, fall 2012
+  - Professor: Dr. Penny Hopkins (retired)
+  - Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
+
+- *Principles of Ecology*
+  - Undergraduate, majors lab \hfill 2009 (spring & fall), 2010-2011 (fall only) 
+  - Professor: Dr. Ken Hobson (retired)
+  - Discussion of concepts, guiding students through field experiments; and grading lab reports.
+
+## Undergraduate Teaching Assistant (Volunteer)
+-  Insect Biology Lab
+  - Cross-listed undergraduate/graduate lab \hfill Fall 2006, fall 2007
+  - Professor: Dr. James Kennedy
+  - Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
 
 # Training and skills
+## Skills
+- *Working with People and Organizations*
+  - Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
+  - Collaborating with partner organizations and co-workers 
+  - Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
+  - Obtaining permission for field work on private (US), state (US), and federal (US) land
+  - Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
 
+- *Statistical Advising*
+  - Univariate statistics
+    - Generalized linear models (GLM, ANOVA, ANCOVA)
+    - Mixed model/hierarchical generalized linear models
+    - Choice of approaches (frequentist vs model selection)
+  - Multivariate statistics
+    - Decision trees
+    - Random forest
+    - Principal components analysis (PCA) and choice of ordination techniques
+    - Canonical correlation analysis
+    - Profile analysis
+- *Evidence synthesis*
+  - Evidence Synthesis Institute \hfill August 2022 cohort
+    - Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
+  - [Development of Evidence Synthesis LibGuide Page (external link)](https://guides.ou.edu/data_resources/synthesis) for initial information for community members:  Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
+  - Authored and co-authored two peer-reviewed narrative reviews
 
+## Software
 
+- *Statistical Programs*
+  - R 3.6+
+    - Research use
+    - Instruction use
+  - SAS 9.2+
+    - Research use
+    - Instruction use
+  - IBM SPSS Statistics 29+
+    - Instruction use
 
+- *Geographic Information Systems (GIS)*
+  - R for GIS
+    - Research use
+    - Instruction use
+  - Quantum GIS opensource GIS software v. 2.10+
+    - Research use
+    - Instruction use
+  - ESRI ArcGIS 9.2 and later
+    - Good relationship with vendor representatives at OU
+    - Current use for consultations
+    - Past use for research
+    - Assisting users with migration to ArcGIS Pro from ArcMap \hfill 2023
+    - Completed course Introduction to GIS course (University of North Texas) \hfill fall 2007
+
+- *Graphics and Data Visualization*
+  - R package `ggplot2` and extensions such as `ggparty`
+    - Research use
+    - Instruction use
+  - RShiny
+    - Research use
+  - Inkscape 0.48+
+    - Research use
+
+- *Data management and processing*
+  - Data wrangling
+    - R package 'tidyverse'
+      - Research use
+      - Instruction use
+    - R package 'sqldf'
+      - Research use
+    - OpenRefine
+      - Instruction use
+
+  - Version control
+    - Git for Windows, Linux, Mac
+      - Research use
+      - Instruction use
+    - GitHub.com
+      - Research use
+      - Instruction use
+    - Git Large File System for Windows
+      - Research use
+
+  - Databases
+    - SQLite and DB Browser for SQLite
+      - Instruction use
+    - PostgreSQL database language (queries, import and export of data) 
+      - Research use
+    - pgAdmin III database interface and psql command line interface for use with PostgreSQL 
+        - Research use
+    - LibreOffice 3.4+ Base
+      - Research use
+    - Microsoft Access (uses jetSQL)
+      - Research use
+      
+- *Citation/reference management*
+  - Zotero 3.0.7+ bibliography software
+    - Research use
+    - Instruction use
+
+- *Word Processing and Spreadsheets*
+  - Microsoft Office 365: Word, Access, Excel, PowerPoint, OneNote
+  - LibreOffice 3.3.0+: Writer, Impress (PowerPoint equivalent), Base (Access equivalent)
+
+- *Specialized Software*
+  - Raven Pro 1.5 sound analysis software
+    - Research use
+  - Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, FigTree, and MEGA 4.0
+    - Research use
+    
 # Publications
 
 ::: {#refs-peer}
 :::
 
-# Technical Reports
+# Media About My Work
 
-::: {#refs-other}
+::: {#refs-impact}
 :::
 
 # Awards, Honors, and Fellowships
 
-## Thomas & Catherine Luccock Library Award of Excellence \hfill May 2022 
+*Thomas & Catherine Luccock Library Award of Excellence* \hfill May 2022 
 
 University of Oklahoma Libraries “The Thomas & Catherine Luccock Library Award of Excellence is the highest honor awarded by the University of Oklahoma Libraries. This prestigious award will be presented annually to recognize and commend an individual for superior performance and contributions to the University of Oklahoma Libraries.”
 
-## Hidden Hero Award University of Oklahoma Libraries \hfill September 2021
+*Hidden Hero Award University of Oklahoma Libraries* \hfill September 2021
 
 “Going above and beyond in the performance of your job duties.”
 
-## Collaborative Spirit Award (for STEM Services team) University of Oklahoma Libraries
-
-\hfill
-April 2020
-:::
+*Collaborative Spirit Award (for STEM Services team) University of Oklahoma Libraries* \hfill April 2020
 
 “Recognizes a work team or volunteer group that successfully works together to create a product or result that was strengthened by the effort of the team."
 
-## Elective Member American Ornithology Society
-
-\hfill
-August 2017
-:::
+*Elective Member American Ornithology Society* \hfill August 2017
 
 Elected to honorary membership category recognizing contributions to ornithology.
 
-## GAANN (Graduate Assistance in Areas of National Need) Fellow Department of Education
-
-\hfill
-August 2012-March 2014 (graduation)
-:::
-
+*GAANN (Graduate Assistance in Areas of National Need) Fellow Department of Education* \hfill August 2012-March 2014
 
 Nominated by department; covers stipend, tuition, fees
 
-## Alumni Fellow University of Oklahoma Graduate College
+*Alumni Fellow University of Oklahoma Graduate College* \hfill 2008-2014
 
-\hfill
-2008-2014
-:::
+“emphasizes the recruitment and retention of outstanding graduate students”.
 
-“emphasizes the recruitment and retention of outstanding graduate students”. More information at <http://www.ou.edu/gradweb/funding_and_aid/fellowships.html>.
-
-## Biology Department Award for Excellence in Graduate Student Teaching \hfill May 2013
-
+*Biology Department Award for Excellence in Graduate Student Teaching* \hfill May 2013
 
 University of Oklahoma Department of Biology Nominated for teaching Ecology and Entomology Labs.
 
-## Best oral presentation by a graduate student \hfill October 2012
+*Best oral presentation by a graduate student* \hfill October 2012
 
 Oklahoma Ornithological Society Fall 2012 technical meeting
 
-## Spring 2005-Fall 2007 President’s List University of North Texas \hfill
+*President’s List University of North Texas* \hfill Spring 2005-Fall 2007 
 
 For 4.00 GPA while completing at least 12 credit hours in a semester
 
-## National Grasslands Prairie Partner Award \hfill
-2003
+*National Grasslands Prairie Partner Award* \hfill 2003
 
 
-(shared with M. Curry) National Grasslands Council For volunteer work at the Lyndon B. Johnson National Grasslands.
+National Grasslands Council For volunteer work at the Lyndon B. Johnson National Grasslands (shared with M. Curry).
 
 
-# Supervisory experience
+# Supervisory Experience
+- Ahmed Sharaf \hfill August 2022-August 2023
+  - Undergraduate student web developer. professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
+- Henry Dang (2017-2018)
+  - Undergraduate student cleaning and merging multiple database versions. Learned R from scratch to create package to calculate triangulation points for radio-tracked telemetry data.
+- Field technicians (3)   \hfill summer 2015
+  - Seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
 
--   3 Field technicians summer 2015
+# Funding
+## Intramural
+
+- *Research and Projects*
+  - *OU Data Institute for Societal Challenges Seed Funding*
+    - \$10,000  \hfill June 2022-August 2023
+    - Seed funding to develop Statistics Helper educational website prototype
+  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+    - \$2500 \hfill summer 2012
+    - Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department 
+  - *George Miksch Sutton Scholarship in Ornithology*
+    - \$3500 \hfill 2012
+    - Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
+    - \$1000 \hfill 2011-2012
+    - Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+    - \$2500 \hfill summer 2011
+    - Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+  - *George Miksch Sutton Scholarship in Ornithology*
+    - \$6700 \hfill 2011
+    - Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+
+  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship
+
+\$1000
+
+\hfill 2010-2011
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+
+  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
+
+\$756
+
+\hfill summer 2010
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
+
+  - *George Miksch Sutton Scholarship in Ornithology
+
+\$4800
+
+\hfill 2010
+:::
+
+Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
+
+  - *OU Graduate Student Senate Research and Creative Endeavors Grant
+\$224.82
+
+\hfill spring 2010
+:::
+
+Research equipment and travel to north-central Texas to examine field sites
+
+
+  - *OU Robberson Research Grant
+
+\$1000 (granted once per degree)
+
+\hfill February 2010
+:::
+
+Research travel and genetic analysis costs
+
+  - *OU Graduate Student Senate Research and Creative Endeavors Grant
+\$315.62
+
+\hfill fall 2009
+:::
+
+Travel expenses to southwestern Oklahoma to examine field sites
+
+  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
+\$2500
+
+\hfill summer 2009
+:::
+
+Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+
+  - *George Miksch Sutton Scholarship in Ornithology
+\$5000
+
+\hfill 2009
+:::
+
+Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
+
+
+- *Travel Awards*
+
+  - *OU College of Arts and Sciences Student Travel Fund
+
+\$750
+
+\hfill August 2013
+:::
+
+Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
+
+  - *OU Department of Biology Travel Funding
+
+\$250
+
+\hfill May 2013
+:::
+
+To attend Evolution 2013 meeting in Snowbird, UT in June 2013
+
+  - *OU College of Arts and Sciences Student Travel Fund
+
+\$750
+
+\hfill August 2012
+:::
+
+Travel to North American Ornithological Conference in Vancouver BC in August 2012
+
+  - *OU Department of Zoology travel funding
+
+\$250
+
+\hfill February 2011
+:::
+
+Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
+
+  - *OU College of Arts and Sciences Student Travel Fund
+
+\$750
+
+\hfill October 2010
+:::
+
+Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+
+  - *OU Robberson Travel Grant
+
+\$500 (granted once per degree)
+
+\hfill October 2010
+:::
+
+Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+
+  - *OU Graduate Student Senate Conference and Creative Exhibition Grant
+\$79.86
+
+\hfill spring 2010
+:::
+
+Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
+
+  - *Carl and Pat Bynum Riggs Scholarship
+\$500
+
+\hfill summer 2009
+:::
+
+To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class 
+
+## Extramural
+
+- *Research*
+
+  - *Prairie Biotic Research, Inc. small grants program
+
+\$1500
+
+\hfill March 2018
+:::
+
+Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
+
+Co-PI Mary Curry
+
+  - *Amazon Web Services (AWS) Cloud Credits for Research program
+
+\$6500 in computing credits on AWS
+
+\hfill 2017
+:::
+
+Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
+
+  - *Sigma Xi Grant-in-Aid of Research
+
+\$500
+
+\hfill spring 2012
+:::
+
+Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
+
+  - *American Museum of Natural History Frank M. Chapman Memorial Fund Grant
+
+\$2000
+
+\hfill 2012-2013
+:::
+
+Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
+
+  - *American Museum of Natural History Frank M. Chapman Memorial Fund Grant
+
+\$2000
+
+\hfill 2011-2013
+:::
+
+Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
+
+  - *Oklahoma Ornithological Society
+
+\$500
+
+\hfill 2012
+:::
+
+Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
+
+  - *Oklahoma Ornithological Society
+
+\$400
+
+\hfill 2010
+:::
+
+Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
+
+- *Travel Awards*
+
+  - *American Ornithological Society Post-Doctoral Travel Award
+
+\$290
+
+\hfill August 2017
+:::
+
+To attend 2017 American Ornithology Conference in East Lansing, MI
+
+  - *Association of Field Ornithologists’ Post-Doctoral Travel Award
+
+\$260
+
+\hfill August 2016
+:::
+
+To attend NAOC2016 meeting in Washington, DC
+
+  - *American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award
+
+\$370
+
+\hfill September 2014
+:::
+
+To attend AOU/COS/SCO joint meeting in Estes Park, CO
+
+  - *American Ornithologists Union/Cooper Ornithological Society Student Travel Award
+
+\$333
+
+\hfill August 2013
+:::
+
+To attend AOU/COS joint meeting in Chicago, IL
+
+  - *American Society of Naturalists Student Travel Award
+
+\$500
+
+\hfill June 2013
+:::
+
+To attend Evolution 2013 meeting in Snowbird, UT
+
+  - *Student Travel Award from 2012 North American Ornithological Conference
+
+\$300
+
+\hfill 2012
+:::
+
+  - *To attend 2012 North American Ornithological Conference in Vancouver, BC
 
 
 # References
