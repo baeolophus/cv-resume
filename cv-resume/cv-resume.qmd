@@ -5,7 +5,7 @@ format:
 author: Claire M. Curry
 date: last-modified
 #phone: 940-600-8362
-address: "University Libraries · University of Oklahoma · Norman, OK 73019"
+address: "data, research, librarianship · Norman, OK, USA"
 email: cmcurry@ou.edu
 fontsize: 11pt
 #fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
@@ -13,13 +13,14 @@ fontsize: 11pt
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: baeolophus #github account username
 orcid: 0000-0003-4649-7537 # orcid identifier
-osf: 94hfg # osf five character id
+#osf: 94hfg # osf five character id
 #twitter: twitter # twitter handle
 web: cmcurry.com
 fontawesome: yes
 nocite: '@*'
 bibliography: 
   peer: refs-peer-reviewed_pubs.bib
+  reports: refs-reports.bib
   impact: refs-impact.bib
 validate-yaml: false
 csl: apa-cv.csl
@@ -31,602 +32,669 @@ format:
 
 *University of Oklahoma* Ph.D. in Ecology and Evolutionary Biology (Zoology) \hfill 2008-2014
 
+-   Dissertation: "The evolution of reproductive isolation in a temporally complex passerine hybrid zone"
+-   Advisor: Dr. Michael A. Patten
+
 *University of North Texas* B.S. in Biology, Chemistry minor (summa cum laude) \hfill 2005-2007
+
+-   Honors thesis: "Factors affecting interaction rates and space use of *Plathemis lydia* (Odonata: Libellulidae)"
+-   Advisor: Dr. James H. Kennedy
 
 # Employment
 
 *University Libraries, University of Oklahoma (Norman, OK, USA)*
 
-Science Librarian (Senior Librarian) \hfill 2018-present
+-   Science Librarian \hfill 2018-present
 
 *Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)*
 
-Post-doctoral research associate \hfill 2016-2018
+-   Post-doctoral Research Associate \hfill 2016-2018
 
 *Natural Resources Institute, University of Manitoba, (Winnipeg, MB, Canada)*
 
-Research Associate \hfill 2016
+-   Research Associate \hfill 2016
 
-Post-doctoral Fellow \hfill 2014-2016
+-   Post-doctoral Fellow \hfill 2014-2016
 
 *U.S. Forest Service Contractor (Decatur, TX, USA)*
 
-Contractor for Lyndon B. Johnson National Grasslands \hfill March-June 2008 
+-   Contractor for Lyndon B. Johnson National Grasslands \hfill March-June 2008
 
-Contractor for Lyndon B. Johnson National Grasslands \hfill December 2001-February 2002
-
+-   Contractor for Lyndon B. Johnson National Grasslands \hfill December 2001-February 2002
 
 *Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)*
 
-Undergraduate research assistant \hfill March-August 2007
+-   Undergraduate Research assistant \hfill March-August 2007
 
-Undergraduate research assistant \hfill October 2005-May 2006
+-   Undergraduate Research assistant \hfill October 2005-May 2006
 
 *Leon River Restoration Project (with Texas A&M University)*
 
-Seasonal Field Biologist  \hfill May-July 2006
+-   Seasonal Field Biologist \hfill May-July 2006
 
+*Texas Agricultural Experiment Station (Vernon, TX, USA)*
 
-*Texas Agricultural Experiment Station (Vernon, TX, USA)* 
-Field technician \hfill June-August 2005
+-   Field Technician \hfill June-August 2005
+
+{{< pagebreak >}}
 
 # Teaching experience
-## Research Data Workshops \hfill 2018-present
-Teach, develop, and modify curricula to enhance researchers' abilities to process and visualize information.
 
-- Software/Data Carpentries Instructor Training \hfill 2019
-- Developed curricula for multiple workshops
-  - Smoother Meetings
-  - Repetitive Tasks in R
-  - ggplot2 in R
-  - Troubleshooting Computer Code (collaboration with co-instructor Logan Cox)
-  - Concepts of Data-Driven Visualization
-- Co-developed curricula for multiple workshops
-  - Managing Research Files
-  - Citation management with Zotero
-  - Open Science Framework intro
-- Instructing from existing curricula
-  - R for Scientific Programming
-  - R for Ecology
-  - R for Social Sciences
-  - R for GIS
-    - Including modifications for 2.5 hr two session short version
-  - Tidy data/spreadsheets
-  - SQL
-  - Git/GitHub
-    - Including modifications for 2.5 hr two session short version
-  - Bash
-- Helping from existing curricula
-  - OpenRefine
-  - Python
-- Chairing organizational committee since its inception (2022)
-  - Responsible for reminding instructors of scheduling
-  - Automated emails via Zapier and Trello to instructors to remind them and to listserv to announce registration
+## Research Data Workshops
 
-## Library instruction \hfill 2018-present
-Teach, develop, and scaffold information literacy skills to undergraduate and graduate-level STEM students
+Teach, develop, and adapt curricula to enhance researchers' abilities to process, analyze, and visualize information.
 
-- Develop and deliver one-shot and multiple visit teaching sessions
-- Develop information literacy materials for asynchronous learning
-- Using ACRL STEM literacy framework
-- Deliver materials in-person, hybrid, and virtual
-- Teach solo, with a shadow trainee, and in collaboration (for interdisciplinary courses)
-- 20-50 class visits per year teaching information literacy to undergraduate and graduate
-classes in STEM fields
+-   Software/Data Carpentries Instructor Training \hfill 2019
+-   Developed and teach curricula for multiple workshops
+    -   *Repetitive Tasks in R*
+        -   Adapted and expanded from Software Carpentry R lesson
+    -   *Visualization in R Using 'ggplot2'*
+        -   Adapted and expanded from Data Carpentry R lesson and organized around our data visualizations concept workshop (next entry)
+    -   *Survival Skills: Concepts of Data-Driven Visualization*
+    -   *Survival Skills: Using Computers for Scholarly Research*
+    -   *Smoother Meetings: Tips from Your Librarians*
+    -   *A Very Short Introduction to Geospatial R*
+        -   Adapted and shortened from Data Carpentry lessons into three 50-min lessons for cross-listed undergraduate/graduate course visits
+    -   *A Very Short Introduction to R*
+        -   Adapted and shortened from Data Carpentry lesson into one 1.25 hr session
+        -   Created modular .Rmd files to allow mix and match of lesson chunks for two different class visits (one for a cross-listed graduate/undergraduate class, and another for a senior-level undergraduate class)
+-   Co-developed and teach curricula for multiple workshops
+    -   *Survival Skills: Managing Research Files*
+    -   *Citation management with Zotero*
+    -   *Managing Research Projects with OSF*
+    -   *Survival Skills: Troubleshooting Computer Code*
+-   Maintain and update workshops in collaboration with colleagues
+    -  *Formatting Your Data for Analysis*
+        -   Adapted and shortened from Data Carpentry "tidy data" lesson
+-   Instructing from existing curricula
+    -   *R for Scientific Programming (Software Carpentry lesson)*
+    -   *Data Analysis and Visualisation in R for Ecologists (Data Carpentry lesson)*
+        -   Including modifications for 1.25-2.5 hr short version for course instruction
+    -   *R for Social Sciences (Data Carpentry lesson)*
+    -   *Introduction to R for Geospatial Data (Data Carpentry lesson)*
+    -   *Data Organization in Spreadsheets for Ecologists (Data Carpentry lesson)*
+    -   *Data Management with SQL for Ecologists (Data Carpentry lesson)*
+    -   *Tracking Changes with Version Control in Git/GitHub (Software Carpentry lesson)*
+        -   Including modifications for 2.5 hr two-session shorter version
+    -   *Unix Shell (Bash) for Beginners (Software Carpentry lesson)*
+-   Helping from existing curricula
+    -   All lessons above
+    -   *Data Cleaning with OpenRefine for Ecologists (Data Carpentry lesson)*
+    -   *Python (Software Carpentry lesson)*
 
-## Instructor of record
-- *Study Design and Quantitative Methods in Natural Resource Management*
-  - Cross-listed graduate/undergraduate lab \hfill Winter 2015, winter 2016
-  - Co-instructor with Dr. Nicola Koper
-  - Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
+## Library Instruction (need to convert to "session type" first for easier skimming like workshop section)
+-   Teach, develop, and scaffold information literacy skills to undergraduate and graduate STEM students
+    -   Develop and deliver one-shot and multiple visit teaching sessions about search tools, information literacy, and library resources
+    -   Develop new exercises and materials to teach information literacy skills in subject-specific examples in collaboration with instructors
+    -   Using ACRL Information Literacy for STEM guidelines to frame scaffolding suggestions within STEM degrees
+    -   Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach
+    -   Reached 4,010 learners in 220 sessions since July 2018-2024
+-   Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
+-   Teach solo; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
 
-- *Ecological Dimensions of Natural Resource Management*
-  - Graduate level lecture class \hfill Fall 2015
-  - Sessional instructor: Lecture, guide discussions, grade assignments.
+## Asynchronous Instruction
+
+-   Created, produced, and transcribed Video series for STEM remote research method options during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
+    -   Hosted lecture on meta-analysis
+    -   Presented videos on data licensing, finding datasets, and literature searches
+    -   Solicited guest appearances rom campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
+-   Updating, creating, and maintaining LibGuides
+    -   Centralized guide to automate updating guide assets
+    -   Updating guides to meet internal accessibility standards
+    -   Updating subject guides for my departments
+    -   Creating and updating topic guides
+        -   Data Analysis & Visualization
+        -   Research Survival Skills (shared, based on "Survival Skills" workshop series)
+        -   Citation Management with Zotero (shared)
+
+## Consultations as Instruction
+
+-   Emphasis on guiding learners to gain new skills for research independence
+    -   Interviewing patrons about their research and career goals for tailored assistance
+    -   Referrals to other liaison librarians, information specialists, and campus partners as needed
+    -   Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
+-   1,842 consultations since July 2018-2024 via email (816), virtual (626), in-person (354), phone (26), and other (20).
+    -   380 faculty sessions
+    -   898 graduate student sessions
+    -   135 post-docs/researcher sessions
+    -   101 staff sessions
+    -   233 undergraduate students sessions
+    -   95 other and unknown sessions
+
+## Instructor of Record
+
+-   *Study Design and Quantitative Methods in Natural Resource Management*
+    -   Cross-listed graduate/undergraduate \hfill winter 2015, winter 2016
+    -   Co-instructor with Dr. Nicola Koper
+    -   Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
+-   *Ecological Dimensions of Natural Resource Management*
+    -   Graduate level lecture class \hfill fall 2015
+    -   Sessional instructor: Lecture, guide discussions, grade assignments.
 
 ## Mentoring
 
-- *University of Manitoba Students* \hfill 2014-2016
-  - Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Nicola Koper lab
-  - Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
-- *University of Oklahoma Undergraduates*
-  - Alexandra Ainsworth \hfill Spring 2012
-    - Independent study (3 credit hours), PI: Michael A. Patten
-    - She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
-  - Sarai H. Stuart \hfill January-April 2012, January-March 2013
-    - Volunteer
-    - Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+-   *University of Manitoba Students* \hfill 2014-2016
+    -   Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab
+    -   Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
+-   *University of Oklahoma Undergraduates*
+    -   Alexandra Ainsworth \hfill spring 2012
+        -   Independent study (3 credit hours), PI: Dr. Michael A. Patten
+        -   She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+    -   Sarai H. Stuart \hfill January-April 2012, January-March 2013
+        -   Volunteer
+        -   Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
 
 ## Graduate Teaching Assistantships
--  *Intro. to Evolution, Ecology, and Diversity*
-  - Undergraduate, majors lab \hfill spring 2012 
-  - Professor: Dr. Phil Gibson 
-  - Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
-- *Entomology*
-  - Cross-listed undergraduate/graduate lab \hfill 2009-2012 (fall only - total four semesters)
-  - Professor: Dr. Ken Hobson (retired)
-  - Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
-- *Introductory Zoology Lab*
-- Undergraduate, non-majors lab \hfill Fall 2008, fall 2012
-  - Professor: Dr. Penny Hopkins (retired)
-  - Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
 
-- *Principles of Ecology*
-  - Undergraduate, majors lab \hfill 2009 (spring & fall), 2010-2011 (fall only) 
-  - Professor: Dr. Ken Hobson (retired)
-  - Discussion of concepts, guiding students through field experiments; and grading lab reports.
+-   *Intro. to Evolution, Ecology, and Diversity*
+    -   Undergraduate, majors lab \hfill spring 2012
+    -   Professor: Dr. Phil Gibson
+    -   Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
+-   *Entomology*
+    -   Cross-listed undergraduate/graduate lab \hfill 2009-2012 (fall only - total four semesters)
+    -   Professor: Dr. Ken Hobson (retired)
+    -   Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
+-   *Introductory Zoology Lab*
+    -   Undergraduate, non-majors lab \hfill fall 2008, fall 2012
+    -   Professor: Dr. Penny Hopkins (retired)
+    -   Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
+-   *Principles of Ecology*
+    -   Undergraduate, majors lab \hfill 2009 (spring & fall), 2010-2011 (fall only)
+    -   Professor: Dr. Ken Hobson (retired)
+    -   Discussion of concepts, guiding students through field experiments; and grading lab reports.
 
-## Undergraduate Teaching Assistant (Volunteer)
--  Insect Biology Lab
-  - Cross-listed undergraduate/graduate lab \hfill Fall 2006, fall 2007
-  - Professor: Dr. James Kennedy
-  - Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
+## Undergraduate Teaching Assistantship
+
+-   *Insect Biology Lab*
+    -   Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
+    -   Professor: Dr. James Kennedy
+    -   Volunteer
+    -   Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
 
 # Training and skills
-## Skills
-- *Working with People and Organizations*
-  - Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
-  - Collaborating with partner organizations and co-workers 
-  - Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
-  - Obtaining permission for field work on private (US), state (US), and federal (US) land
-  - Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
 
-- *Statistical Advising*
-  - Univariate statistics
-    - Generalized linear models (GLM, ANOVA, ANCOVA)
-    - Mixed model/hierarchical generalized linear models
-    - Choice of approaches (frequentist vs model selection)
-  - Multivariate statistics
-    - Decision trees
-    - Random forest
-    - Principal components analysis (PCA) and choice of ordination techniques
-    - Canonical correlation analysis
-    - Profile analysis
-- *Evidence synthesis*
-  - Evidence Synthesis Institute \hfill August 2022 cohort
-    - Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
-  - [Development of Evidence Synthesis LibGuide Page (external link)](https://guides.ou.edu/data_resources/synthesis) for initial information for community members:  Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
-  - Authored and co-authored two peer-reviewed narrative reviews
+## Skills
+
+-   *Working with People and Organizations*
+    -   Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
+    -   Collaborating with partner organizations and co-workers
+    -   Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
+    -   Maintaining communications with departmental representatives (faculty, staff, and students)
+        -   STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
+        -   Shared STEM liaison duties for departments of Psychology, Health & Exercise Science, and Chemistry & Biochemistry
+    -   Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
+    -   Obtaining permission for field work on private (US), state (US), and federal (US) land
+    -   Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
+-   *Statistical and Data Consulting*
+    -   Experimental design for field and lab work
+    -   Data collection and management
+    -   Univariate and multivariate statistical analysis
+        -   Choice of approaches (frequentist vs model selection)
+        -   Choice and guidance on specific statistical tests
+        -   Guidance checking discipline-specific literature for discipline-preferred approaches
+        -   Choice and use of statistical programming software
+- *Collection Management*
+  - Determining need for library program assessments
+  - Approving book purchase requests from my subject areas
+  - Analyzing usage provided by collections to determine journal subscription maintenance and cancellations
+  - Coordinating journal subscription requests among interested departments
 
 ## Software
 
-- *Statistical Programs*
-  - R 3.6+
-    - Research use
-    - Instruction use
-  - SAS 9.2+
-    - Research use
-    - Instruction use
-  - IBM SPSS Statistics 29+
-    - Instruction use
+-   *Statistical Programs*
+    -   R 4.0+, as well as older versions through 3.6
+    -   SAS 9.2+
+    -   IBM SPSS Statistics 29+
+-   *Geographic Information Systems (GIS)*
+    -   R packages for GIS
+    -   Quantum GIS v. 2.10+
+    -   ESRI ArcGIS 9.2+
+        -   Good relationship with vendor representatives at OU
+        -   Assisting users with workflow migration to ArcGIS Pro from ArcMap via organizing training \hfill 2023
+        -   Completed course Introduction to GIS course (University of North Texas) \hfill fall 2007
+-   *Graphics and Data Visualization*
+    -   R package `ggplot2` and extensions such as `ggparty`
+    -   RShiny
+    -   Inkscape 0.48+
+-   *Data management and processing*
+    -   Data wrangling
+        -   R package `tidyverse`
+        -   R package `sqldf`
+        -   OpenRefine
+    -   Version control
+        -   Git for Windows, Linux, Mac
+        -   GitHub.com
+        -   Git Large File System for Windows
+    -   Databases
+        -   SQLite
+        -   DB Browser for SQLite
+        -   PostgreSQL database language (queries, import and export of data)
+        -   pgAdmin III database interface and psql command line interface for use with PostgreSQL
+        -   LibreOffice 3.4+ Base
+        -   Microsoft Access (uses jetSQL)
+-   *Citation/reference management*
+    -   Zotero 3.0.7+ bibliography software
+-   *Word Processing and Spreadsheets*
+    -   Microsoft Office 365: Word, Access, Excel, PowerPoint, OneNote
+    -   LibreOffice 3.3.0+: Writer (Word equivalent), Impress (PowerPoint equivalent), Base (Access equivalent)
+-   *Specialized Software*
+    -   Raven Pro 1.5 sound analysis software
+    -   Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, FigTree, and MEGA 4.0
 
-- *Geographic Information Systems (GIS)*
-  - R for GIS
-    - Research use
-    - Instruction use
-  - Quantum GIS opensource GIS software v. 2.10+
-    - Research use
-    - Instruction use
-  - ESRI ArcGIS 9.2 and later
-    - Good relationship with vendor representatives at OU
-    - Current use for consultations
-    - Past use for research
-    - Assisting users with migration to ArcGIS Pro from ArcMap \hfill 2023
-    - Completed course Introduction to GIS course (University of North Texas) \hfill fall 2007
+## Research Methods
 
-- *Graphics and Data Visualization*
-  - R package `ggplot2` and extensions such as `ggparty`
-    - Research use
-    - Instruction use
-  - RShiny
-    - Research use
-  - Inkscape 0.48+
-    - Research use
+-   *Library and literature-based methods*
+    -   *Reproducible database searches*
+        -   Controlled vocabulary and thesaurus searches
+        -   Choosing and modifying keywords
+        -  Boolean operators and wild cards
+    -   *Evidence synthesis*
+        -   Evidence Synthesis Institute \hfill August 2022 cohort
+            -   Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
+        -   [Development of Evidence Synthesis LibGuide Page (external link)](https://guides.ou.edu/data_resources/synthesis) for initial information for community members: Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
+        -   Authored and co-authored two peer-reviewed narrative reviews
+-   *Field methods*
+    -   Design and conduct randomized stratified lichen surveys
+    -   Avian blood sampling for genetics
+    -   Banding and color-banding small songbirds
+    -   Design and conduct behavioral assays for songbirds
+    -   Design and conduct transect and point counts for grassland and shrubland birds
+    -   Nest and fledgling searching for grassland and shrubland birds
+    -   Sorting and identification of aquatic invertebrates
+    -   Vegetation measurements and habitat quantification
+    -   Terrestrial insect sampling
 
-- *Data management and processing*
-  - Data wrangling
-    - R package 'tidyverse'
-      - Research use
-      - Instruction use
-    - R package 'sqldf'
-      - Research use
-    - OpenRefine
-      - Instruction use
+## Supervisory Experience
 
-  - Version control
-    - Git for Windows, Linux, Mac
-      - Research use
-      - Instruction use
-    - GitHub.com
-      - Research use
-      - Instruction use
-    - Git Large File System for Windows
-      - Research use
+-   Ahmed Sharaf \hfill August 2022-August 2023
+    -   Undergraduate student web developer. professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
+-   Henry Dang (2017-2018)
+    -   Undergraduate student cleaning and merging multiple database versions. Mentored in R and version control from complete novice to being able to create a package to calculate triangulation points for radio-tracked telemetry data.
+-   Field technicians (3) \hfill summer 2015
+    -   Trained seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
 
-  - Databases
-    - SQLite and DB Browser for SQLite
-      - Instruction use
-    - PostgreSQL database language (queries, import and export of data) 
-      - Research use
-    - pgAdmin III database interface and psql command line interface for use with PostgreSQL 
-        - Research use
-    - LibreOffice 3.4+ Base
-      - Research use
-    - Microsoft Access (uses jetSQL)
-      - Research use
-      
-- *Citation/reference management*
-  - Zotero 3.0.7+ bibliography software
-    - Research use
-    - Instruction use
+# Work Products
 
-- *Word Processing and Spreadsheets*
-  - Microsoft Office 365: Word, Access, Excel, PowerPoint, OneNote
-  - LibreOffice 3.3.0+: Writer, Impress (PowerPoint equivalent), Base (Access equivalent)
-
-- *Specialized Software*
-  - Raven Pro 1.5 sound analysis software
-    - Research use
-  - Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, FigTree, and MEGA 4.0
-    - Research use
-    
-# Publications
+## Peer-Reviewed Publications
 
 ::: {#refs-peer}
 :::
 
-# Media About My Work
+## Technical Reports
+
+::: {#refs-reports}
+:::
+
+## Press Releases
 
 ::: {#refs-impact}
 :::
 
+## Conference Presentations
+
+-   Schilling, A., M. Laufersweiler, B. Tweedy, and **C.M. Curry**. Data workshops in support of researchers at the University of Oklahoma. OSU – Coalition for Advancing Digital Research & Education (CADRE) 2020: Stillwater, OK, USA. (Online poster available at: https://shareok.org/handle/11244/324832 )
+-   Schilling, A., B. Tweedy, and **C.M. Curry** (joint co-presenters). 2019. An Open Access Data Workshop Curriculum for Researchers. 2019 STEM Librarians South: Austin, TX, USA. (Oral presentation.)
+-   **Curry C.M.**, J.E. Ruyle, and E.S. Bridge (presenter). 2018. ETAG: An Animal Behavior Observatory for Radio Frequency Identification Technology. 2018 International Ornithological Congress, Vancouver, BC, Canada. (Poster presentation.)
+-   **Curry, C.M.** and M.A. Patten. 2018. Thresholds of Avoidance Behavior in a Declining Endemic Grouse, the Lesser Prairie-Chicken. 2018 International Ornithological Congress: Vancouver, BC, Canada. (Oral presentation.)
+-   **Curry, C.M.**, M.A. Patten, and J. Weir. 2018. Spatiotemporal structuring and genomic architecture of multiple transects across an avian hybrid zone. 2018 American Ornithology: Tucson, AZ, USA. (Oral presentation.)
+-   **Curry, C.M.**, J.E. Ruyle, and E.S. Bridge. 2018. ETAG: An Animal Behavior Observatory for Radio Frequency Identification Technology. 2018 American Ornithology: Tucson, AZ, USA. (Poster presentation.)
+-   **Curry, C.M.**, J.D. Ross, A. J. Contina, and E.S. Bridge. 2017. Testing prediction accuracy and climate change estimation with spatially explicit models for grassland birds. 2017 American Ornithology: East Lansing, MI, USA. (Oral presentation.)
+-   **Curry, C.M.**, B. Antze, M. Warrington, P. Des Brisay, P. Rosa, and N. Koper. 2016. Behavioral responses to anthropogenic noise in two species of grassland songbirds in the Canadian mixed-grass prairie. North American Ornithological Conference 2016: Washington, DC., USA. (Oral presentation.)
+-   **Curry, C.M.**, M.A. Patten, and J. Weir. 2016. Geographic and genomic clines, population structure, and range expansion in a temporally complex titmouse (Paridae) hybrid zone. North American Ornithological Conference 2016: Washington, DC., USA. (Poster presentation.)
+-   **Curry, C.M.**, B. Antze, M. Warrington, P. Des Brisay, P. Rosa, and N. Koper. 2016. Behavioural responses of two grassland songbirds to anthropogenic noise pollution. Manitoba Chapter of The Wildlife Society Annual General Meeting: Winnipeg, MB. (Oral presentation.)
+-   Koper, N., **C.M. Curry**, B. Antze, and M. Warrington. 2016. Effects of energy infrastructure operating noise on behaviour of Savannah and Baird’s sparrows. Alberta Chapter of The Wildlife Society, Drumheller, Alberta, Canada. (Oral presentation.)
+-   **Curry, C.M.**, P. Des Brisay, B. Antze, H. Nenninger, M. Warrington, and N. Koper. 2015. Behavioural response of two grassland songbirds to noise pollution from energy development in the Canadian prairie. The Wildlife Society Annual Meeting: Winnipeg, MB. (Oral presentation).
+-   Koper, N.\*, J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of oil and gas infrastructure and operating noise on grassland songbirds in Alberta. The Wildlife Society Annual Meeting: Winnipeg, MB. (Oral presentation.)
+-   **Curry, C.M.**, P. Des Brisay, B. Antze, H. Nenninger, M. Warrington, and N. Koper. 2015. Behavioural response of two grassland songbirds to noise pollution from energy development in the Canadian prairie. International Congress for Conservation Biology: Montpellier, France. (Five minute speed talk.)
+-   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, and P. Rosa. 2015. Effects of oil and gas infrastructure and operating noise on grassland songbirds in Canada. International Congress for Conservation Biology: Montpellier, France. (Oral presentation).
+-   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, H. Nenninger, P. Rosa, and C. Swider. 2015. Effects of energy infrastructure and operating noise on grassland songbirds. Alberta Chapter of the Wildlife Society: Edmonton, AB. (Oral presentation).
+-   **Curry, C.M.**, P. Des Brisay, B. Antze, H. Nenninger, and N. Koper. 2014. Effects of oil and gas infrastructure noise on Baird's Sparrow songs. Parks and Protected Areas Research Forum of Manitoba: Winnipeg, MB. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2014. Evolution of reproductive isolation in a temporally complex hybrid zone between Tufted and Black-crested Titmice (Paridae). American Ornithologists' Union/Cooper Ornithological Society/Society of Canadian Ornithologists joint meeting: Estes Park, CO. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2013. Sexual and natural selection on song across the temporally complex hybrid zone of Tufted and Black-crested Titmice (Paridae). American Ornithologists' Union/Cooper Ornithological Society joint meeting: Chicago, IL. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2013. Sexual and natural selection on song across a temporally complex passerine hybrid zone. Evolution 2013 meeting: Snowbird, UT. (Poster presentation).
+-   **Curry, C.M.** and M.A. Patten. 2012. Evolution of song variation across a complex hybrid zone in Tufted and Black-crested titmice. Oklahoma Ornithological Society meeting: Oklahoma City, OK. (Oral presentation). Won “Best Oral Presentation by a Graduate Student”.
+-   **Curry, C.M.** and M.A. Patten. 2012. Evolution of song variation across a complex hybrid zone in Tufted and Black-crested titmice. North American Ornithological Conference: Vancouver, BC. (Poster presentation).
+-   **Curry, C.M.** and M.A. Patten. 2012. Causes and consequences of song variation across a temporally complex passerine hybrid zone. First Joint Congress on Evolutionary Biology: Ottawa, ON. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2011. Causes of song variation across the titmouse hybrid zones in Oklahoma and Texas. Oklahoma Ornithological Society meeting: Edmond, OK. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Evolution 2011 meeting: Norman, OK. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting: Kearney, NE. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2010. Vocal dynamics of a complex avian hybrid zone. Oklahoma Ornithological Society meeting: Stillwater, OK. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2010. Vocal dynamics of a complex avian hybrid zone. Association of Field Ornithologists’ annual meeting: Ogden, UT. (Poster presentation.)
+-   **Curry, C.M.** and M.A. Patten. 2010. Vocal dynamics of a complex avian hybrid zone. Southwestern Association of Naturalists annual meeting: Junction, TX. (Poster presentation).
+-   **Curry, C.M.** and J.H. Kennedy. 2008. Factors affecting interaction rates and space use of Plathemis lydia (Drury 1773) (Odonata: Libellulidae). Southwestern Branch of the Entomological Society of America/Society of Southwestern Entomologists joint meeting: Fort Worth, TX. (Poster presentation).
+-   **Curry, C.M.** and J.H. Kennedy. 2008. Factors affecting interaction rates and space use of Plathemis lydia (Drury 1773) (Odonata: Libellulidae). Southwestern Association of Naturalists annual meeting: Memphis, TN. (Oral presentation).
+
+## Invited Lectures and Seminars
+
+-   **Curry, C.M.**. 2020. Zero to online in 60 seconds: moving Undergraduate Research Day to Open Science Framework. 2020 University Library Day: Norman, OK, USA. (Lightning talk via Zoom. Invited presentation.)
+-   **Curry, C.M.**, P. Des Brisay, P. Rosa, and N. Koper. 2017. Efficacy of adjusted songs for communication in noise varies with infrastructure type and hormone levels. In: Mechanisms underlying avian response to energy development (symposium). 2017 American Ornithology: East Lansing, MI, USA. (Oral presentation.)
+-   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Industrial noise and oil wells: effects on birds. University of Winnipeg, Winnipeg, Manitoba, Canada.
+-   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, M. Warrington, and H. Nenninger. 2017. Effects of noisy oil and gas infrastructure and anthropogenic noise on abundance, productivity, and behaviour of grassland songbirds. Université du Quebéc à Trois-Rivières, Quebec, Canada.
+-   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, M. Warrington, and J. Daniel. 2017. Effects of oil and gas infrastructure and anthropogenic noise on grassland songbirds. National Wildlife Research Centre Seminar Series, Carleton University, Ottawa, Ontario, Canada.
+-   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Effects of noisy petroleum infrastructure on grassland songbirds in Alberta, Canada. Entomology Department Seminar Series, University of Manitoba, Winnipeg, Manitoba, Canada.
+-   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Effects of noisy petroleum infrastructure on grassland songbirds in Alberta, Canada. St. George's University, Grenada.
+-   Koper, N., D. Bruinsma, **C.M. Curry**, L. McDonald, M. Warrington, J. Bernath-Plaisted, H. Nenninger, and E. Prokopanko. 2016. If we build it, will they come? Manitoba’s grassland birds and their native prairie habitats. Living Prairie Museum Public Lecture Series, Winnipeg, Manitoba, Canada.
+-   Koper, N., **C.M. Curry**, B. Antze, J. Daniel, H. Nenninger, J. Bernath-Plaisted, P. Rosa, and M. Warrington, M. 2016. Effects of energy infrastructure on grassland songbirds. Cenovus Lunch and Learn seminar series (invited), Cenovus Energy, Calgary, Alberta, Canada.
+-   **Curry, C.M.** 2015. Management and analysis of quantitative data. Guest lecture in Master’s Thesis Research Seminar (NRI 7262). (Invited by the instructor, Dr. John Sinclair).
+-   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of energy infrastructure and operating noise on grassland songbirds in Alberta. National Wildlife Research Centre Seminar Series, National Wildlife Research Centre, Carleton University, Ottawa, Canada.
+-   Koper, N., P. Rosa, J. Lockhart, T. Lwiwski, J. Rodgers, K. Molloy, **C.M. Curry**, S. Fischer, C. Swider, and J. Yoo. 2015. From mensurative to manipulative: diverse study designs to understand effects of anthropogenic disturbance and habitat fragmentation on grassland birds. Ontario Grassland Guild: Guelph, ON.
+-   Koper, N., J. Rodgers, J. Yoo, K. Molloy, J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of shallow gas and oil infrastructure and operating noise on grassland songbirds. Canadian Wildlife Service: Edmonton, AB.
+-   **Curry, C.M.** 2014. Adaptation and evolution: the role of evolution in conservation and management. Guest lecture in Ecological Dimensions of Resource and Environmental Management (NRI7232). Natural Resources Institute, University of Manitoba, Winnipeg, MB. (Invited by the instructor, Dr. Nicola Koper).
+-   **Curry, C.M.** 2014. Evolution of reproductive isolation in a temporally complex songbird hybrid zone. Seminar at Natural Resources Institute, University of Manitoba, Winnipeg, MB. (Oral presentation).
+-   **Curry, C.M.** 2013. The evolution of reproductive isolation in a temporally complex passerine hybrid zone. Ecology and Evolutionary Biology seminar at Kansas State University: Manhattan, KS. (Invited seminar, host Dr. Brett Sandercock).
+-   **Curry, C.M.** 2013. The evolution of reproductive isolation in a temporally complex passerine hybrid zone. Biology department seminar, University of Oklahoma: Norman, OK. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Ecology and Evolutionary Biology seminar (“Ecomunch”) at University of Oklahoma: Norman, OK. (Oral presentation).
+-   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Graduate College Student Research and Performance Day, University of Oklahoma: Norman, OK. (Poster presentation).
+-   **Curry, C.M.** and M.A. Patten. 2010. Song differences between Tufted and Black-crested Titmouse. Graduate College Student Research and Performance Day, University of Oklahoma: Norman, OK. (Poster presentation).
+-   **Curry, C.M.** 2009. Genetic and behavioral dynamics in a complex avian hybrid zone. Ecology and Evolutionary Biology seminar (“Ecomunch”) at University of Oklahoma: Norman, OK. (Oral presentation).
+
 # Awards, Honors, and Fellowships
 
-*Thomas & Catherine Luccock Library Award of Excellence* \hfill May 2022 
+*Thomas & Catherine Luccock Library Award of Excellence* \hfill May 2022
 
-University of Oklahoma Libraries “The Thomas & Catherine Luccock Library Award of Excellence is the highest honor awarded by the University of Oklahoma Libraries. This prestigious award will be presented annually to recognize and commend an individual for superior performance and contributions to the University of Oklahoma Libraries.”
+-   University of Oklahoma Libraries “The Thomas & Catherine Luccock Library Award of Excellence is the highest honor awarded by the University of Oklahoma Libraries. This prestigious award will be presented annually to recognize and commend an individual for superior performance and contributions to the University of Oklahoma Libraries.”
 
 *Hidden Hero Award University of Oklahoma Libraries* \hfill September 2021
 
-“Going above and beyond in the performance of your job duties.”
+-   “Going above and beyond in the performance of your job duties.”
 
 *Collaborative Spirit Award (for STEM Services team) University of Oklahoma Libraries* \hfill April 2020
 
-“Recognizes a work team or volunteer group that successfully works together to create a product or result that was strengthened by the effort of the team."
+-   “Recognizes a work team or volunteer group that successfully works together to create a product or result that was strengthened by the effort of the team."
 
 *Elective Member American Ornithology Society* \hfill August 2017
 
-Elected to honorary membership category recognizing contributions to ornithology.
+-   Elected to honorary membership category recognizing contributions to ornithology.
 
 *GAANN (Graduate Assistance in Areas of National Need) Fellow Department of Education* \hfill August 2012-March 2014
 
-Nominated by department; covers stipend, tuition, fees
+-   Nominated by department; covers stipend, tuition, fees
 
 *Alumni Fellow University of Oklahoma Graduate College* \hfill 2008-2014
 
-“emphasizes the recruitment and retention of outstanding graduate students”.
+-   “emphasizes the recruitment and retention of outstanding graduate students”.
 
 *Biology Department Award for Excellence in Graduate Student Teaching* \hfill May 2013
 
-University of Oklahoma Department of Biology Nominated for teaching Ecology and Entomology Labs.
+-   University of Oklahoma Department of Biology Nominated for teaching Ecology and Entomology Labs.
 
 *Best oral presentation by a graduate student* \hfill October 2012
 
-Oklahoma Ornithological Society Fall 2012 technical meeting
+-   Oklahoma Ornithological Society Fall 2012 technical meeting
 
-*President’s List University of North Texas* \hfill Spring 2005-Fall 2007 
+*President’s List University of North Texas* \hfill spring 2005-fall 2007
 
-For 4.00 GPA while completing at least 12 credit hours in a semester
+-   For 4.00 GPA while completing at least 12 credit hours in a semester
 
 *National Grasslands Prairie Partner Award* \hfill 2003
 
+-   National Grasslands Council For volunteer work at the Lyndon B. Johnson National Grasslands (shared with Mary Curry).
 
-National Grasslands Council For volunteer work at the Lyndon B. Johnson National Grasslands (shared with M. Curry).
+# Service
 
+## Departmental
 
-# Supervisory Experience
-- Ahmed Sharaf \hfill August 2022-August 2023
-  - Undergraduate student web developer. professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
-- Henry Dang (2017-2018)
-  - Undergraduate student cleaning and merging multiple database versions. Learned R from scratch to create package to calculate triangulation points for radio-tracked telemetry data.
-- Field technicians (3)   \hfill summer 2015
-  - Seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
+-   Research Workshops Committee (chair) for University Libraries \hfill 2021-present
+
+    -- Documentation of procedures for committee, workshop organization, and scheduling in coordination with University Libraries Marketing and Communcation and later OU Marketing and Communication to ensure timely and consistent outreach
+
+    -   Standardization of accessibility notices to include default captioning, modality, and logistics
+    -   Responsible for reminding instructors of scheduling
+    -   Automated reminder and registration emails via Zapier and Trello
+    -   Created cross-training document to find substitute instructors, helpers, and understand organizational needs for software instructors
+    -   Created RACI chart for team to understand who to contact during cancellations or rescheduling
+
+-   Hiring committee (chair) for University Libraries STEM Instruction Librarian – 2024 (in progress)
+
+-   Hiring committee for University Libraries National Weather Center Branch Library Manager – 2023 (successful search)
+
+-   UL Awards committee (2023) Hiring committee for University Libraries Liaison Coordinator – 2022-2023 (unsuccessful searches)
+
+-   Hiring committee for University Libraries Marketing & Communication Search – 2021 (successful search)
+
+-   Successful proposal (with assistance from LGBTQIA+ colleagues) to add option for pronouns to official University Libraries name badges for faculty/staff - 2021
+
+-   Department of Biology Graduate Selections Committee graduate student representative (2010-2013 academic years); provide comments on new graduate student applications to the department.
+
+-   Founded and organize Ecology Journal Club at OU with weekly discussions by students and faculty of published papers (fall 2011-fall 2013; responsibilities passed to a new student during my last semester of spring 2014 and meetings continued through 2018).
+
+## University
+
+-   Institutional Animal Care and Use Committee Scientist Member, February 2021-present
+-   OU Coding Outreach for Data Education (CODE) Workshop helper for R and Python: fall 2020, fall 2021, fall 2022.
+-   Judge for OU Honors College Undergraduate Research Day, April 2020.
+-   Judge for OU Honors College Undergraduate Research Day, April 2019.
+-   Reviewer for OU School of Architecture Program for Research Enhancement to provide layperson’s feedback: fall 2018, spring 2019, fall 2019.
+-   Software and Data Carpentry helper and instructor: 2017-present.
+-   Guest panelist in Earth Observation Science for Society and Sustainability (EOS 3) interdisciplinary certificate program class on “Building a better Ph.D. or M.S.” August 28, 2017. Class taught by Drs. Jeff Kelly, Andrea Contina, and Sara Mata, University of Oklahoma, Norman, OK, USA.
+-   Nominated to serve as a OU Graduate College Academic Appeals and Misconduct student panelist (2011-2012 academic year); nominated by the OU Department of Zoology’s Graduate Liaison for being “an experienced Graduate Student and hav\[ing\] demonstrated the qualities necessary to serve as an Appeals or Misconduct panelist such as judgment, discretion and commitment.”
+
+## Peer reviewer
+
+[Publons profile (external link)](https://publons.com/a/1187905/)
+
+-   Auk: Ornithological Advances
+-   Avian Conservation and Ecology
+-   Condor (now Ornithological Applications)
+    -   Member of the Cooper Ornithological Society's Early Career Editorial Board for Condor (2011-2012; graduated from the board at the end of that period).
+-   Diversity and Distributions
+-   Ecology and Evolution
+-   Environmental Pollution
+-   Evidence-based Toxicology
+-   Ibis
+-   Journal of Applied Ecology
+-   Northeastern Naturalist
+-   Rangeland Ecology and Management
+-   Wilson Journal of Ornithology
+
+## External
+
+-   Instructor on TAGS (Geolocator Data Cleaning website) at Geolocation Workshop August 18-19, 2018. Preceding International Ornithological Congress: Vancouver, BC, Canada.
+-   Session Chair (“Evolution”), 2018 American Ornithology Conference: Tuscon, AZ, USA.
+-   Judged student presentations (oral presentations and posters) at 2018 American Ornithology Conference: Tuscon, AZ, USA.
+-   Session Chair (“Landscape ecology”), 2017 American Ornithology Conference: East Lansing, MI, USA.
+-   Judged student presentations (oral presentations and posters) at 2017 American Ornithology Conference: East Lansing, MI, USA.
+-   Judged undergraduate presentations (oral presentations and posters) at North American Ornithological Conference 2016: Washington, DC., USA.
+-   Presented and led discussion on project and risk management during Critical Skills for the Early Career Professional workshop at 2015 The Wildlife Society Meeting, Winnipeg, MB, October 2015.
+-   Panelist on careers in biology at Prairie University Biology Symposium, Winnipeg, MB, February 2015; one of three early career biologists answering questions from graduate students.
+-   Undergraduate Diversity Mentor for two undergraduates attending the Evolution 2013 meeting in Snowbird, UT.
+-   Session Chair (“Diseases/parasites”), NAOC-V meeting, 14-18 August 2012, Vancouver BC.
+-   Volunteer, Evolution 2011 meeting, 17-21 July, Norman OK; driving van.
+-   Session Chair (“Diversification- Birds”), Evolution 2011 meeting, 17-21 July 2011, Norman OK.
+
+## Community
+
+-   *Presentations*
+    -   **Curry, C.M.** 14 Feb. 2019. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Fort Worth Audubon Society: Fort Worth, TX. (Public talk).
+    -   **Curry, C.M.** 22 Jan. 2018. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
+    -   **Curry, C.M.** 2015. Evolution in action in Oklahoma and Texas. Presentations via teleconference to high school students in Jenks, Oklahoma AP Environmental Science classes (four periods, Mr. Bryan Yockers) about the evolution of reproductive isolation in titmice.
+    -   **Curry, C.M.** 2012. Titmice in Oklahoma and Texas: what makes a hybrid zone? Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
+    -   **Curry, C.M.** 2009. Hybrid zones: titmice and the nature of species. Darwin-a-thon public education event at University of Oklahoma: Norman, OK. (Public talk).
+    -   Have co-presented talks about birds and ecology to Denton County Master Gardeners (TX), Elm Fork Chapter of Texas Master Naturalists, Decatur Lions’ Club, Tallgrass Prairie Audubon Society, Girl Scouts, Boy Scouts, elementary school students in Decatur, TX, and 2001, 2006, and 2007 JAKES (Juniors Acquiring Knowledge, Ethics, and Sportsmanship) events (U.S. Forest Service; Texas Parks and Wildlife) at the Lyndon B. Johnson National Grasslands.
+-   *Popular articles*
+    -   Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger. September 2002-September 2007, volunteer columnist; November 2007-October 2013, paid columnist. Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
+    -   **Curry, Claire**. 2004. West Nile virus: birds, people, and Texas.” Texas Birds 5(1):14-16.
+        -   A short review of West Nile Virus after its initial outbreak.
+    -   **Curry, Claire**. 2004. Killer meadowlarks. Texas Birds 5(1):29-30.
+        -   Observations on an Eastern Meadowlark killing American Goldfinches during a winter storm.
+    -   **Curry, Claire**. 2004. Flight path: Young Birder of the Year contest \~ A birding essay: Stubs. Birding August 36(4):354-356.
+        -   Observations on a female Archilochus sp. hummingbird with a broken beak.
+    -   **Curry, Claire**. 2004. Real birders drool. IN Claire Curry, Robert M. Milardo, and Richard Frechette. 2004. Dimensions: Three flights of fancy. Birding 36(3):288-289.
+        -   Humorous essay on the canine birding experience.
+    -   **Curry, Claire**. 2002. The tail of an unfortunate chickadee. Winging It 14(2):4.
+        -   Description of a Carolina Chickadee trapped in an Argiope sp. spider web.
+-   *Additional STEM outreach*
+    -   Co-led nature walk for National Trails Day at Fort Richardson State Park, TX, with park manager in June 2012.
+    -   Expert biologist at 2011 BioBlitz Oklahoma at Chickasaw National Recreation Area, Murray County, OK Guided bird walk for Fort Griffin State Historic Site, TX, June 2011.
+    -   Co-led monthly field trips to the Lyndon B. Johnson National Grasslands from February 2004 to January 2005.
+    -   Compiled checklists of Wise County birds and butterflies for distribution at the U.S. Forest Service office in Decatur, TX.
+    -   Participated in Wise County Christmas Bird Count circle from 2000-2007.
+    -   Participated in Project Prairie Birds in winters of 2002-2006 on the Lyndon B. Johnson National Grasslands.
+    -   Co-editor of Tall Grass Tales, newsletter of Tallgrass Prairie Audubon Society, from December 2001 to October 2004.
+    -   Assisted in preparing bird specimens and mounts for display at the U.S. Forest Service office in Decatur, TX.
+    -   Completed volunteer hours and advanced training hours for Elm Fork chapter of Texas Master Naturalist program, Class of 2000. Certified from 2000 to 2006; ended service to focus on undergraduate degree.
 
 # Funding
+
 ## Intramural
 
-- *Research and Projects*
-  - *OU Data Institute for Societal Challenges Seed Funding*
-    - \$10,000  \hfill June 2022-August 2023
-    - Seed funding to develop Statistics Helper educational website prototype
-  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-    - \$2500 \hfill summer 2012
-    - Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department 
-  - *George Miksch Sutton Scholarship in Ornithology*
-    - \$3500 \hfill 2012
-    - Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
-  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
-    - \$1000 \hfill 2011-2012
-    - Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
-  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-    - \$2500 \hfill summer 2011
-    - Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
-  - *George Miksch Sutton Scholarship in Ornithology*
-    - \$6700 \hfill 2011
-    - Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
-
-  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship
-
-\$1000
-
-\hfill 2010-2011
-:::
-
-Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
-
-  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
-
-\$756
-
-\hfill summer 2010
-:::
-
-Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
-
-  - *George Miksch Sutton Scholarship in Ornithology
-
-\$4800
-
-\hfill 2010
-:::
-
-Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
-
-  - *OU Graduate Student Senate Research and Creative Endeavors Grant
-\$224.82
-
-\hfill spring 2010
-:::
-
-Research equipment and travel to north-central Texas to examine field sites
-
-
-  - *OU Robberson Research Grant
-
-\$1000 (granted once per degree)
-
-\hfill February 2010
-:::
-
-Research travel and genetic analysis costs
-
-  - *OU Graduate Student Senate Research and Creative Endeavors Grant
-\$315.62
-
-\hfill fall 2009
-:::
-
-Travel expenses to southwestern Oklahoma to examine field sites
-
-  - *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship
-\$2500
-
-\hfill summer 2009
-:::
-
-Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
-
-  - *George Miksch Sutton Scholarship in Ornithology
-\$5000
-
-\hfill 2009
-:::
-
-Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
-
-
-- *Travel Awards*
-
-  - *OU College of Arts and Sciences Student Travel Fund
-
-\$750
-
-\hfill August 2013
-:::
-
-Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
-
-  - *OU Department of Biology Travel Funding
-
-\$250
-
-\hfill May 2013
-:::
-
-To attend Evolution 2013 meeting in Snowbird, UT in June 2013
-
-  - *OU College of Arts and Sciences Student Travel Fund
-
-\$750
-
-\hfill August 2012
-:::
-
-Travel to North American Ornithological Conference in Vancouver BC in August 2012
-
-  - *OU Department of Zoology travel funding
-
-\$250
-
-\hfill February 2011
-:::
-
-Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
-
-  - *OU College of Arts and Sciences Student Travel Fund
-
-\$750
-
-\hfill October 2010
-:::
-
-Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
-
-  - *OU Robberson Travel Grant
-
-\$500 (granted once per degree)
-
-\hfill October 2010
-:::
-
-Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
-
-  - *OU Graduate Student Senate Conference and Creative Exhibition Grant
-\$79.86
-
-\hfill spring 2010
-:::
-
-Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
-
-  - *Carl and Pat Bynum Riggs Scholarship
-\$500
-
-\hfill summer 2009
-:::
-
-To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class 
+-   *Research and Projects*
+    -   *OU Data Institute for Societal Challenges Seed Funding*
+        -   \$10,000 \hfill June 2022-August 2023
+        -   Seed funding to develop Statistics Helper educational website prototype
+    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+        -   \$2500 \hfill summer 2012
+        -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department
+    -   *George Miksch Sutton Scholarship in Ornithology*
+        -   \$3500 \hfill 2012
+        -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
+        -   \$1000 \hfill 2011-2012
+        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+        -   \$2500 \hfill summer 2011
+        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+    -   *George Miksch Sutton Scholarship in Ornithology*
+        -   \$6700 \hfill 2011
+        -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
+        -   \$1000 \hfill 2010-2011
+        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+        -   \$756 \hfill summer 2010
+        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
+    -   *George Miksch Sutton Scholarship in Ornithology*
+        -   \$4800 \hfill 2010
+        -   Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
+    -   *OU Graduate Student Senate Research and Creative Endeavors Grant*
+        -   \$224.82 \hfill spring 2010
+        -   Research equipment and travel to north-central Texas to examine field sites
+    -   *OU Robberson Research Grant*
+        -   \$1000 (granted once per degree) \hfill February 2010
+        -   Research travel and genetic analysis costs
+    -   *OU Graduate Student Senate Research and Creative Endeavors Grant*
+        -   \$315.62 \hfill fall 2009
+        -   Travel expenses to southwestern Oklahoma to examine field sites
+    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+        -   \$2500 \hfill summer 2009
+        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+    -   *George Miksch Sutton Scholarship in Ornithology*
+        -   \$5000 \hfill 2009
+        -   Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
+-   *Travel Awards*
+    -   *OU College of Arts and Sciences Student Travel Fund*
+        -   \$750 \hfill August 2013
+        -   Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
+    -   *OU Department of Biology Travel Funding*
+        -   \$250 \hfill May 2013
+        -   To attend Evolution 2013 meeting in Snowbird, UT in June 2013
+    -   *OU College of Arts and Sciences Student Travel Fund*
+        -   \$750 \hfill August 2012
+        -   Travel to North American Ornithological Conference in Vancouver BC in August 2012
+    -   *OU Department of Zoology travel funding*
+        -   \$250 \hfill February 2011
+        -   Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
+    -   *OU College of Arts and Sciences Student Travel Fund*
+        -   \$750 \hfill October 2010
+        -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+    -   *OU Robberson Travel Grant*
+        -   \$500 (granted once per degree) \hfill October 2010
+        -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+    -   *OU Graduate Student Senate Conference and Creative Exhibition Grant*
+        -   \$79.86 \hfill spring 2010
+        -   Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
+    -   *Carl and Pat Bynum Riggs Scholarship*
+        -   \$500 \hfill summer 2009
+        -   To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class
 
 ## Extramural
 
-- *Research*
+-   *Research*
+    -   *Prairie Biotic Research, Inc. small grants program*
+        -   \$1500 \hfill March 2018
+        -   Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
+        -   Co-PI Mary Curry
+    -   *Amazon Web Services (AWS) Cloud Credits for Research program*
+        -   \$6500 in computing credits on AWS \hfill 2017
+        -   Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
+    -   *Sigma Xi Grant-in-Aid of Research*
+        -   \$500 \hfill spring 2012
+        -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
+    -   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
+        -   \$2000 \hfill 2012-2013
+        -   Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
+    -   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
+        -   \$2000 \hfill 2011-2013
+        -   Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
+    -   *Oklahoma Ornithological Society*
+        -   \$500 \hfill 2012
+        -   Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
+    -   *Oklahoma Ornithological Society*
+        -   \$400 \hfill 2010
+        -   Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
+-   *Travel Awards*
+    -   *American Ornithological Society Post-Doctoral Travel Award*
+        -   \$290 \hfill August 2017
+        -   To attend 2017 American Ornithology Conference in East Lansing, MI
+    -   *Association of Field Ornithologists’ Post-Doctoral Travel Award*
+        -   \$260 \hfill August 2016
+        -   To attend NAOC2016 meeting in Washington, DC
+    -   *American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award*
+        -   \$370 \hfill September 2014
+        -   To attend AOU/COS/SCO joint meeting in Estes Park, CO
+    -   *American Ornithologists Union/Cooper Ornithological Society Student Travel Award*
+        -   \$333 \hfill August 2013
+        -   To attend AOU/COS joint meeting in Chicago, IL
+    -   *American Society of Naturalists Student Travel Award*
+        -   \$500 \hfill June 2013
+        -   To attend Evolution 2013 meeting in Snowbird, UT
+    -   *Student Travel Award from 2012 North American Ornithological Conference*
+        -   \$300 \hfill 2012
+        -   To attend 2012 North American Ornithological Conference in Vancouver, BC
 
-  - *Prairie Biotic Research, Inc. small grants program
+{{< pagebreak >}}
 
-\$1500
+# Memberships
 
-\hfill March 2018
-:::
+*American Statistical Association*
 
-Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
+-   Education Section and Oklahoma Chapter \hfill 2022-present
 
-Co-PI Mary Curry
+*American Ornithological Society*
 
-  - *Amazon Web Services (AWS) Cloud Credits for Research program
+-   Elective Member \hfill 2017-present
 
-\$6500 in computing credits on AWS
+-   Member \hfill 2010-2016
 
-\hfill 2017
-:::
+*Association of Field Ornithologists*
 
-Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
+-   Member \hfill 2012-2022
 
-  - *Sigma Xi Grant-in-Aid of Research
+*Research Data Preservation Association*
 
-\$500
+-   Member \hfill 2018-2019
 
-\hfill spring 2012
-:::
-
-Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
-
-  - *American Museum of Natural History Frank M. Chapman Memorial Fund Grant
-
-\$2000
-
-\hfill 2012-2013
-:::
-
-Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
-
-  - *American Museum of Natural History Frank M. Chapman Memorial Fund Grant
-
-\$2000
-
-\hfill 2011-2013
-:::
-
-Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
-
-  - *Oklahoma Ornithological Society
-
-\$500
-
-\hfill 2012
-:::
-
-Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
-
-  - *Oklahoma Ornithological Society
-
-\$400
-
-\hfill 2010
-:::
-
-Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
-
-- *Travel Awards*
-
-  - *American Ornithological Society Post-Doctoral Travel Award
-
-\$290
-
-\hfill August 2017
-:::
-
-To attend 2017 American Ornithology Conference in East Lansing, MI
-
-  - *Association of Field Ornithologists’ Post-Doctoral Travel Award
-
-\$260
-
-\hfill August 2016
-:::
-
-To attend NAOC2016 meeting in Washington, DC
-
-  - *American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award
-
-\$370
-
-\hfill September 2014
-:::
-
-To attend AOU/COS/SCO joint meeting in Estes Park, CO
-
-  - *American Ornithologists Union/Cooper Ornithological Society Student Travel Award
-
-\$333
-
-\hfill August 2013
-:::
-
-To attend AOU/COS joint meeting in Chicago, IL
-
-  - *American Society of Naturalists Student Travel Award
-
-\$500
-
-\hfill June 2013
-:::
-
-To attend Evolution 2013 meeting in Snowbird, UT
-
-  - *Student Travel Award from 2012 North American Ornithological Conference
-
-\$300
-
-\hfill 2012
-:::
-
-  - *To attend 2012 North American Ornithological Conference in Vancouver, BC
-
+{{< pagebreak >}}
 
 # References
 
-- Ms. Sarah Robbins
-- Ms. Karie Antell
-- Dr. Michael Patten
-- Dr. Eli Bridge
-- Dr. Nicola Koper
+-   Ms. Karie Antell
+    -   Current supervisor
+    -   Head of Library Instruction and Liaison Services, University of Oklahoma Libraries
+    -   Email: kantell\@ou.edu
+-   Ms. Sarah Robbins
+    -   Past supervisor
+    -   Senior Director, Strategic & Research Initiatives, University of Oklahoma Libraries
+    -   Email: srobbins\@ou.edu
+-   Dr. Michael A. Patten
+    -   PhD advisor, post-doc supervisor
+    -   Professor, Faculty of Biosciences and Aquaculture, Nord University
+    -   Email: michael.a.patten\@nord.no
+-   Dr. Eli Bridge
+    -   Post-doc supervisor
+    -   Director, Oklahoma Biological Survey
+    -   Email: ebridge\@ou.edu
+-   Dr. Nicola Koper
+    -   Post-doc supervisor
+    -   Dean, Faculty of Environment, University of Northern British Columbia
+    -   Email: Nicola.Koper\@unbc.ca

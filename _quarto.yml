@@ -10,15 +10,15 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - section-education.qmd
-    - section-work_positions.qmd
-    - section-teaching_experience.qmd
-    - section-products.qmd
-    - section-professional_service.qmd
-    - section-awards.qmd
-    - section-funding.qmd
-    - section-memberships.qmd
-    - section-training_skills.qmd
+    # - section-education.qmd
+    # - section-work_positions.qmd
+    # - section-teaching_experience.qmd
+    # - section-products.qmd
+    # - section-professional_service.qmd
+    # - section-awards.qmd
+    # - section-funding.qmd
+    # - section-memberships.qmd
+    # - section-training_skills.qmd
 
 #https://www.andrewheiss.com/blog/2023/12/11/separate-bibliographies-quarto/
 
