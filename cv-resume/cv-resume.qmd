@@ -123,22 +123,30 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
     -   *Python (Software Carpentry lesson)*
 
 ## Library Instruction (need to convert to "session type" first for easier skimming like workshop section)
--   Teach, develop, and scaffold information literacy skills to undergraduate and graduate STEM students
-    -   Develop and deliver one-shot and multiple visit teaching sessions about search tools, information literacy, and library resources
-    -   Develop new exercises and materials to teach information literacy skills in subject-specific examples in collaboration with instructors
-    -   Using ACRL Information Literacy for STEM guidelines to frame scaffolding suggestions within STEM degrees
-    -   Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach
-    -   Reached 4,010 learners in 220 sessions since July 2018-2024
--   Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
--   Teach solo; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
+
+Reached 4,010 learners in 220 sessions since July 2018-2024.
+
+- *Information literacy for STEM courses*
+  - Teach, develop, and scaffold information literacy skills to undergraduate and graduate STEM students
+  - Develop and deliver one-shot and multiple visit teaching sessions about search tools, information literacy, and library resources
+  - Develop new exercises and materials to teach information literacy skills in subject-specific examples in collaboration with instructors
+  - Using ACRL Information Literacy for STEM guidelines to frame scaffolding suggestions within STEM degrees
+  - Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach
+- *Introduction to library resources/ OU Libraries welcome presentations*
+  - Orientations and professional development classes for graduate STEM programs
+  - First Year Research Experience class
+  - On request by course instructors
+
+
 
 ## Asynchronous Instruction
 
--   Created, produced, and transcribed Video series for STEM remote research method options during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
+- *Video series for STEM remote research method options*
+  - Created, produced, and transcribed during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
     -   Hosted lecture on meta-analysis
     -   Presented videos on data licensing, finding datasets, and literature searches
-    -   Solicited guest appearances rom campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
--   Updating, creating, and maintaining LibGuides
+    -   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
+- *University of Oklahoma Libraries LibGuides*
     -   Centralized guide to automate updating guide assets
     -   Updating guides to meet internal accessibility standards
     -   Updating subject guides for my departments
@@ -146,20 +154,19 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
         -   Data Analysis & Visualization
         -   Research Survival Skills (shared, based on "Survival Skills" workshop series)
         -   Citation Management with Zotero (shared)
-
+- *Tutorials*
+  - 
+  
+  
 ## Consultations as Instruction
-
--   Emphasis on guiding learners to gain new skills for research independence
-    -   Interviewing patrons about their research and career goals for tailored assistance
-    -   Referrals to other liaison librarians, information specialists, and campus partners as needed
-    -   Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
--   1,842 consultations since July 2018-2024 via email (816), virtual (626), in-person (354), phone (26), and other (20).
-    -   380 faculty sessions
-    -   898 graduate student sessions
-    -   135 post-docs/researcher sessions
-    -   101 staff sessions
-    -   233 undergraduate students sessions
-    -   95 other and unknown sessions
+- *Data, reference, and statistical consultations*
+  - 1,842 consultations since July 2018-2024 via email (816), virtual (626), in-person (354), phone (26), and other (20).
+    - 380 faculty sessions
+    - 898 graduate student sessions
+    - 135 post-docs/researcher sessions
+    - 101 staff sessions
+    - 233 undergraduate students sessions
+    - 95 other and unknown sessions
 
 ## Instructor of Record
 
@@ -169,7 +176,7 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
     -   Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
 -   *Ecological Dimensions of Natural Resource Management*
     -   Graduate level lecture class \hfill fall 2015
-    -   Sessional instructor: Lecture, guide discussions, grade assignments.
+    -   Sessional instructor: Lecture, guide discussions, grade assignments
 
 ## Mentoring
 
@@ -214,8 +221,14 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 # Training and skills
 
 ## Skills
-
--   *Working with People and Organizations*
+- *Learner-centered flexible pedagogy*
+  - Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
+  - Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
+  - In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
+    -   Interviewing patrons about their research and career goals for tailored assistance
+    -   Referrals to other liaison librarians, information specialists, and campus partners as needed
+    -   Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
+- *Working with People and Organizations*
     -   Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
     -   Collaborating with partner organizations and co-workers
     -   Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
@@ -225,7 +238,7 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
     -   Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
     -   Obtaining permission for field work on private (US), state (US), and federal (US) land
     -   Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
--   *Statistical and Data Consulting*
+- *Statistical and Data Consulting*
     -   Experimental design for field and lab work
     -   Data collection and management
     -   Univariate and multivariate statistical analysis
