@@ -5,7 +5,7 @@ format:
 author: Claire M. Curry
 date: last-modified
 #phone: 940-600-8362
-address: "data, research, librarianship · Norman, OK, USA"
+address: "Phone: +1 405-325-5385 · Mail: 401 W. Brooks St. · Norman, OK, USA, 73019"
 email: cmcurry@ou.edu
 fontsize: 11pt
 #fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
@@ -37,6 +37,12 @@ bold-auth-name:
 format:
   quarto-cv-pdf: default
 ---
+
+
+# Summary
+
+I work with researchers at all higher education levels to enhance their work through learner-centered pedagogy and guidance on information literacy, data literacy, and reproducible research methods such as data wrangling and management, experimental design, and literature searching.
+
 
 # Education
 
@@ -94,160 +100,274 @@ format:
 
 Teach, develop, and adapt curricula to enhance researchers' abilities to process, analyze, and visualize information.
 
-- \bullet \nobreakspace   Software/Data Carpentries Instructor Training \hfill 2019
-- \bullet \nobreakspace   Developed and teach curricula for multiple workshops
-    - \bullet \nobreakspace   *Repetitive Tasks in R*
-        - \bullet \nobreakspace   Adapted and expanded from Software Carpentry R lesson
-    - \bullet \nobreakspace   *Visualization in R Using 'ggplot2'*
-        - \bullet \nobreakspace   Adapted and expanded from Data Carpentry R lesson and organized around our data visualizations concept workshop (next entry)
-    - \bullet \nobreakspace   *Survival Skills: Concepts of Data-Driven Visualization*
-    - \bullet \nobreakspace   *Survival Skills: Using Computers for Scholarly Research*
-    - \bullet \nobreakspace   *Smoother Meetings: Tips from Your Librarians*
-    - \bullet \nobreakspace   *A Very Short Introduction to Geospatial R*
-        - \bullet \nobreakspace   Adapted and shortened from Data Carpentry lessons into three 50-min lessons for cross-listed undergraduate/graduate course visits
-    - \bullet \nobreakspace   *A Very Short Introduction to R*
-        - \bullet \nobreakspace   Adapted and shortened from Data Carpentry lesson into one 1.25 hr session
-        - \bullet \nobreakspace   Created modular .Rmd files to allow mix and match of lesson chunks for two different class visits (one for a cross-listed graduate/undergraduate class, and another for a senior-level undergraduate class)
-- \bullet \nobreakspace   Co-developed and teach curricula for multiple workshops
-    - \bullet \nobreakspace   *Survival Skills: Managing Research Files*
-    - \bullet \nobreakspace   *Citation management with Zotero*
-    - \bullet \nobreakspace   *Managing Research Projects with OSF*
-    - \bullet \nobreakspace   *Survival Skills: Troubleshooting Computer Code*
-- \bullet \nobreakspace   Maintain and update workshops in collaboration with colleagues
-    - \bullet \nobreakspace   *Formatting Your Data for Analysis*
-        - \bullet \nobreakspace   Adapted and shortened from Data Carpentry "tidy data" lesson
-- \bullet \nobreakspace   Instructing from existing curricula
-    - \bullet \nobreakspace   *R for Scientific Programming (Software Carpentry lesson)*
-    - \bullet \nobreakspace   *Data Analysis and Visualisation in R for Ecologists (Data Carpentry lesson)*
-        - \bullet \nobreakspace   Including modifications for 1.25-2.5 hr short version for course instruction
-    - \bullet \nobreakspace   *R for Social Sciences (Data Carpentry lesson)*
-    - \bullet \nobreakspace  *Introduction to R for Geospatial Data (Data Carpentry lesson)*
-    - \bullet \nobreakspace   *Data Organization in Spreadsheets for Ecologists (Data Carpentry lesson)*
-    - \bullet \nobreakspace   *Data Management with SQL for Ecologists (Data Carpentry lesson)*
-    - \bullet \nobreakspace   *Tracking Changes with Version Control in Git/GitHub (Software Carpentry lesson)*
-        - \bullet \nobreakspace   Including modifications for 2.5 hr two-session shorter version
-    - \bullet \nobreakspace   *Unix Shell (Bash) for Beginners (Software Carpentry lesson)*
-- \bullet \nobreakspace   Helping from existing curricula
-    - \bullet \nobreakspace   All lessons above
-    - \bullet \nobreakspace   *Data Cleaning with OpenRefine for Ecologists (Data Carpentry lesson)*
-    - \bullet \nobreakspace   *Python (Software Carpentry lesson)*
+*Software/Data Carpentries Instructor Training* \hfill 2019
 
-## Library Instruction (need to convert to "session type" first for easier skimming like workshop section)
+*Developed and teach curricula for multiple workshops*
 
-Reached 4,010 learners in 220 sessions since July 2018-2024.
+- *Repetitive Tasks in R*
 
-- \bullet \nobreakspace  *Information literacy for STEM courses*
-  - \bullet \nobreakspace Teach, develop, and scaffold information literacy skills to undergraduate and graduate STEM students
-  - \bullet \nobreakspace Develop and deliver one-shot and multiple visit teaching sessions about search tools, information literacy, and library resources
-  - \bullet \nobreakspace Develop new exercises and materials to teach information literacy skills in subject-specific examples in collaboration with instructors
-  - \bullet \nobreakspace Using ACRL Information Literacy for STEM guidelines to frame scaffolding suggestions within STEM degrees
-  - \bullet \nobreakspace  Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach
-- \bullet \nobreakspace *Introduction to library resources/ OU Libraries welcome presentations*
-  - \bullet \nobreakspace  Orientations and professional development classes for graduate STEM programs
-  - \bullet \nobreakspace   First Year Research Experience class
-  - \bullet \nobreakspace On request by course instructors
+  - \bullet \nobreakspace   Adapted and expanded from Software Carpentry R lesson
+
+- *Visualization in R Using 'ggplot2'*
+
+  - \bullet \nobreakspace   Adapted and expanded from Data Carpentry R lesson and organized around our data visualizations concept workshop (next entry)
+
+- *Survival Skills: Concepts of Data-Driven Visualization*
+
+- *Survival Skills: Using Computers for Scholarly Research*
+
+- *Smoother Meetings: Tips from Your Librarians*
+
+- *A Very Short Introduction to Geospatial R*
+
+  - \bullet \nobreakspace   Adapted and shortened from Data Carpentry lessons into three  50-min lessons for cross-listed undergraduate/graduate course visits
+
+- *A Very Short Introduction to R*
+
+  - \bullet \nobreakspace   Adapted and shortened from Data Carpentry lesson into one 1.25 hr session
+
+  - \bullet \nobreakspace   Created modular .Rmd files to allow mix and match of lesson chunks for two different class visits (one for a cross-listed graduate/undergraduate class, and another for a senior-level undergraduate class)
+
+*Co-developed and teach curricula for multiple workshops*
+
+- *Survival Skills: Managing Research Files*
+
+- *Citation Management with Zotero*
+
+- *Managing Research Projects with OSF*
+
+- *Survival Skills: Troubleshooting Computer Code*
+
+*Maintain and update workshops in collaboration with colleagues*
+
+- *Formatting Your Data for Analysis*
+
+  - \bullet \nobreakspace   Adapted and shortened from Data Carpentry "tidy data" lesson
+
+*Instructing from existing curricula*
+
+- *R for Scientific Programming (Software Carpentry lesson)*
+
+- *Data Analysis and Visualisation in R for Ecologists (Data Carpentry lesson)*
+
+  - \bullet \nobreakspace   Including modifications for 1.25-2.5 hr short version for course instruction
+
+- *R for Social Sciences (Data Carpentry lesson)*
+
+- *Introduction to R for Geospatial Data (Data Carpentry lesson)*
+
+- *Data Organization in Spreadsheets for Ecologists (Data Carpentry lesson)*
+
+- *Data Management with SQL for Ecologists (Data Carpentry lesson)*
+
+- *Tracking Changes with Version Control in Git/GitHub (Software Carpentry lesson)*
+
+  - \bullet \nobreakspace   Including modifications for 2.5 hr two-session shorter version
+
+- *Unix Shell (Bash) for Beginners (Software Carpentry lesson)*
 
 
+*Helping from existing curricula*
+
+- *All lessons above*
+
+- *Data Cleaning with OpenRefine for Ecologists (Data Carpentry lesson)*
+
+- *Python (Software Carpentry lesson)*
+
+
+## Library Instruction
+
+Reached 4,010 learners in 220 sessions from July 2018-2024.
+
+*Information literacy for STEM courses*
+
+- \bullet \nobreakspace Teach, develop, and scaffold information literacy skills to undergraduate and graduate STEM students
+
+- \bullet \nobreakspace Develop and deliver one-shot and multiple visit teaching sessions about search tools, information literacy, and library resources
+
+- \bullet \nobreakspace Develop new exercises and materials to teach information literacy skills in subject-specific examples in collaboration with instructors
+
+- \bullet \nobreakspace Using ACRL Information Literacy for STEM guidelines to frame scaffolding suggestions within STEM degrees
+
+- \bullet \nobreakspace  Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach
+
+*Introduction to library resources/ OU Libraries welcome presentations*
+
+- \bullet \nobreakspace  Orientations and professional development classes for graduate STEM programs
+
+- \bullet \nobreakspace   First Year Research Experience class
+
+- \bullet \nobreakspace On request by course instructors
 
 ## Asynchronous Instruction
 
-- *Video series for STEM remote research method options*
-  - Created, produced, and transcribed during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
-    -   Hosted lecture on meta-analysis
-    -   Presented videos on data licensing, finding datasets, and literature searches
-    -   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
-- *University of Oklahoma Libraries LibGuides*
-  -   Centralized guide to automate updating guide assets
-  -   Updating guides to meet internal accessibility standards
-  -   Updating subject guides for my departments
-  -   Creating and updating topic guides
-      -   Data Analysis & Visualization
-      -   Research Survival Skills (shared, based on "Survival Skills" workshop series)
-      -   Citation Management with Zotero (shared)
-- *Tutorials*
-  - Co-created "Why Cite?" video to explain necessary parts and rationale for citations beyond avoiding plagiarism
+*Video series for STEM remote research method options*
+
+-  \bullet \nobreakspace Created, produced, and transcribed during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
+
+  -  \cdot \nobreakspace   Hosted lecture on meta-analysis
+
+  -  \cdot \nobreakspace   Presented videos on data licensing, finding datasets, and literature searches
+
+  -  \cdot \nobreakspace   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
+
+
+*University of Oklahoma Libraries LibGuides*
+
+- \bullet \nobreakspace   Centralized guide to automate updating guide assets
+
+- \bullet \nobreakspace  Updating guides to meet internal accessibility standards
+
+- \bullet \nobreakspace   Updating subject guides for my departments
+
+- \bullet \nobreakspace   Creating and updating topic guides
+
+  - \cdot \nobreakspace   Data Analysis & Visualization
+
+  - \cdot \nobreakspace   Research Survival Skills (shared, based on "Survival Skills" workshop series)
+
+  - \cdot \nobreakspace  Citation Management with Zotero (shared)
+
+*Tutorials*
+
+- Co-created "Why Cite?" video to explain necessary parts and rationale for citations beyond avoiding plagiarism
   
 ## Consultations as Instruction
-- *Data, reference, and statistical consultations*
-  - 1,842 consultations since July 2018-2024 via email (816), virtual (626), in-person (354), phone (26), and other (20).
-    - 380 faculty sessions
-    - 898 graduate student sessions
-    - 135 post-docs/researcher sessions
-    - 101 staff sessions
-    - 233 undergraduate students sessions
-    - 95 other and unknown sessions
+
+*Data, reference, and statistical consultations*
+
+- \bullet \nobreakspace 1,842 consultations since July 2018-2024 via email (816), virtual (626), in-person (354), phone (26), and other (20).
+
+  - \cdot \nobreakspace 380 faculty sessions
+  - \cdot \nobreakspace 898 graduate student sessions
+  - \cdot \nobreakspace 135 post-docs/researcher sessions
+  - \cdot \nobreakspace 101 staff sessions
+  - \cdot \nobreakspace 233 undergraduate students sessions
+  - \cdot \nobreakspace 95 other and unknown sessions
 
 ## Instructor of Record
 
--   *Study Design and Quantitative Methods in Natural Resource Management*
-    -   Cross-listed graduate/undergraduate \hfill winter 2015, winter 2016
-    -   Co-instructor with Dr. Nicola Koper
-    -   Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
--   *Ecological Dimensions of Natural Resource Management*
-    -   Graduate level lecture class \hfill fall 2015
-    -   Sessional instructor: Lecture, guide discussions, grade assignments
+*Study Design and Quantitative Methods in Natural Resource Management*
+-   Cross-listed graduate/undergraduate \hfill winter 2015, winter 2016
+-  \bullet \nobreakspace   Co-instructor with Dr. Nicola Koper
+-  \bullet \nobreakspace   Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
+
+*Ecological Dimensions of Natural Resource Management*
+-   Graduate level lecture class \hfill fall 2015
+-  \bullet \nobreakspace   Sessional instructor: Lecture, guide discussions, grade assignments
 
 ## Mentoring
 
--   *University of Manitoba Students* \hfill 2014-2016
-    -   Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab
-    -   Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
--   *University of Oklahoma Undergraduates*
-    -   Alexandra Ainsworth \hfill spring 2012
-        -   Independent study (3 credit hours), PI: Dr. Michael A. Patten
-        -   She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
-    -   Sarai H. Stuart \hfill January-April 2012, January-March 2013
-        -   Volunteer
-        -   Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+*University of Manitoba Students* \hfill 2014-2016
+
+-  \bullet \nobreakspace   Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab
+
+-  \bullet \nobreakspace   Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
+
+*University of Oklahoma Undergraduates*
+
+Alexandra Ainsworth \hfill spring 2012
+
+-  \bullet \nobreakspace   Independent study (3 credit hours), PI: Dr. Michael A. Patten
+
+-  \bullet \nobreakspace   She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+
+
+Sarai H. Stuart \hfill January-April 2012, January-March 2013
+
+-  \bullet \nobreakspace Volunteer
+
+-  \bullet \nobreakspace Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
 
 ## Graduate Teaching Assistantships
 
--   *Intro. to Evolution, Ecology, and Diversity*
-    -   Undergraduate, majors lab \hfill spring 2012
-    -   Professor: Dr. Phil Gibson
-    -   Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
--   *Entomology*
-    -   Cross-listed undergraduate/graduate lab \hfill 2009-2012 (fall only - total four semesters)
-    -   Professor: Dr. Ken Hobson (retired)
-    -   Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
--   *Introductory Zoology Lab*
-    -   Undergraduate, non-majors lab \hfill fall 2008, fall 2012
-    -   Professor: Dr. Penny Hopkins (retired)
-    -   Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
--   *Principles of Ecology*
-    -   Undergraduate, majors lab \hfill 2009 (spring & fall), 2010-2011 (fall only)
-    -   Professor: Dr. Ken Hobson (retired)
-    -   Discussion of concepts, guiding students through field experiments; and grading lab reports.
+*Intro. to Evolution, Ecology, and Diversity*
+
+Undergraduate, majors lab \hfill spring 2012
+
+-  \bullet \nobreakspace Professor: Dr. Phil Gibson
+
+-  \bullet \nobreakspace Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
+
+*Entomology*
+
+Cross-listed undergraduate/graduate lab \hfill 2009-2012 (fall only - total four semesters)
+
+-  \bullet \nobreakspace   Professor: Dr. Ken Hobson (retired)
+
+-  \bullet \nobreakspace   Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
+
+*Introductory Zoology Lab*
+
+Undergraduate, non-majors lab \hfill fall 2008, fall 2012
+
+-  \bullet \nobreakspace   Professor: Dr. Penny Hopkins (retired)
+
+-  \bullet \nobreakspace   Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
+
+*Principles of Ecology*
+
+Undergraduate, majors lab \hfill 2009 (spring & fall), 2010-2011 (fall only)
+
+-  \bullet \nobreakspace   Professor: Dr. Ken Hobson (retired)
+
+-  \bullet \nobreakspace   Discussion of concepts, guiding students through field experiments; and grading lab reports.
 
 ## Undergraduate Teaching Assistantship
 
--   *Insect Biology Lab*
-    -   Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
-    -   Professor: Dr. James Kennedy
-    -   Volunteer
-    -   Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
+*Insect Biology Lab*
+
+Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
+
+-  \bullet \nobreakspace   Professor: Dr. James Kennedy
+
+-  \bullet \nobreakspace   Volunteer
+
+-  \bullet \nobreakspace   Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
+
 
 # Training and skills
 
 ## Skills
-- *Learner-centered flexible pedagogy*
-  - \bullet \nobreakspace Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
-  - \bullet \nobreakspace Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
-  - \bullet \nobreakspace In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
-    - \bullet \nobreakspace Interviewing patrons about their research and career goals for tailored assistance
-    - \bullet \nobreakspace Referrals to other liaison librarians, information specialists, and campus partners as needed
-    - \bullet \nobreakspace Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
-- *Working with People and Organizations*
-    - \bullet \nobreakspace Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
-    - \bullet \nobreakspace Collaborating with partner organizations and co-workers
-    - \bullet \nobreakspace Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
-    - \bullet \nobreakspace Maintaining communications with departmental representatives (faculty, staff, and students)
-        - \bullet \nobreakspace STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
-        - \bullet \nobreakspace Shared STEM liaison duties for departments of Psychology, Health & Exercise Science, and Chemistry & Biochemistry
-    - \bullet \nobreakspace  Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
-    - \bullet \nobreakspace  Obtaining permission for field work on private (US), state (US), and federal (US) land
-    - \bullet \nobreakspace  Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
-- *Statistical and Data Consulting*
+
+*Learner-centered flexible pedagogy*
+
+- \bullet \nobreakspace Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
+
+- \bullet \nobreakspace Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
+
+- \bullet \nobreakspace In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
+
+- \bullet \nobreakspace Interviewing patrons about their research and career goals for tailored assistance
+
+- \bullet \nobreakspace Referrals to other liaison librarians, information specialists, and campus partners as needed
+
+- \bullet \nobreakspace Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
+
+
+*Working with People and Organizations*
+
+- \bullet \nobreakspace Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
+
+  - \bullet \nobreakspace Collaborating with partner organizations and co-workers
+
+  - \bullet \nobreakspace Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
+
+    - \cdot \nobreakspace Maintaining communications with departmental representatives (faculty, staff, and students)
+
+    - \cdot \nobreakspace STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
+
+    - \cdot \nobreakspace Shared STEM liaison duties for departments of Psychology, Health & Exercise Science, and Chemistry & Biochemistry
+
+- \bullet \nobreakspace  Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
+
+  - \cdot \nobreakspace  Obtaining permission for field work on private (US), state (US), and federal (US) land
+
+  - \cdot \nobreakspace  Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
+
+
+*Statistical and Data Consulting*
     - \bullet \nobreakspace Experimental design for field and lab work
     - \bullet \nobreakspace Data collection and management
     - \bullet \nobreakspace Univariate and multivariate statistical analysis
@@ -304,36 +424,57 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
 
 ## Research Methods
 
--   *Library and literature-based methods*
-    - \bullet \nobreakspace   *Reproducible database searches*
-        - \bullet \nobreakspace   Controlled vocabulary and thesaurus searches
-        - \bullet \nobreakspace   Choosing and modifying keywords
-        - \bullet \nobreakspace  Boolean operators and wild cards
-    - \bullet \nobreakspace   *Evidence synthesis*
-        - \bullet \nobreakspace   Evidence Synthesis Institute \hfill August 2022 cohort
-            - \bullet \nobreakspace   Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
+*Library and literature-based methods*
+  - \bullet \nobreakspace   *Reproducible database searches*
+    - \bullet \nobreakspace   Controlled vocabulary and thesaurus searches
+    - \bullet \nobreakspace   Choosing and modifying keywords
+    - \bullet \nobreakspace  Boolean operators and wild cards
+- \bullet \nobreakspace   *Evidence synthesis*
+    - \bullet \nobreakspace   Evidence Synthesis Institute \hfill August 2022 cohort
+        - \bullet \nobreakspace   Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
         - \bullet \nobreakspace   Developed Evidence Synthesis LibGuide Page for initial information for community members
-          - \bullet \nobreakspace Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
-        - \bullet \nobreakspace   Authored and co-authored two peer-reviewed narrative reviews
--   *Field methods*
-    - \bullet \nobreakspace   Design and conduct randomized stratified lichen surveys
-    - \bullet \nobreakspace   Avian blood sampling for genetics
-    - \bullet \nobreakspace   Banding and color-banding small songbirds
-    - \bullet \nobreakspace   Design and conduct behavioral assays for songbirds
-    - \bullet \nobreakspace   Design and conduct transect and point counts for grassland and shrubland birds
-    - \bullet \nobreakspace   Nest and fledgling searching for grassland and shrubland birds
-    - \bullet \nobreakspace   Sorting and identification of aquatic invertebrates
-    - \bullet \nobreakspace   Vegetation measurements and habitat quantification
-    - \bullet \nobreakspace   Terrestrial insect sampling
+    - \bullet \nobreakspace Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
+    - \bullet \nobreakspace   Authored and co-authored two peer-reviewed narrative reviews
+
+*Field methods*
+
+- *Experimental design*
+
+  - \bullet \nobreakspace   Design and conduct randomized stratified lichen surveys
+
+  - \bullet \nobreakspace   Design and conduct behavioral assays for songbirds
+
+  - \bullet \nobreakspace   Design and conduct transect and point counts for grassland and shrubland birds
+
+  
+- *Organism handling, observation, and identification*
+
+  - \bullet \nobreakspace   Avian blood sampling for genetics
+
+  - \bullet \nobreakspace   Banding and color-banding small songbirds
+
+  - \bullet \nobreakspace   Nest and fledgling searching for grassland and shrubland birds
+
+  - \bullet \nobreakspace   Sorting and identification of aquatic invertebrates
+
+  - \bullet \nobreakspace   Vegetation measurements and habitat quantification
+
+  - \bullet \nobreakspace   Terrestrial insect sampling
+
 
 ## Supervisory Experience
 
-- \bullet \nobreakspace Ahmed Sharaf \hfill August 2022-August 2023
-    - \bullet \nobreakspace   Undergraduate student web developer. professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
-- \bullet \nobreakspace   Henry Dang (2017-2018)
-    - \bullet \nobreakspace   Undergraduate student cleaning and merging multiple database versions. Mentored in R and version control from complete novice to being able to create a package to calculate triangulation points for radio-tracked telemetry data.
-- \bullet \nobreakspace   Field technicians (3) \hfill summer 2015
-    - \bullet \nobreakspace   Trained seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
+*Ahmed Sharaf* \hfill August 2022-August 2023
+
+  - \bullet \nobreakspace   Undergraduate student web developer. Mentored in professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
+
+*Henry Dang* \hfill 2017-2018
+
+  - \bullet \nobreakspace   Undergraduate student cleaning and merging multiple database versions. Mentored in R and version control from complete novice to being able to create a package to calculate triangulation points for radio-tracked telemetry data.
+
+*Field technicians (3)* \hfill summer 2015
+
+  - \bullet \nobreakspace   Trained seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
 
 # Work Products
 
@@ -475,12 +616,18 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
 ## Departmental
 
 - \bullet \nobreakspace  Research Workshops Committee (chair) for University Libraries \hfill 2021-present
-  - \bullet \nobreakspace Documentation of procedures for committee, workshop organization, and scheduling in coordination with University Libraries Marketing and Communcation and later OU Marketing and Communication to ensure timely and consistent outreach
-  - \bullet \nobreakspace  Standardization of accessibility notices to include default captioning, modality, and logistics
-  - \bullet \nobreakspace  Responsible for reminding instructors of scheduling
-  - \bullet \nobreakspace  Automated reminder and registration emails via Zapier and Trello
-  - \bullet \nobreakspace  Created cross-training document to find substitute instructors, helpers, and understand organizational needs for software instructors
-  - \bullet \nobreakspace  Created RACI chart for team to understand who to contact during cancellations or rescheduling
+
+  - \cdot \nobreakspace Documentation of procedures for committee, workshop organization, and scheduling in coordination with University Libraries Marketing and Communcation and later OU Marketing and Communication to ensure timely and consistent outreach
+  
+  - \cdot \nobreakspace  Standardization of accessibility notices to include default captioning, modality, and logistics
+  
+  - \cdot \nobreakspace  Responsible for reminding instructors of scheduling
+  
+  - \cdot \nobreakspace  Automated reminder and registration emails via Zapier and Trello
+  
+  - \cdot \nobreakspace  Created cross-training document to find substitute instructors, helpers, and understand organizational needs for software instructors
+  
+  - \cdot \nobreakspace  Created RACI chart for team to understand who to contact during cancellations or rescheduling
 
 - \bullet \nobreakspace  Hiring committee (chair) for University Libraries STEM Instruction Librarian – 2024 (in progress)
 
@@ -499,60 +646,94 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
 ## University
 
 - \bullet \nobreakspace  Institutional Animal Care and Use Committee Scientist Member, February 2021-present
+
 - \bullet \nobreakspace  OU Coding Outreach for Data Education (CODE) Workshop helper for R and Python: fall 2020, fall 2021, fall 2022.
+
 - \bullet \nobreakspace  Judge for OU Honors College Undergraduate Research Day, April 2020.
+
 - \bullet \nobreakspace  Judge for OU Honors College Undergraduate Research Day, April 2019.
+
 - \bullet \nobreakspace   Reviewer for OU School of Architecture Program for Research Enhancement to provide layperson’s feedback: fall 2018, spring 2019, fall 2019.
+
 - \bullet \nobreakspace  Software and Data Carpentry helper and instructor: 2017-present.
+
 - \bullet \nobreakspace  Guest panelist in Earth Observation Science for Society and Sustainability (EOS 3) interdisciplinary certificate program class on “Building a better Ph.D. or M.S.” August 28, 2017. Class taught by Drs. Jeff Kelly, Andrea Contina, and Sara Mata, University of Oklahoma, Norman, OK, USA.
+
 - \bullet \nobreakspace  Nominated to serve as a OU Graduate College Academic Appeals and Misconduct student panelist (2011-2012 academic year); nominated by the OU Department of Zoology’s Graduate Liaison for being “an experienced Graduate Student and hav\[ing\] demonstrated the qualities necessary to serve as an Appeals or Misconduct panelist such as judgment, discretion and commitment.”
 
 ## External
 
 - \bullet \nobreakspace  Instructor on TAGS (Geolocator Data Cleaning website) at Geolocation Workshop August 18-19, 2018. Preceding International Ornithological Congress: Vancouver, BC, Canada.
+
 - \bullet \nobreakspace  Session Chair (“Evolution”), 2018 American Ornithology Conference: Tuscon, AZ, USA.
+
 - \bullet \nobreakspace  Judged student presentations (oral presentations and posters) at 2018 American Ornithology Conference: Tuscon, AZ, USA.
+
 - \bullet \nobreakspace  Session Chair (“Landscape ecology”), 2017 American Ornithology Conference: East Lansing, MI, USA.
+
 - \bullet \nobreakspace  Judged student presentations (oral presentations and posters) at 2017 American Ornithology Conference: East Lansing, MI, USA.
+
 - \bullet \nobreakspace  Judged undergraduate presentations (oral presentations and posters) at North American Ornithological Conference 2016: Washington, DC., USA.
+
 - \bullet \nobreakspace  Presented and led discussion on project and risk management during Critical Skills for the Early Career Professional workshop at 2015 The Wildlife Society Meeting, Winnipeg, MB, October 2015.
+
 - \bullet \nobreakspace  Panelist on careers in biology at Prairie University Biology Symposium, Winnipeg, MB, February 2015; one of three early career biologists answering questions from graduate students.
+
 - \bullet \nobreakspace  Undergraduate Diversity Mentor for two undergraduates attending the Evolution 2013 meeting in Snowbird, UT.
+
 - \bullet \nobreakspace  Session Chair (“Diseases/parasites”), NAOC-V meeting, 14-18 August 2012, Vancouver BC.
+
 - \bullet \nobreakspace  Volunteer, Evolution 2011 meeting, 17-21 July, Norman OK; driving van.
+
 - \bullet \nobreakspace  Session Chair (“Diversification- Birds”), Evolution 2011 meeting, 17-21 July 2011, Norman OK.
 
 ## Community
 
--   *Presentations*
-    -   **Curry, C.M.** 14 Feb. 2019. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Fort Worth Audubon Society: Fort Worth, TX. (Public talk).
-    -   **Curry, C.M.** 22 Jan. 2018. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
-    -   **Curry, C.M.** 2015. Evolution in action in Oklahoma and Texas. Presentations via teleconference to high school students in Jenks, Oklahoma AP Environmental Science classes (four periods, Mr. Bryan Yockers) about the evolution of reproductive isolation in titmice.
-    -   **Curry, C.M.** 2012. Titmice in Oklahoma and Texas: what makes a hybrid zone? Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
-    -   **Curry, C.M.** 2009. Hybrid zones: titmice and the nature of species. Darwin-a-thon public education event at University of Oklahoma: Norman, OK. (Public talk).
-    -   Have co-presented talks about birds and ecology to Denton County Master Gardeners (TX), Elm Fork Chapter of Texas Master Naturalists, Decatur Lions’ Club, Tallgrass Prairie Audubon Society, Girl Scouts, Boy Scouts, elementary school students in Decatur, TX, and 2001, 2006, and 2007 JAKES (Juniors Acquiring Knowledge, Ethics, and Sportsmanship) events (U.S. Forest Service; Texas Parks and Wildlife) at the Lyndon B. Johnson National Grasslands.
--   *Popular articles*
-    -   Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger. September 2002-September 2007, volunteer columnist; November 2007-October 2013, paid columnist. Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
-    -   **Curry, Claire**. 2004. West Nile virus: birds, people, and Texas.” Texas Birds 5(1):14-16.
-        -   A short review of West Nile Virus after its initial outbreak.
-    -   **Curry, Claire**. 2004. Killer meadowlarks. Texas Birds 5(1):29-30.
-        -   Observations on an Eastern Meadowlark killing American Goldfinches during a winter storm.
-    -   **Curry, Claire**. 2004. Flight path: Young Birder of the Year contest \~ A birding essay: Stubs. Birding August 36(4):354-356.
-        -   Observations on a female Archilochus sp. hummingbird with a broken beak.
-    -   **Curry, Claire**. 2004. Real birders drool. IN Claire Curry, Robert M. Milardo, and Richard Frechette. 2004. Dimensions: Three flights of fancy. Birding 36(3):288-289.
-        -   Humorous essay on the canine birding experience.
-    -   **Curry, Claire**. 2002. The tail of an unfortunate chickadee. Winging It 14(2):4.
-        -   Description of a Carolina Chickadee trapped in an Argiope sp. spider web.
--   *Additional STEM outreach*
-    - \bullet \nobreakspace  Co-led nature walk for National Trails Day at Fort Richardson State Park, TX, with park manager in June 2012.
-    - \bullet \nobreakspace  Expert biologist at 2011 BioBlitz Oklahoma at Chickasaw National Recreation Area, Murray County, OK Guided bird walk for Fort Griffin State Historic Site, TX, June 2011.
-    - \bullet \nobreakspace  Co-led monthly field trips to the Lyndon B. Johnson National Grasslands from February 2004 to January 2005.
-    - \bullet \nobreakspace  Compiled checklists of Wise County birds and butterflies for distribution at the U.S. Forest Service office in Decatur, TX.
-    - \bullet \nobreakspace  Participated in Wise County Christmas Bird Count circle from 2000-2007.
-    - \bullet \nobreakspace  Participated in Project Prairie Birds in winters of 2002-2006 on the Lyndon B. Johnson National Grasslands.
-    - \bullet \nobreakspace  Co-editor of Tall Grass Tales, newsletter of Tallgrass Prairie Audubon Society, from December 2001 to October 2004.
-    - \bullet \nobreakspace  Assisted in preparing bird specimens and mounts for display at the U.S. Forest Service office in Decatur, TX.
-    - \bullet \nobreakspace  Completed volunteer hours and advanced training hours for Elm Fork chapter of Texas Master Naturalist program, Class of 2000. Certified from 2000 to 2006; ended service to focus on undergraduate degree.
+*Presentations ENTERING INTO ZOTERO*
+-   **Curry, C.M.** 14 Feb. 2019. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Fort Worth Audubon Society: Fort Worth, TX. (Public talk).
+-   **Curry, C.M.** 22 Jan. 2018. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
+-   **Curry, C.M.** 2015. Evolution in action in Oklahoma and Texas. Presentations via teleconference to high school students in Jenks, Oklahoma AP Environmental Science classes (four periods, Mr. Bryan Yockers) about the evolution of reproductive isolation in titmice.
+-   **Curry, C.M.** 2012. Titmice in Oklahoma and Texas: what makes a hybrid zone? Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
+-   **Curry, C.M.** 2009. Hybrid zones: titmice and the nature of species. Darwin-a-thon public education event at University of Oklahoma: Norman, OK. (Public talk).
+-   Have co-presented talks about birds and ecology to Denton County Master Gardeners (TX), Elm Fork Chapter of Texas Master Naturalists, Decatur Lions’ Club, Tallgrass Prairie Audubon Society, Girl Scouts, Boy Scouts, elementary school students in Decatur, TX, and 2001, 2006, and 2007 JAKES (Juniors Acquiring Knowledge, Ethics, and Sportsmanship) events (U.S. Forest Service; Texas Parks and Wildlife) at the Lyndon B. Johnson National Grasslands.
+
+
+*Popular articles ENTERING INTO ZOTERO*
+
+-   Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger. September 2002-September 2007, volunteer columnist; November 2007-October 2013, paid columnist. Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
+
+-   **Curry, Claire**. 2004. West Nile virus: birds, people, and Texas.” Texas Birds 5(1):14-16.
+  -   A short review of West Nile Virus after its initial outbreak.
+-   **Curry, Claire**. 2004. Killer meadowlarks. Texas Birds 5(1):29-30.
+  -   Observations on an Eastern Meadowlark killing American Goldfinches during a winter storm.
+-   **Curry, Claire**. 2004. Flight path: Young Birder of the Year contest \~ A birding essay: Stubs. Birding August 36(4):354-356.
+  -   Observations on a female Archilochus sp. hummingbird with a broken beak.
+-   **Curry, Claire**. 2004. Real birders drool. IN Claire Curry, Robert M. Milardo, and Richard Frechette. 2004. Dimensions: Three flights of fancy. Birding 36(3):288-289.
+    -   Humorous essay on the canine birding experience.
+-   **Curry, Claire**. 2002. The tail of an unfortunate chickadee. Winging It 14(2):4.
+  -   Description of a Carolina Chickadee trapped in an Argiope sp. spider web.
+
+
+*Additional STEM outreach*
+
+- \bullet \nobreakspace  Co-led nature walk for National Trails Day at Fort Richardson State Park, TX, with park manager in June 2012.
+
+- \bullet \nobreakspace  Expert biologist at 2011 BioBlitz Oklahoma at Chickasaw National Recreation Area, Murray County, OK Guided bird walk for Fort Griffin State Historic Site, TX, June 2011.
+
+- \bullet \nobreakspace  Co-led monthly field trips to the Lyndon B. Johnson National Grasslands from February 2004 to January 2005.
+
+- \bullet \nobreakspace  Compiled checklists of Wise County birds and butterflies for distribution at the U.S. Forest Service office in Decatur, TX.
+
+- \bullet \nobreakspace  Participated in Wise County Christmas Bird Count circle from 2000-2007.
+
+- \bullet \nobreakspace  Participated in Project Prairie Birds in winters of 2002-2006 on the Lyndon B. Johnson National Grasslands.
+
+- \bullet \nobreakspace  Co-editor of Tall Grass Tales, newsletter of Tallgrass Prairie Audubon Society, from December 2001 to October 2004.
+
+- \bullet \nobreakspace  Assisted in preparing bird specimens and mounts for display at the U.S. Forest Service office in Decatur, TX.
+
+- \bullet \nobreakspace  Completed volunteer hours and advanced training hours for Elm Fork chapter of Texas Master Naturalist program, Class of 2000. Certified from 2000 to 2006; ended service to focus on undergraduate degree.
+
 
 # Funding
 
@@ -706,6 +887,8 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
     - University of Oklahoma Libraries
     - 401 W. Brooks St.
     - Norman, OK, USA 73019
+
+    
 - Ms. Sarah Robbins
   - Previous supervisor
   - Email: srobbins\@ou.edu
@@ -714,6 +897,8 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
     - University of Oklahoma Libraries
     - 401 W. Brooks St.
     - Norman, OK, USA 73019
+
+    
 - Dr. Michael A. Patten
   - PhD advisor, post-doc supervisor
   - Email: michael.a.patten\@nord.no
@@ -723,6 +908,8 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
     - Postboks 1490
     - 8049 Bodø
     - Steinkjer, Norway
+
+
 - Dr. Eli Bridge
   - Post-doc supervisor
   - Email: ebridge\@ou.edu
@@ -731,6 +918,8 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
     - University of Oklahoma
     - 111 E. Chesapeake Street
     - Norman, OK, USA 73019
+
+
 - Dr. Nicola Koper
   - Post-doc supervisor
   - Email: Nicola.Koper\@unbc.ca
