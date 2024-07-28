@@ -24,6 +24,16 @@ bibliography:
   impact: refs-impact.bib
 validate-yaml: false
 csl: apa-cv.csl
+#Make my name bold in bibligographies
+filters:
+  - bold-author.lua
+bold-auth-name:
+  - family: Curry
+    given: C. M.
+  - family: Curry
+    given: Claire
+  - family: Curry
+    given: C.  
 format:
   quarto-cv-pdf: default
 ---
@@ -64,9 +74,9 @@ format:
 
 *Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)*
 
--   Undergraduate Research assistant \hfill March-August 2007
+-   Undergraduate Research Assistant \hfill March-August 2007
 
--   Undergraduate Research assistant \hfill October 2005-May 2006
+-   Undergraduate Research Assistant \hfill October 2005-May 2006
 
 *Leon River Restoration Project (with Texas A&M University)*
 
@@ -147,16 +157,15 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
     -   Presented videos on data licensing, finding datasets, and literature searches
     -   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
 - *University of Oklahoma Libraries LibGuides*
-    -   Centralized guide to automate updating guide assets
-    -   Updating guides to meet internal accessibility standards
-    -   Updating subject guides for my departments
-    -   Creating and updating topic guides
-        -   Data Analysis & Visualization
-        -   Research Survival Skills (shared, based on "Survival Skills" workshop series)
-        -   Citation Management with Zotero (shared)
+  -   Centralized guide to automate updating guide assets
+  -   Updating guides to meet internal accessibility standards
+  -   Updating subject guides for my departments
+  -   Creating and updating topic guides
+      -   Data Analysis & Visualization
+      -   Research Survival Skills (shared, based on "Survival Skills" workshop series)
+      -   Citation Management with Zotero (shared)
 - *Tutorials*
-  - 
-  
+  - Co-created "Why Cite?" video to explain necessary parts and rationale for citations beyond avoiding plagiarism
   
 ## Consultations as Instruction
 - *Data, reference, and statistical consultations*
@@ -222,30 +231,30 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
 
 ## Skills
 - *Learner-centered flexible pedagogy*
-  - Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
-  - Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
-  - In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
-    -   Interviewing patrons about their research and career goals for tailored assistance
-    -   Referrals to other liaison librarians, information specialists, and campus partners as needed
-    -   Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
+  - \bullet \nobreakspace Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
+  - \bullet \nobreakspace Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
+  - \bullet \nobreakspace In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
+    - \bullet \nobreakspace Interviewing patrons about their research and career goals for tailored assistance
+    - \bullet \nobreakspace Referrals to other liaison librarians, information specialists, and campus partners as needed
+    - \bullet \nobreakspace Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
 - *Working with People and Organizations*
-    -   Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
-    -   Collaborating with partner organizations and co-workers
-    -   Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
-    -   Maintaining communications with departmental representatives (faculty, staff, and students)
-        -   STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
-        -   Shared STEM liaison duties for departments of Psychology, Health & Exercise Science, and Chemistry & Biochemistry
-    -   Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
-    -   Obtaining permission for field work on private (US), state (US), and federal (US) land
-    -   Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
+    - \bullet \nobreakspace Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
+    - \bullet \nobreakspace Collaborating with partner organizations and co-workers
+    - \bullet \nobreakspace Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
+    - \bullet \nobreakspace Maintaining communications with departmental representatives (faculty, staff, and students)
+        - \bullet \nobreakspace STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
+        - \bullet \nobreakspace Shared STEM liaison duties for departments of Psychology, Health & Exercise Science, and Chemistry & Biochemistry
+    - \bullet \nobreakspace  Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
+    - \bullet \nobreakspace  Obtaining permission for field work on private (US), state (US), and federal (US) land
+    - \bullet \nobreakspace  Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
 - *Statistical and Data Consulting*
-    -   Experimental design for field and lab work
-    -   Data collection and management
-    -   Univariate and multivariate statistical analysis
-        -   Choice of approaches (frequentist vs model selection)
-        -   Choice and guidance on specific statistical tests
-        -   Guidance checking discipline-specific literature for discipline-preferred approaches
-        -   Choice and use of statistical programming software
+    - \bullet \nobreakspace Experimental design for field and lab work
+    - \bullet \nobreakspace Data collection and management
+    - \bullet \nobreakspace Univariate and multivariate statistical analysis
+        - \bullet \nobreakspace Choice of approaches (frequentist vs model selection)
+        - \bullet \nobreakspace Choice and guidance on specific statistical tests
+        - \bullet \nobreakspace Guidance checking discipline-specific literature for discipline-preferred approaches
+        - \bullet \nobreakspace Choice and use of statistical programming software
 - *Collection Management*
   - Determining need for library program assessments
   - Approving book purchase requests from my subject areas
@@ -701,8 +710,12 @@ Reached 4,010 learners in 220 sessions since July 2018-2024.
     -   Email: srobbins\@ou.edu
 -   Dr. Michael A. Patten
     -   PhD advisor, post-doc supervisor
-    -   Professor, Faculty of Biosciences and Aquaculture, Nord University
     -   Email: michael.a.patten\@nord.no
+    - Phone: +4774022822 (Norway)
+    - Professor, Faculty of Biosciences and Aquaculture, Nord University
+      - Postboks 1490
+      - 8049 Bodø
+      - Steinkjer, Norway
 -   Dr. Eli Bridge
     -   Post-doc supervisor
     -   Director, Oklahoma Biological Survey
