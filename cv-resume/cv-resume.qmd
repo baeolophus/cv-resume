@@ -41,7 +41,7 @@ format:
 
 # Summary
 
-I work with researchers at all higher education levels to enhance their work through learner-centered pedagogy and guidance on information literacy, data literacy, and reproducible research methods such as data wrangling and management, experimental design, and literature searching.
+I guide higher education students, faculty, and staff to enhance their research, teaching, and learning work through group and individual instruction on information literacy, data literacy, and reproducible research methods.
 
 
 # Education
