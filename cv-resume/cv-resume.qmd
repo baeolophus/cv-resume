@@ -21,7 +21,8 @@ nocite: '@*'
 bibliography: 
   peer: refs-peer-reviewed_pubs.bib
   reports: refs-reports.bib
-  impact: refs-impact.bib
+  conference: refs-conferences.bib
+  invited: refs-invited.bib
 validate-yaml: false
 csl: apa-cv.csl
 #Make my name bold in bibligographies
@@ -563,23 +564,10 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
 ## Conference Presentations
 
--   Schilling, A., M. Laufersweiler, B. Tweedy, and **C.M. Curry**. Data workshops in support of researchers at the University of Oklahoma. OSU – Coalition for Advancing Digital Research & Education (CADRE) 2020: Stillwater, OK, USA. (Online poster available at: https://shareok.org/handle/11244/324832 )
--   Schilling, A., B. Tweedy, and **C.M. Curry** (joint co-presenters). 2019. An Open Access Data Workshop Curriculum for Researchers. 2019 STEM Librarians South: Austin, TX, USA. (Oral presentation.)
--   **Curry C.M.**, J.E. Ruyle, and E.S. Bridge (presenter). 2018. ETAG: An Animal Behavior Observatory for Radio Frequency Identification Technology. 2018 International Ornithological Congress, Vancouver, BC, Canada. (Poster presentation.)
--   **Curry, C.M.** and M.A. Patten. 2018. Thresholds of Avoidance Behavior in a Declining Endemic Grouse, the Lesser Prairie-Chicken. 2018 International Ornithological Congress: Vancouver, BC, Canada. (Oral presentation.)
--   **Curry, C.M.**, M.A. Patten, and J. Weir. 2018. Spatiotemporal structuring and genomic architecture of multiple transects across an avian hybrid zone. 2018 American Ornithology: Tucson, AZ, USA. (Oral presentation.)
--   **Curry, C.M.**, J.E. Ruyle, and E.S. Bridge. 2018. ETAG: An Animal Behavior Observatory for Radio Frequency Identification Technology. 2018 American Ornithology: Tucson, AZ, USA. (Poster presentation.)
--   **Curry, C.M.**, J.D. Ross, A. J. Contina, and E.S. Bridge. 2017. Testing prediction accuracy and climate change estimation with spatially explicit models for grassland birds. 2017 American Ornithology: East Lansing, MI, USA. (Oral presentation.)
--   **Curry, C.M.**, B. Antze, M. Warrington, P. Des Brisay, P. Rosa, and N. Koper. 2016. Behavioral responses to anthropogenic noise in two species of grassland songbirds in the Canadian mixed-grass prairie. North American Ornithological Conference 2016: Washington, DC., USA. (Oral presentation.)
--   **Curry, C.M.**, M.A. Patten, and J. Weir. 2016. Geographic and genomic clines, population structure, and range expansion in a temporally complex titmouse (Paridae) hybrid zone. North American Ornithological Conference 2016: Washington, DC., USA. (Poster presentation.)
--   **Curry, C.M.**, B. Antze, M. Warrington, P. Des Brisay, P. Rosa, and N. Koper. 2016. Behavioural responses of two grassland songbirds to anthropogenic noise pollution. Manitoba Chapter of The Wildlife Society Annual General Meeting: Winnipeg, MB. (Oral presentation.)
--   Koper, N., **C.M. Curry**, B. Antze, and M. Warrington. 2016. Effects of energy infrastructure operating noise on behaviour of Savannah and Baird’s sparrows. Alberta Chapter of The Wildlife Society, Drumheller, Alberta, Canada. (Oral presentation.)
--   **Curry, C.M.**, P. Des Brisay, B. Antze, H. Nenninger, M. Warrington, and N. Koper. 2015. Behavioural response of two grassland songbirds to noise pollution from energy development in the Canadian prairie. The Wildlife Society Annual Meeting: Winnipeg, MB. (Oral presentation).
--   Koper, N.\*, J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of oil and gas infrastructure and operating noise on grassland songbirds in Alberta. The Wildlife Society Annual Meeting: Winnipeg, MB. (Oral presentation.)
--   **Curry, C.M.**, P. Des Brisay, B. Antze, H. Nenninger, M. Warrington, and N. Koper. 2015. Behavioural response of two grassland songbirds to noise pollution from energy development in the Canadian prairie. International Congress for Conservation Biology: Montpellier, France. (Five minute speed talk.)
--   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, and P. Rosa. 2015. Effects of oil and gas infrastructure and operating noise on grassland songbirds in Canada. International Congress for Conservation Biology: Montpellier, France. (Oral presentation).
--   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, H. Nenninger, P. Rosa, and C. Swider. 2015. Effects of energy infrastructure and operating noise on grassland songbirds. Alberta Chapter of the Wildlife Society: Edmonton, AB. (Oral presentation).
--   **Curry, C.M.**, P. Des Brisay, B. Antze, H. Nenninger, and N. Koper. 2014. Effects of oil and gas infrastructure noise on Baird's Sparrow songs. Parks and Protected Areas Research Forum of Manitoba: Winnipeg, MB. (Oral presentation).
+::: {#refs-conference}
+:::
+
+
 -   **Curry, C.M.** and M.A. Patten. 2014. Evolution of reproductive isolation in a temporally complex hybrid zone between Tufted and Black-crested Titmice (Paridae). American Ornithologists' Union/Cooper Ornithological Society/Society of Canadian Ornithologists joint meeting: Estes Park, CO. (Oral presentation).
 -   **Curry, C.M.** and M.A. Patten. 2013. Sexual and natural selection on song across the temporally complex hybrid zone of Tufted and Black-crested Titmice (Paridae). American Ornithologists' Union/Cooper Ornithological Society joint meeting: Chicago, IL. (Oral presentation).
 -   **Curry, C.M.** and M.A. Patten. 2013. Sexual and natural selection on song across a temporally complex passerine hybrid zone. Evolution 2013 meeting: Snowbird, UT. (Poster presentation).
@@ -597,9 +585,10 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
 ## Invited Lectures and Seminars
 
--   **Curry, C.M.**. 2020. Zero to online in 60 seconds: moving Undergraduate Research Day to Open Science Framework. 2020 University Library Day: Norman, OK, USA. (Lightning talk via Zoom. Invited presentation.)
--   **Curry, C.M.**, P. Des Brisay, P. Rosa, and N. Koper. 2017. Efficacy of adjusted songs for communication in noise varies with infrastructure type and hormone levels. In: Mechanisms underlying avian response to energy development (symposium). 2017 American Ornithology: East Lansing, MI, USA. (Oral presentation.)
--   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Industrial noise and oil wells: effects on birds. University of Winnipeg, Winnipeg, Manitoba, Canada.
+::: {#refs-invited}
+:::
+
+
 -   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, M. Warrington, and H. Nenninger. 2017. Effects of noisy oil and gas infrastructure and anthropogenic noise on abundance, productivity, and behaviour of grassland songbirds. Université du Quebéc à Trois-Rivières, Quebec, Canada.
 -   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, M. Warrington, and J. Daniel. 2017. Effects of oil and gas infrastructure and anthropogenic noise on grassland songbirds. National Wildlife Research Centre Seminar Series, Carleton University, Ottawa, Ontario, Canada.
 -   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Effects of noisy petroleum infrastructure on grassland songbirds in Alberta, Canada. Entomology Department Seminar Series, University of Manitoba, Winnipeg, Manitoba, Canada.
