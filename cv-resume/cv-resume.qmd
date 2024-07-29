@@ -102,7 +102,7 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 
 *Software/Data Carpentries Instructor Training* \hfill 2019
 
-*Developed and teach curricula for multiple workshops*
+*Developed and teach curricula for multiple workshops* \hfill 2018-present
 
 - *Repetitive Tasks in R*
 
@@ -128,7 +128,7 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 
   - \bullet \nobreakspace   Created modular .Rmd files to allow mix and match of lesson chunks for two different class visits (one for a cross-listed graduate/undergraduate class, and another for a senior-level undergraduate class)
 
-*Co-developed and teach curricula for multiple workshops*
+*Co-developed and teach curricula for multiple workshops* \hfill 2018-present
 
 - *Survival Skills: Managing Research Files*
 
@@ -138,13 +138,13 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 
 - *Survival Skills: Troubleshooting Computer Code*
 
-*Maintain and update workshops in collaboration with colleagues*
+*Maintain and update workshops in collaboration with colleagues* \hfill 2018-present
 
 - *Formatting Your Data for Analysis*
 
   - \bullet \nobreakspace   Adapted and shortened from Data Carpentry "tidy data" lesson
 
-*Instructing from existing curricula*
+*Instructing from existing curricula* \hfill 2017-present
 
 - *R for Scientific Programming (Software Carpentry lesson)*
 
@@ -200,17 +200,18 @@ Reached 4,010 learners in 220 sessions from July 2018-2024.
 
 - \bullet \nobreakspace On request by course instructors
 
+
 ## Asynchronous Instruction
 
 *Video series for STEM remote research method options*
 
 -  \bullet \nobreakspace Created, produced, and transcribed during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
 
-  -  \cdot \nobreakspace   Hosted lecture on meta-analysis
+    -  \cdot \nobreakspace   Hosted lecture on meta-analysis
 
-  -  \cdot \nobreakspace   Presented videos on data licensing, finding datasets, and literature searches
+    -  \cdot \nobreakspace   Presented videos on data licensing, finding datasets, and literature searches
 
-  -  \cdot \nobreakspace   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
+    -  \cdot \nobreakspace   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
 
 
 *University of Oklahoma Libraries LibGuides*
@@ -223,15 +224,16 @@ Reached 4,010 learners in 220 sessions from July 2018-2024.
 
 - \bullet \nobreakspace   Creating and updating topic guides
 
-  - \cdot \nobreakspace   Data Analysis & Visualization
+    - \cdot \nobreakspace   Data Analysis & Visualization
 
-  - \cdot \nobreakspace   Research Survival Skills (shared, based on "Survival Skills" workshop series)
+    - \cdot \nobreakspace   Research Survival Skills (shared, based on "Survival Skills" workshop series)
 
-  - \cdot \nobreakspace  Citation Management with Zotero (shared)
+    - \cdot \nobreakspace  Citation Management with Zotero (shared)
 
 *Tutorials*
 
-- Co-created "Why Cite?" video to explain necessary parts and rationale for citations beyond avoiding plagiarism
+- \bullet \nobreakspace Co-created "Why Cite?" video to explain necessary parts and rationale for citations beyond avoiding plagiarism
+  
   
 ## Consultations as Instruction
 
@@ -249,12 +251,17 @@ Reached 4,010 learners in 220 sessions from July 2018-2024.
 ## Instructor of Record
 
 *Study Design and Quantitative Methods in Natural Resource Management*
+
 -   Cross-listed graduate/undergraduate \hfill winter 2015, winter 2016
+
 -  \bullet \nobreakspace   Co-instructor with Dr. Nicola Koper
+
 -  \bullet \nobreakspace   Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
 
 *Ecological Dimensions of Natural Resource Management*
+
 -   Graduate level lecture class \hfill fall 2015
+
 -  \bullet \nobreakspace   Sessional instructor: Lecture, guide discussions, grade assignments
 
 ## Mentoring
@@ -267,18 +274,18 @@ Reached 4,010 learners in 220 sessions from July 2018-2024.
 
 *University of Oklahoma Undergraduates*
 
-Alexandra Ainsworth \hfill spring 2012
+- *Alexandra Ainsworth* \hfill spring 2012
 
--  \bullet \nobreakspace   Independent study (3 credit hours), PI: Dr. Michael A. Patten
+  -  \bullet \nobreakspace   Independent study (3 credit hours), PI: Dr. Michael A. Patten
 
--  \bullet \nobreakspace   She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
+  -  \bullet \nobreakspace   She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
 
 
-Sarai H. Stuart \hfill January-April 2012, January-March 2013
+- *Sarai H. Stuart* \hfill January-April 2012, January-March 2013
 
--  \bullet \nobreakspace Volunteer
+  -  \bullet \nobreakspace Volunteer
 
--  \bullet \nobreakspace Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
+  -  \bullet \nobreakspace Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
 
 ## Graduate Teaching Assistantships
 
@@ -333,28 +340,30 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
 *Learner-centered flexible pedagogy*
 
-- \bullet \nobreakspace Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
+- \bullet \nobreakspace Classroom management and motivational pedagogy
 
-- \bullet \nobreakspace Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
+  - \cdot \nobreakspace Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
+
+  - \cdot \nobreakspace Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
 
 - \bullet \nobreakspace In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
+  
+  - \cdot \nobreakspace Interviewing patrons about their research and career goals for tailored assistance
 
-- \bullet \nobreakspace Interviewing patrons about their research and career goals for tailored assistance
+  - \cdot \nobreakspace Referrals to other liaison librarians, information specialists, and campus partners as needed
 
-- \bullet \nobreakspace Referrals to other liaison librarians, information specialists, and campus partners as needed
-
-- \bullet \nobreakspace Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons
+  - \cdot \nobreakspace Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons one-on-one as well as in the classroom
 
 
 *Working with People and Organizations*
 
 - \bullet \nobreakspace Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
 
-  - \bullet \nobreakspace Collaborating with partner organizations and co-workers
+  - \cdot \nobreakspace Collaborating with partner organizations and co-workers
 
-  - \bullet \nobreakspace Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
+  - \cdot \nobreakspace Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
 
-    - \cdot \nobreakspace Maintaining communications with departmental representatives (faculty, staff, and students)
+  - \cdot \nobreakspace Maintaining communications with departmental representatives (faculty, staff, and students)
 
     - \cdot \nobreakspace STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
 
@@ -368,73 +377,133 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
 
 *Statistical and Data Consulting*
-    - \bullet \nobreakspace Experimental design for field and lab work
-    - \bullet \nobreakspace Data collection and management
-    - \bullet \nobreakspace Univariate and multivariate statistical analysis
-        - \bullet \nobreakspace Choice of approaches (frequentist vs model selection)
-        - \bullet \nobreakspace Choice and guidance on specific statistical tests
-        - \bullet \nobreakspace Guidance checking discipline-specific literature for discipline-preferred approaches
-        - \bullet \nobreakspace Choice and use of statistical programming software
-- *Collection Management*
-  - \bullet \nobreakspace Determining need for library program assessments
-  - \bullet \nobreakspace Approving book purchase requests from my subject areas
-  - \bullet \nobreakspace Analyzing usage provided by collections to determine journal subscription maintenance and cancellations
-  - \bullet \nobreakspace Coordinating journal subscription requests among interested departments
+
+- \bullet \nobreakspace Experimental design for field and lab work
+
+- \bullet \nobreakspace Data collection and management
+
+- \bullet \nobreakspace Univariate and multivariate statistical analysis
+  
+  - \cdot \nobreakspace Choice of approaches (frequentist vs model selection)
+  
+  - \cdot \nobreakspace Choice and guidance on specific statistical tests
+  
+  - \cdot \nobreakspace Guidance checking discipline-specific literature for discipline-preferred approaches
+  
+  - \cdot \nobreakspace Choice and use of statistical programming software
+
+*Collection Management*
+
+- \bullet \nobreakspace Determining need and performing for library assessment of collection needs for new academic degrees and certificates
+
+- \bullet \nobreakspace Approving book purchase requests
+
+- \bullet \nobreakspace Analyzing usage provided by collections to determine journal subscription maintenance and cancellations
+
+- \bullet \nobreakspace Coordinating journal subscription requests among interested departments
+
 
 ## Software
 
--   *Statistical Programs*
-    - \bullet \nobreakspace   R 4.0+, as well as older versions through 3.6
-    - \bullet \nobreakspace   SAS 9.2+
-    - \bullet \nobreakspace   IBM SPSS Statistics 29+
--   *Geographic Information Systems (GIS)*
-    - \bullet \nobreakspace   R packages for GIS
-    - \bullet \nobreakspace   Quantum GIS v. 2.10+
-    - \bullet \nobreakspace   ESRI ArcGIS 9.2+
-      - \bullet \nobreakspace   Good relationship with vendor representatives at OU
-      - \bullet \nobreakspace   Assisting users with workflow migration to ArcGIS Pro from ArcMap via organizing training \hfill 2023
-      - \bullet \nobreakspace   Completed course Introduction to GIS course (University of North Texas) \hfill fall 2007
--   *Graphics and Data Visualization*
-    - \bullet \nobreakspace   R package `ggplot2` and extensions such as `ggparty`
-    - \bullet \nobreakspace   RShiny
-    - \bullet \nobreakspace   Inkscape 0.48+
--   *Data management and processing*
-    - \bullet \nobreakspace   Data wrangling
-        - \bullet \nobreakspace   R packages such as `tidyverse` and `sqldf`
-        - \bullet \nobreakspace   OpenRefine
-    - \bullet \nobreakspace   Version control
-        - \bullet \nobreakspace   Git for Windows, Linux, Mac
-        - \bullet \nobreakspace   GitHub.com
-        - \bullet \nobreakspace   Git Large File System for Windows
-    - \bullet \nobreakspace   Databases
-        - \bullet \nobreakspace   SQLite
-        - \bullet \nobreakspace   DB Browser for SQLite
-        - \bullet \nobreakspace   PostgreSQL database language (queries, import and export of data)
-        - \bullet \nobreakspace   pgAdmin III database interface and psql command line interface for use with PostgreSQL
-        - \bullet \nobreakspace   LibreOffice 3.4+ Base
-        - \bullet \nobreakspace   Microsoft Access (uses jetSQL)
--   *Citation/reference management*
-    - \bullet \nobreakspace   Zotero 3.0.7+ bibliography software
--   *Word Processing and Spreadsheets*
-    - \bullet \nobreakspace   Microsoft Office 365: Word, Access, Excel, PowerPoint, OneNote
-    - \bullet \nobreakspace   LibreOffice 3.3.0+: Writer (Word equivalent), Impress (PowerPoint equivalent), Base (Access equivalent)
--   *Specialized Software*
-    - \bullet \nobreakspace   Raven Pro 1.5 sound analysis software
-    - \bullet \nobreakspace   Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, FigTree, and MEGA 4.0
+*Statistical Programs*
+
+- \bullet \nobreakspace   R 4.0+, as well as older versions through 3.6
+
+- \bullet \nobreakspace   SAS 9.2+
+
+- \bullet \nobreakspace   IBM SPSS Statistics 29+
+
+*Geographic Information Systems (GIS)*
+
+- \bullet \nobreakspace   R packages for GIS
+
+- \bullet \nobreakspace   Quantum GIS v. 2.10+
+
+- \bullet \nobreakspace   ESRI ArcGIS 9.2+
+  
+  - \cdot \nobreakspace   Good relationship with vendor representatives at OU
+  
+  - \cdot \nobreakspace   Assisting users with workflow migration to ArcGIS Pro from ArcMap via organizing training \hfill 2023
+  
+  - \cdot \nobreakspace   Completed course Introduction to GIS course (University of North Texas) \hfill fall 2007
+  
+*Graphics and Data Visualization*
+
+- \bullet \nobreakspace   R package `ggplot2` and extensions such as `ggparty`
+
+- \bullet \nobreakspace   RShiny
+
+- \bullet \nobreakspace   Inkscape 0.48+
+
+*Data management and processing*
+
+- \bullet \nobreakspace   Data wrangling
+
+  - \cdot \nobreakspace   R packages such as `tidyverse` and `sqldf`
+
+  - \cdot \nobreakspace   OpenRefine
+  
+  - \cdot \nobreakspace   Version control
+    
+    - \cdot \nobreakspace   Git for Windows, Linux, Mac
+    
+    - \cdot \nobreakspace   GitHub.com
+    
+    - \cdot \nobreakspace   Git Large File System for Windows
+    
+  - \cdot \nobreakspace   Databases
+        
+      - \cdot \nobreakspace   SQLite
+      
+      - \cdot \nobreakspace   DB Browser for SQLite
+      
+      - \cdot \nobreakspace   PostgreSQL database language (queries, import and export of data)
+        
+      - \cdot \nobreakspace   pgAdmin III database interface and psql command line interface for use with PostgreSQL
+
+      - \cdot \nobreakspace   LibreOffice 3.4+ Base
+       
+      - \cdot \nobreakspace   Microsoft Access (uses jetSQL)
+
+*Citation/reference management*
+
+- \bullet \nobreakspace   Zotero 3.0.7+ bibliography software
+
+*Word Processing and Spreadsheets*
+
+- \bullet \nobreakspace   Microsoft Office 365: Word, Access, Excel, PowerPoint, OneNote
+
+- \bullet \nobreakspace   LibreOffice 3.3.0+: Writer (Word equivalent), Impress (PowerPoint equivalent), Base (Access equivalent)
+
+*Specialized Software*
+
+- \bullet \nobreakspace   Raven Pro 1.5 sound analysis software
+
+- \bullet \nobreakspace   Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, FigTree, and MEGA 4.0
 
 ## Research Methods
 
 *Library and literature-based methods*
-  - \bullet \nobreakspace   *Reproducible database searches*
-    - \bullet \nobreakspace   Controlled vocabulary and thesaurus searches
-    - \bullet \nobreakspace   Choosing and modifying keywords
-    - \bullet \nobreakspace  Boolean operators and wild cards
+
+- \bullet \nobreakspace   *Reproducible database searches*
+
+  - \cdot \nobreakspace   Controlled vocabulary and thesaurus searches
+
+  - \cdot \nobreakspace   Choosing and modifying keywords
+
+  - \cdot \nobreakspace  Boolean operators and wild cards
+
 - \bullet \nobreakspace   *Evidence synthesis*
-    - \bullet \nobreakspace   Evidence Synthesis Institute \hfill August 2022 cohort
-        - \bullet \nobreakspace   Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
-        - \bullet \nobreakspace   Developed Evidence Synthesis LibGuide Page for initial information for community members
-    - \bullet \nobreakspace Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis.
-    - \bullet \nobreakspace   Authored and co-authored two peer-reviewed narrative reviews
+
+  - \cdot \nobreakspace   Evidence Synthesis Institute \hfill August 2022 cohort
+
+    - \cdot \nobreakspace   Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
+  
+  - \cdot \nobreakspace   Developed Evidence Synthesis LibGuide Page for initial information for community members
+  
+  - \cdot \nobreakspace Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis
+  
+  - \cdot \nobreakspace   Authored and co-authored two peer-reviewed narrative reviews
 
 *Field methods*
 
@@ -737,123 +806,134 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
 # Funding
 
-## Intramural
-
--   *Research and Projects*
-    -   *OU Data Institute for Societal Challenges Seed Funding*
-        -   \$10,000 \hfill June 2022-August 2023
-        -   Seed funding to develop Statistics Helper educational website prototype
-    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-        -   \$2500 \hfill summer 2012
-        -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department
-    -   *George Miksch Sutton Scholarship in Ornithology*
-        -   \$3500 \hfill 2012
-        -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
-    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
-        -   \$1000 \hfill 2011-2012
-        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
-    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-        -   \$2500 \hfill summer 2011
-        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
-    -   *George Miksch Sutton Scholarship in Ornithology*
-        -   \$6700 \hfill 2011
-        -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
-    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
-        -   \$1000 \hfill 2010-2011
-        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
-    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-        -   \$756 \hfill summer 2010
-        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
-    -   *George Miksch Sutton Scholarship in Ornithology*
-        -   \$4800 \hfill 2010
-        -   Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
-    -   *OU Graduate Student Senate Research and Creative Endeavors Grant*
-        -   \$224.82 \hfill spring 2010
-        -   Research equipment and travel to north-central Texas to examine field sites
-    -   *OU Robberson Research Grant*
-        -   \$1000 (granted once per degree) \hfill February 2010
-        -   Research travel and genetic analysis costs
-    -   *OU Graduate Student Senate Research and Creative Endeavors Grant*
-        -   \$315.62 \hfill fall 2009
-        -   Travel expenses to southwestern Oklahoma to examine field sites
-    -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-        -   \$2500 \hfill summer 2009
-        -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
-    -   *George Miksch Sutton Scholarship in Ornithology*
-        -   \$5000 \hfill 2009
-        -   Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
--   *Travel Awards*
-    -   *OU College of Arts and Sciences Student Travel Fund*
-        -   \$750 \hfill August 2013
-        -   Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
-    -   *OU Department of Biology Travel Funding*
-        -   \$250 \hfill May 2013
-        -   To attend Evolution 2013 meeting in Snowbird, UT in June 2013
-    -   *OU College of Arts and Sciences Student Travel Fund*
-        -   \$750 \hfill August 2012
-        -   Travel to North American Ornithological Conference in Vancouver BC in August 2012
-    -   *OU Department of Zoology travel funding*
-        -   \$250 \hfill February 2011
-        -   Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
-    -   *OU College of Arts and Sciences Student Travel Fund*
-        -   \$750 \hfill October 2010
-        -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
-    -   *OU Robberson Travel Grant*
-        -   \$500 (granted once per degree) \hfill October 2010
-        -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
-    -   *OU Graduate Student Senate Conference and Creative Exhibition Grant*
-        -   \$79.86 \hfill spring 2010
-        -   Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
-    -   *Carl and Pat Bynum Riggs Scholarship*
-        -   \$500 \hfill summer 2009
-        -   To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class
-
 ## Extramural
 
--   *Research*
-    -   *Prairie Biotic Research, Inc. small grants program*
-        -   \$1500 \hfill March 2018
-        -   Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
-        -   Co-PI Mary Curry
-    -   *Amazon Web Services (AWS) Cloud Credits for Research program*
-        -   \$6500 in computing credits on AWS \hfill 2017
-        -   Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
-    -   *Sigma Xi Grant-in-Aid of Research*
-        -   \$500 \hfill spring 2012
-        -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
-    -   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
-        -   \$2000 \hfill 2012-2013
-        -   Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
-    -   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
-        -   \$2000 \hfill 2011-2013
-        -   Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
-    -   *Oklahoma Ornithological Society*
-        -   \$500 \hfill 2012
-        -   Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
-    -   *Oklahoma Ornithological Society*
-        -   \$400 \hfill 2010
-        -   Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
--   *Travel Awards*
-    -   *American Ornithological Society Post-Doctoral Travel Award*
-        -   \$290 \hfill August 2017
-        -   To attend 2017 American Ornithology Conference in East Lansing, MI
-    -   *Association of Field Ornithologists’ Post-Doctoral Travel Award*
-        -   \$260 \hfill August 2016
-        -   To attend NAOC2016 meeting in Washington, DC
-    -   *American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award*
-        -   \$370 \hfill September 2014
-        -   To attend AOU/COS/SCO joint meeting in Estes Park, CO
-    -   *American Ornithologists Union/Cooper Ornithological Society Student Travel Award*
-        -   \$333 \hfill August 2013
-        -   To attend AOU/COS joint meeting in Chicago, IL
-    -   *American Society of Naturalists Student Travel Award*
-        -   \$500 \hfill June 2013
-        -   To attend Evolution 2013 meeting in Snowbird, UT
-    -   *Student Travel Award from 2012 North American Ornithological Conference*
-        -   \$300 \hfill 2012
-        -   To attend 2012 North American Ornithological Conference in Vancouver, BC
+*Research*
+
+-   *Prairie Biotic Research, Inc. small grants program*
+    -   \$1500 \hfill March 2018
+    -   Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
+    -   Co-PI Mary Curry
+-   *Amazon Web Services (AWS) Cloud Credits for Research program*
+    -   \$6500 in computing credits on AWS \hfill 2017
+    -   Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
+-   *Sigma Xi Grant-in-Aid of Research*
+    -   \$500 \hfill spring 2012
+    -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
+-   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
+    -   \$2000 \hfill 2012-2013
+    -   Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
+-   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
+    -   \$2000 \hfill 2011-2013
+    -   Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
+-   *Oklahoma Ornithological Society*
+    -   \$500 \hfill 2012
+    -   Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
+-   *Oklahoma Ornithological Society*
+    -   \$400 \hfill 2010
+    -   Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
+
+*Travel Awards*
+
+-   *American Ornithological Society Post-Doctoral Travel Award*
+    -   \$290 \hfill August 2017
+    -   To attend 2017 American Ornithology Conference in East Lansing, MI
+-   *Association of Field Ornithologists’ Post-Doctoral Travel Award*
+    -   \$260 \hfill August 2016
+    -   To attend NAOC2016 meeting in Washington, DC
+-   *American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award*
+    -   \$370 \hfill September 2014
+    -   To attend AOU/COS/SCO joint meeting in Estes Park, CO
+-   *American Ornithologists Union/Cooper Ornithological Society Student Travel Award*
+    -   \$333 \hfill August 2013
+    -   To attend AOU/COS joint meeting in Chicago, IL
+-   *American Society of Naturalists Student Travel Award*
+    -   \$500 \hfill June 2013
+    -   To attend Evolution 2013 meeting in Snowbird, UT
+-   *Student Travel Award from 2012 North American Ornithological Conference*
+    -   \$300 \hfill 2012
+    -   To attend 2012 North American Ornithological Conference in Vancouver, BC
+
+
+## Intramural
+
+*Research and Projects*
+
+-   *OU Data Institute for Societal Challenges Seed Funding*
+    -   \$10,000 \hfill June 2022-August 2023
+    -   Seed funding to develop Statistics Helper educational website prototype
+-   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+    -   \$2500 \hfill summer 2012
+    -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department
+-   *George Miksch Sutton Scholarship in Ornithology*
+    -   \$3500 \hfill 2012
+    -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+-   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
+    -   \$1000 \hfill 2011-2012
+    -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+-   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+    -   \$2500 \hfill summer 2011
+    -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+-   *George Miksch Sutton Scholarship in Ornithology*
+    -   \$6700 \hfill 2011
+    -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
+-   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
+    -   \$1000 \hfill 2010-2011
+    -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
+-   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+    -   \$756 \hfill summer 2010
+    -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
+-   *George Miksch Sutton Scholarship in Ornithology*
+    -   \$4800 \hfill 2010
+    -   Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
+-   *OU Graduate Student Senate Research and Creative Endeavors Grant*
+    -   \$224.82 \hfill spring 2010
+    -   Research equipment and travel to north-central Texas to examine field sites
+-   *OU Robberson Research Grant*
+    -   \$1000 (granted once per degree) \hfill February 2010
+    -   Research travel and genetic analysis costs
+-   *OU Graduate Student Senate Research and Creative Endeavors Grant*
+    -   \$315.62 \hfill fall 2009
+    -   Travel expenses to southwestern Oklahoma to examine field sites
+-   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
+    -   \$2500 \hfill summer 2009
+    -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
+-   *George Miksch Sutton Scholarship in Ornithology*
+    -   \$5000 \hfill 2009
+    -   Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
+
+*Travel Awards*
+
+-   *OU College of Arts and Sciences Student Travel Fund*
+    -   \$750 \hfill August 2013
+    -   Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
+-   *OU Department of Biology Travel Funding*
+    -   \$250 \hfill May 2013
+    -   To attend Evolution 2013 meeting in Snowbird, UT in June 2013
+-   *OU College of Arts and Sciences Student Travel Fund*
+    -   \$750 \hfill August 2012
+    -   Travel to North American Ornithological Conference in Vancouver BC in August 2012
+-   *OU Department of Zoology travel funding*
+    -   \$250 \hfill February 2011
+    -   Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
+-   *OU College of Arts and Sciences Student Travel Fund*
+    -   \$750 \hfill October 2010
+    -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+-   *OU Robberson Travel Grant*
+    -   \$500 (granted once per degree) \hfill October 2010
+    -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+-   *OU Graduate Student Senate Conference and Creative Exhibition Grant*
+    -   \$79.86 \hfill spring 2010
+    -   Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
+-   *Carl and Pat Bynum Riggs Scholarship*
+    -   \$500 \hfill summer 2009
+    -   To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class
+
+
 
 {{< pagebreak >}}
+
+
 
 # Memberships
 
