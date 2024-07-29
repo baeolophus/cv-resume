@@ -959,51 +959,50 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
 # References
 
-- Ms. Karie Antell
-  - Current supervisor
-  - Email: kantell\@ou.edu
-  - Phone: +1 405-325-4142
-  - Head of Library Instruction and Liaison Services
-    - University of Oklahoma Libraries
-    - 401 W. Brooks St.
-    - Norman, OK, USA 73019
+*Ms. Karie Antell*
 
+- Email: kantell\@ou.edu
+- Phone: +1 405-325-4142
+- Head of Library Instruction and Liaison Services, University of Oklahoma Libraries
+  - 401 W. Brooks St.
+  - Norman, OK, USA 73019
+
+\nobreakspace
+*Ms. Sarah Robbins*
+
+- Email: srobbins\@ou.edu
+- Phone: +1 405-325-5293
+- Senior Director, Strategic & Research Initiatives, University of Oklahoma Libraries
+  - 401 W. Brooks St.
+  - Norman, OK, USA 73019
     
-- Ms. Sarah Robbins
-  - Previous supervisor
-  - Email: srobbins\@ou.edu
-  - Phone: +1 405-325-5293
-  - Senior Director, Strategic & Research Initiatives
-    - University of Oklahoma Libraries
-    - 401 W. Brooks St.
-    - Norman, OK, USA 73019
+\nobreakspace
 
-    
-- Dr. Michael A. Patten
-  - PhD advisor, post-doc supervisor
-  - Email: michael.a.patten\@nord.no
-  - Phone: +4774022822 (Norway)
-  - Professor, Faculty of Biosciences and Aquaculture
-    - Nord University
-    - Postboks 1490
-    - 8049 Bodø
-    - Steinkjer, Norway
+*Dr. Michael A. Patten*
 
+- Email: michael.a.patten\@nord.no
+- Phone: +4774022822 (Norway)
+- Professor, Faculty of Biosciences and Aquaculture, Nord University
+  - Postboks 1490
+  - 8049 Bodø
+  - Steinkjer, Norway
 
-- Dr. Eli Bridge
-  - Post-doc supervisor
-  - Email: ebridge\@ou.edu
-  - Phone: +1 405-325-4034
-  - Director, Oklahoma Biological Survey
-    - University of Oklahoma
-    - 111 E. Chesapeake Street
-    - Norman, OK, USA 73019
+\nobreakspace
 
+*Dr. Eli Bridge*
 
-- Dr. Nicola Koper
-  - Post-doc supervisor
-  - Email: Nicola.Koper\@unbc.ca
-  - Dean, Faculty of Environment
-    - University of Northern British Columbia
-    - 3333 University Way
-    - Prince George, British Columbia, Canada V2N 4Z9
+- Email: ebridge\@ou.edu
+- Phone: +1 405-325-4034
+- Director, Oklahoma Biological Survey, University of Oklahoma
+  - 111 E. Chesapeake Street
+  - Norman, OK, USA 73019
+
+\nobreakspace
+
+*Dr. Nicola Koper*
+
+- Email: Nicola.Koper\@unbc.ca
+- Phone: +1 250-960-5121
+- Dean, Faculty of Environment, University of Northern British Columbia
+  - 3333 University Way
+  - Prince George, British Columbia, Canada V2N 4Z9
