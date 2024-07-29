@@ -545,6 +545,10 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
   - \bullet \nobreakspace   Trained seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
 
+
+{{< pagebreak >}}
+
+
 # Work Products
 
 ## Peer-Reviewed Publications
@@ -555,11 +559,6 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 ## Technical Reports
 
 ::: {#refs-reports}
-:::
-
-## Press Releases
-
-::: {#refs-impact}
 :::
 
 ## Conference Presentations
