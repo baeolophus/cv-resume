@@ -103,7 +103,7 @@ I guide higher education students, faculty, and staff to enhance their research,
 
 Teach, develop, and adapt curricula to enhance researchers' abilities to process, analyze, and visualize information.
 
-*Software/Data Carpentries Instructor Training* \hfill 2019
+*Software/Data Carpentries Instructor Training* \hfill 2018
 
 *Developed and teach curricula for multiple workshops* \hfill 2018-present
 
@@ -533,6 +533,34 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
   - \bullet \nobreakspace   Terrestrial insect sampling
 
+*Selected Trainings Attended*
+
+- OU Military Support Forum Green Zone Suicide Prevention Training \hfill 2023
+
+- OU Green Zone (Veteran Support Center) \hfill 2023
+
+- Navigating Tough Conversations in Statistical Collaboration Workshop (Oklahoma Chapter of the American Statistical Association) \hfill 2023
+
+- Virtual ACRL Framework Workshop for OU Libraries \hfill 2022
+
+- American Heart Association CPR/AED Course for Adult, Child, Infant \hfill 2022
+
+- Stop the Bleed training \hfill 2022
+
+- Institutional Review Board training \hfill 2020
+
+- Diversity Ally Training by OU HR \hfill 2019
+  - Unlearning Ableism
+  - Unlearning Classism
+  - Unlearning Racism
+
+- Mental Health First Aid \hfill 2019
+
+- Question, Persuade, Refer, Suicide Prevention Training \hfill 2018
+
+- LGBTQ Ally 2.0 Training (OU) \hfill 2018
+
+
 
 ## Supervisory Experience
 
@@ -672,13 +700,19 @@ Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise Coun
 
 - \bullet \nobreakspace  Hiring committee (chair) for University Libraries STEM Instruction Librarian – 2024 (in progress)
 
+- \bullet \nobreakspace  Graduate Research Retreat Planning Committee (member) - 2023
+
 - \bullet \nobreakspace  Hiring committee for University Libraries National Weather Center Branch Library Manager – 2023 (successful search)
 
 - \bullet \nobreakspace  UL Awards committee (2023) Hiring committee for University Libraries Liaison Coordinator – 2022-2023 (unsuccessful searches)
 
+- \bullet \nobreakspace  New employee mentoring program for two new staff - 2021-2022
+
 - \bullet \nobreakspace  Hiring committee for University Libraries Marketing & Communication Search – 2021 (successful search)
 
 - \bullet \nobreakspace  Successful proposal (with assistance from LGBTQIA+ colleagues) to add option for pronouns to official University Libraries name badges for faculty/staff - 2021
+
+- \bullet \nobreakspace  University Libraries Strategic Planning Team 3b member - 2021
 
 - \bullet \nobreakspace  Department of Biology Graduate Selections Committee graduate student representative (2010-2013 academic years); provide comments on new graduate student applications to the department.
 
@@ -730,7 +764,7 @@ Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise Coun
 
 ## Community
 
-*Presentations ENTERING INTO ZOTERO*
+*Presentations*
 
 :::{#refs-public_talks}
 :::
