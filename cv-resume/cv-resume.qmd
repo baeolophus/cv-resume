@@ -23,6 +23,8 @@ bibliography:
   reports: refs-reports.bib
   conference: refs-conferences.bib
   invited: refs-invited.bib
+  popular: refs-popular.bib
+  public-talks: refs-public_talks.bib
 validate-yaml: false
 csl: apa-cv.csl
 #Make my name bold in bibligographies
@@ -568,45 +570,41 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 :::
 
 
--   **Curry, C.M.** and M.A. Patten. 2014. Evolution of reproductive isolation in a temporally complex hybrid zone between Tufted and Black-crested Titmice (Paridae). American Ornithologists' Union/Cooper Ornithological Society/Society of Canadian Ornithologists joint meeting: Estes Park, CO. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2013. Sexual and natural selection on song across the temporally complex hybrid zone of Tufted and Black-crested Titmice (Paridae). American Ornithologists' Union/Cooper Ornithological Society joint meeting: Chicago, IL. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2013. Sexual and natural selection on song across a temporally complex passerine hybrid zone. Evolution 2013 meeting: Snowbird, UT. (Poster presentation).
--   **Curry, C.M.** and M.A. Patten. 2012. Evolution of song variation across a complex hybrid zone in Tufted and Black-crested titmice. Oklahoma Ornithological Society meeting: Oklahoma City, OK. (Oral presentation). Won “Best Oral Presentation by a Graduate Student”.
--   **Curry, C.M.** and M.A. Patten. 2012. Evolution of song variation across a complex hybrid zone in Tufted and Black-crested titmice. North American Ornithological Conference: Vancouver, BC. (Poster presentation).
--   **Curry, C.M.** and M.A. Patten. 2012. Causes and consequences of song variation across a temporally complex passerine hybrid zone. First Joint Congress on Evolutionary Biology: Ottawa, ON. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2011. Causes of song variation across the titmouse hybrid zones in Oklahoma and Texas. Oklahoma Ornithological Society meeting: Edmond, OK. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Evolution 2011 meeting: Norman, OK. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting: Kearney, NE. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2010. Vocal dynamics of a complex avian hybrid zone. Oklahoma Ornithological Society meeting: Stillwater, OK. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2010. Vocal dynamics of a complex avian hybrid zone. Association of Field Ornithologists’ annual meeting: Ogden, UT. (Poster presentation.)
--   **Curry, C.M.** and M.A. Patten. 2010. Vocal dynamics of a complex avian hybrid zone. Southwestern Association of Naturalists annual meeting: Junction, TX. (Poster presentation).
--   **Curry, C.M.** and J.H. Kennedy. 2008. Factors affecting interaction rates and space use of Plathemis lydia (Drury 1773) (Odonata: Libellulidae). Southwestern Branch of the Entomological Society of America/Society of Southwestern Entomologists joint meeting: Fort Worth, TX. (Poster presentation).
--   **Curry, C.M.** and J.H. Kennedy. 2008. Factors affecting interaction rates and space use of Plathemis lydia (Drury 1773) (Odonata: Libellulidae). Southwestern Association of Naturalists annual meeting: Memphis, TN. (Oral presentation).
-
-## Invited Lectures and Seminars
+## Seminars and Invited Lectures
 
 ::: {#refs-invited}
 :::
 
 
--   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, M. Warrington, and H. Nenninger. 2017. Effects of noisy oil and gas infrastructure and anthropogenic noise on abundance, productivity, and behaviour of grassland songbirds. Université du Quebéc à Trois-Rivières, Quebec, Canada.
 -   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, M. Warrington, and J. Daniel. 2017. Effects of oil and gas infrastructure and anthropogenic noise on grassland songbirds. National Wildlife Research Centre Seminar Series, Carleton University, Ottawa, Ontario, Canada.
--   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Effects of noisy petroleum infrastructure on grassland songbirds in Alberta, Canada. Entomology Department Seminar Series, University of Manitoba, Winnipeg, Manitoba, Canada.
--   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, and J. Daniel. 2017. Effects of noisy petroleum infrastructure on grassland songbirds in Alberta, Canada. St. George's University, Grenada.
--   Koper, N., D. Bruinsma, **C.M. Curry**, L. McDonald, M. Warrington, J. Bernath-Plaisted, H. Nenninger, and E. Prokopanko. 2016. If we build it, will they come? Manitoba’s grassland birds and their native prairie habitats. Living Prairie Museum Public Lecture Series, Winnipeg, Manitoba, Canada.
+
+
 -   Koper, N., **C.M. Curry**, B. Antze, J. Daniel, H. Nenninger, J. Bernath-Plaisted, P. Rosa, and M. Warrington, M. 2016. Effects of energy infrastructure on grassland songbirds. Cenovus Lunch and Learn seminar series (invited), Cenovus Energy, Calgary, Alberta, Canada.
--   **Curry, C.M.** 2015. Management and analysis of quantitative data. Guest lecture in Master’s Thesis Research Seminar (NRI 7262). (Invited by the instructor, Dr. John Sinclair).
+
 -   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of energy infrastructure and operating noise on grassland songbirds in Alberta. National Wildlife Research Centre Seminar Series, National Wildlife Research Centre, Carleton University, Ottawa, Canada.
+
+
 -   Koper, N., P. Rosa, J. Lockhart, T. Lwiwski, J. Rodgers, K. Molloy, **C.M. Curry**, S. Fischer, C. Swider, and J. Yoo. 2015. From mensurative to manipulative: diverse study designs to understand effects of anthropogenic disturbance and habitat fragmentation on grassland birds. Ontario Grassland Guild: Guelph, ON.
+
+
 -   Koper, N., J. Rodgers, J. Yoo, K. Molloy, J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of shallow gas and oil infrastructure and operating noise on grassland songbirds. Canadian Wildlife Service: Edmonton, AB.
--   **Curry, C.M.** 2014. Adaptation and evolution: the role of evolution in conservation and management. Guest lecture in Ecological Dimensions of Resource and Environmental Management (NRI7232). Natural Resources Institute, University of Manitoba, Winnipeg, MB. (Invited by the instructor, Dr. Nicola Koper).
--   **Curry, C.M.** 2014. Evolution of reproductive isolation in a temporally complex songbird hybrid zone. Seminar at Natural Resources Institute, University of Manitoba, Winnipeg, MB. (Oral presentation).
--   **Curry, C.M.** 2013. The evolution of reproductive isolation in a temporally complex passerine hybrid zone. Ecology and Evolutionary Biology seminar at Kansas State University: Manhattan, KS. (Invited seminar, host Dr. Brett Sandercock).
--   **Curry, C.M.** 2013. The evolution of reproductive isolation in a temporally complex passerine hybrid zone. Biology department seminar, University of Oklahoma: Norman, OK. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Ecology and Evolutionary Biology seminar (“Ecomunch”) at University of Oklahoma: Norman, OK. (Oral presentation).
--   **Curry, C.M.** and M.A. Patten. 2011. Song varies across younger and older hybrid zones in Black-crested (Baeolophus atricristatus) and Tufted (B. bicolor) titmice. Graduate College Student Research and Performance Day, University of Oklahoma: Norman, OK. (Poster presentation).
--   **Curry, C.M.** and M.A. Patten. 2010. Song differences between Tufted and Black-crested Titmouse. Graduate College Student Research and Performance Day, University of Oklahoma: Norman, OK. (Poster presentation).
--   **Curry, C.M.** 2009. Genetic and behavioral dynamics in a complex avian hybrid zone. Ecology and Evolutionary Biology seminar (“Ecomunch”) at University of Oklahoma: Norman, OK. (Oral presentation).
+
+
+## Popular articles
+
+Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger \hfill 2002-2013
+
+- \bullet \nospacebreak September 2002-September 2007, volunteer columnist
+
+- \bullet \nospacebreak November 2007-October 2013, paid columnist--+
+
+- \bullet \nospacebreak Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
+
+
+:::{#refs-popular}
+:::
+
+
 
 # Awards, Honors, and Fellowships
 
@@ -747,28 +745,29 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 ## Community
 
 *Presentations ENTERING INTO ZOTERO*
--   **Curry, C.M.** 14 Feb. 2019. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Fort Worth Audubon Society: Fort Worth, TX. (Public talk).
--   **Curry, C.M.** 22 Jan. 2018. Can they hear each other now? Noise and its effects on birds in the Canadian prairies and elsewhere. Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
--   **Curry, C.M.** 2015. Evolution in action in Oklahoma and Texas. Presentations via teleconference to high school students in Jenks, Oklahoma AP Environmental Science classes (four periods, Mr. Bryan Yockers) about the evolution of reproductive isolation in titmice.
--   **Curry, C.M.** 2012. Titmice in Oklahoma and Texas: what makes a hybrid zone? Oklahoma City Audubon Society: Oklahoma City, OK. (Public talk).
--   **Curry, C.M.** 2009. Hybrid zones: titmice and the nature of species. Darwin-a-thon public education event at University of Oklahoma: Norman, OK. (Public talk).
--   Have co-presented talks about birds and ecology to Denton County Master Gardeners (TX), Elm Fork Chapter of Texas Master Naturalists, Decatur Lions’ Club, Tallgrass Prairie Audubon Society, Girl Scouts, Boy Scouts, elementary school students in Decatur, TX, and 2001, 2006, and 2007 JAKES (Juniors Acquiring Knowledge, Ethics, and Sportsmanship) events (U.S. Forest Service; Texas Parks and Wildlife) at the Lyndon B. Johnson National Grasslands.
+
+:::{#refs-public_talks}
+:::
+
+Have co-presented talks about birds and ecology \hfill 2001-2007
+
+- \bullet \nobreakspace Denton County Master Gardeners (TX)
+
+- \bullet \nobreakspace Elm Fork Chapter of Texas Master Naturalists
+
+- \bullet \nobreakspace Decatur Lions’ Club
+
+- \bullet \nobreakspace Tallgrass Prairie Audubon Society
+
+- \bullet \nobreakspace Girl Scouts
+
+- \bullet \nobreakspace Boy Scouts
+
+- \bullet \nobreakspace elementary school students in Decatur, TX
+
+- \bullet \nobreakspace 2001, 2006, and 2007 JAKES (Juniors Acquiring Knowledge, Ethics, and Sportsmanship) events (U.S. Forest Service; Texas Parks and Wildlife) at the Lyndon B. Johnson National Grasslands.
 
 
-*Popular articles ENTERING INTO ZOTERO*
-
--   Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger. September 2002-September 2007, volunteer columnist; November 2007-October 2013, paid columnist. Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
-
--   **Curry, Claire**. 2004. West Nile virus: birds, people, and Texas.” Texas Birds 5(1):14-16.
-  -   A short review of West Nile Virus after its initial outbreak.
--   **Curry, Claire**. 2004. Killer meadowlarks. Texas Birds 5(1):29-30.
-  -   Observations on an Eastern Meadowlark killing American Goldfinches during a winter storm.
--   **Curry, Claire**. 2004. Flight path: Young Birder of the Year contest \~ A birding essay: Stubs. Birding August 36(4):354-356.
-  -   Observations on a female Archilochus sp. hummingbird with a broken beak.
--   **Curry, Claire**. 2004. Real birders drool. IN Claire Curry, Robert M. Milardo, and Richard Frechette. 2004. Dimensions: Three flights of fancy. Birding 36(3):288-289.
-    -   Humorous essay on the canine birding experience.
--   **Curry, Claire**. 2002. The tail of an unfortunate chickadee. Winging It 14(2):4.
-  -   Description of a Carolina Chickadee trapped in an Argiope sp. spider web.
 
 
 *Additional STEM outreach*
