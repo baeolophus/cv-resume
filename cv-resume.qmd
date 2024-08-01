@@ -27,7 +27,7 @@ bibliography:
   public-talks: refs-public_talks.bib
 validate-yaml: false
 csl: apa-cv.csl
-#Make my name bold in bibligographies
+#Make my name bold in bibligographies using lua filter https://tex.stackexchange.com/questions/33330/make-one-authors-name-bold-every-time-it-shows-up-in-the-bibliography
 filters:
   - bold-author.lua
 bold-auth-name:
