@@ -540,7 +540,7 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
   - \bullet \nobreakspace   Undergraduate student web developer. Mentored in professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
 
-*Henry Dang* \hfill 2017-2018
+*Henry Dang* \hfill 2018
 
   - \bullet \nobreakspace   Undergraduate student cleaning and merging multiple database versions. Mentored in R and version control from complete novice to being able to create a package to calculate triangulation points for radio-tracked telemetry data.
 
@@ -576,29 +576,15 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 :::
 
 
--   Koper, N., P. Rosa, **C.M. Curry**, J. Bernath-Plaisted, H. Nenninger, M. Warrington, and J. Daniel. 2017. Effects of oil and gas infrastructure and anthropogenic noise on grassland songbirds. National Wildlife Research Centre Seminar Series, Carleton University, Ottawa, Ontario, Canada.
-
-
--   Koper, N., **C.M. Curry**, B. Antze, J. Daniel, H. Nenninger, J. Bernath-Plaisted, P. Rosa, and M. Warrington, M. 2016. Effects of energy infrastructure on grassland songbirds. Cenovus Lunch and Learn seminar series (invited), Cenovus Energy, Calgary, Alberta, Canada.
-
--   Koper, N., J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of energy infrastructure and operating noise on grassland songbirds in Alberta. National Wildlife Research Centre Seminar Series, National Wildlife Research Centre, Carleton University, Ottawa, Canada.
-
-
--   Koper, N., P. Rosa, J. Lockhart, T. Lwiwski, J. Rodgers, K. Molloy, **C.M. Curry**, S. Fischer, C. Swider, and J. Yoo. 2015. From mensurative to manipulative: diverse study designs to understand effects of anthropogenic disturbance and habitat fragmentation on grassland birds. Ontario Grassland Guild: Guelph, ON.
-
-
--   Koper, N., J. Rodgers, J. Yoo, K. Molloy, J. Bernath-Plaisted, **C.M. Curry**, B. Antze, M. Warrington, H. Nenninger, C. Swider, and P. Rosa. 2015. Effects of shallow gas and oil infrastructure and operating noise on grassland songbirds. Canadian Wildlife Service: Edmonton, AB.
-
-
 ## Popular articles
 
 Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger \hfill 2002-2013
 
-- \bullet \nospacebreak September 2002-September 2007, volunteer columnist
+- \bullet \nobreakspace September 2002-September 2007, volunteer columnist
 
-- \bullet \nospacebreak November 2007-October 2013, paid columnist
+- \bullet \nobreakspace November 2007-October 2013, paid columnist
 
-- \bullet \nospacebreak Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
+- \bullet \nobreakspace Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
 
 
 :::{#refs-popular}
