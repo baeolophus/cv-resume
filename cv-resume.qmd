@@ -24,7 +24,7 @@ bibliography:
   conference: refs-conferences.bib
   invited: refs-invited.bib
   popular: refs-popular.bib
-  public-talks: refs-public_talks.bib
+  public_talks: refs-public_talks.bib
 validate-yaml: false
 csl: apa-cv.csl
 #Make my name bold in bibligographies using lua filter https://tex.stackexchange.com/questions/33330/make-one-authors-name-bold-every-time-it-shows-up-in-the-bibliography
@@ -49,12 +49,12 @@ I guide higher education students, faculty, and staff to enhance their research,
 
 # Education
 
-*University of Oklahoma* Ph.D. in Ecology and Evolutionary Biology (Zoology) \hfill 2008-2014
+*University of Oklahoma (OU)* Ph.D. in Ecology and Evolutionary Biology (Zoology) <span> \color{lightgray} \dotfill </span> 2008-2014
 
 -   Dissertation: "The evolution of reproductive isolation in a temporally complex passerine hybrid zone"
 -   Advisor: Dr. Michael A. Patten
 
-*University of North Texas* B.S. in Biology, Chemistry minor (summa cum laude) \hfill 2005-2007
+*University of North Texas (UNT)* B.S. in Biology, Chemistry minor (summa cum laude) <span> \color{lightgray} \dotfill </span> 2005-2007
 
 -   Honors thesis: "Factors affecting interaction rates and space use of *Plathemis lydia* (Odonata: Libellulidae)"
 -   Advisor: Dr. James H. Kennedy
@@ -63,57 +63,61 @@ I guide higher education students, faculty, and staff to enhance their research,
 
 *University Libraries, University of Oklahoma (Norman, OK, USA)*
 
--   Science Librarian \hfill 2018-present
+-   Science Librarian <span> \color{lightgray} \dotfill </span> 2018-present
 
 *Oklahoma Biological Survey, University of Oklahoma (Norman, OK, USA)*
 
--   Post-doctoral Research Associate \hfill 2016-2018
+-   Post-doctoral Research Associate <span> \color{lightgray} \dotfill </span> 2016-2018
 
-*Natural Resources Institute, University of Manitoba, (Winnipeg, MB, Canada)*
+*Natural Resources Institute, University of Manitoba (UM), (Winnipeg, MB, Canada)*
 
--   Research Associate \hfill 2016
+-   Research Associate <span> \color{lightgray} \dotfill </span> 2016
 
--   Post-doctoral Fellow \hfill 2014-2016
+-   Post-doctoral Fellow <span> \color{lightgray} \dotfill </span> 2014-2016
 
 *U.S. Forest Service Contractor (Decatur, TX, USA)*
 
--   Contractor for Lyndon B. Johnson National Grasslands \hfill March-June 2008
+-   Contractor for Lyndon B. Johnson National Grasslands <span> \color{lightgray} \dotfill </span> March-June 2008
 
--   Contractor for Lyndon B. Johnson National Grasslands \hfill December 2001-February 2002
+-   Contractor for Lyndon B. Johnson National Grasslands <span> \color{lightgray} \dotfill </span> December 2001-February 2002
 
 *Aquatic Ecology Lab, University of North Texas (Denton, TX, USA)*
 
--   Undergraduate Research Assistant \hfill March-August 2007
+-   Undergraduate Research Assistant <span> \color{lightgray} \dotfill </span> March-August 2007
 
--   Undergraduate Research Assistant \hfill October 2005-May 2006
+-   Undergraduate Research Assistant <span> \color{lightgray} \dotfill </span> October 2005-May 2006
 
 *Leon River Restoration Project (with Texas A&M University)*
 
--   Seasonal Field Biologist \hfill May-July 2006
+-   Seasonal Field Biologist <span> \color{lightgray} \dotfill </span> May-July 2006
 
 *Texas Agricultural Experiment Station (Vernon, TX, USA)*
 
--   Field Technician \hfill June-August 2005
+-   Field Technician <span> \color{lightgray} \dotfill </span> June-August 2005
 
 {{< pagebreak >}}
 
 # Teaching experience
 
-## Research Data Workshops
+## Research Data Workshops  <span> \color{lightgray} \dotfill </span> 2017-present
 
-Teach, develop, and adapt curricula to enhance researchers' abilities to process, analyze, and visualize information.
-
-*Software/Data Carpentries Instructor Training* \hfill 2018
-
-*Developed and teach curricula for multiple workshops* \hfill 2018-present
+Teach, develop, and adapt curricula independently and collaboratively to enhance researchers' abilities to process, analyze, and visualize information.
 
 - *Repetitive Tasks in R*
 
-  - \bullet \nobreakspace   Adapted and expanded from Software Carpentry R lesson
+::: {.content-hidden}
+
+\hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Adapted and expanded from Software Carpentry R lesson
+
+:::
 
 - *Visualization in R Using 'ggplot2'*
 
-  - \bullet \nobreakspace   Adapted and expanded from Data Carpentry R lesson and organized around our data visualizations concept workshop (next entry)
+::: {.content-hidden}
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Adapted and expanded from Data Carpentry R lesson and organized around our data visualizations concept workshop (next entry)
+
+:::
 
 - *Survival Skills: Concepts of Data-Driven Visualization*
 
@@ -123,15 +127,25 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 
 - *A Very Short Introduction to Geospatial R*
 
-  - \bullet \nobreakspace   Adapted and shortened from Data Carpentry lessons into three  50-min lessons for cross-listed undergraduate/graduate course visits
+::: {.content-hidden}
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Adapted and shortened from Data Carpentry lessons into three  50-min lessons for cross-listed undergraduate/graduate course visits
+
+:::
+
+
 
 - *A Very Short Introduction to R*
 
-  - \bullet \nobreakspace   Adapted and shortened from Data Carpentry lesson into one 1.25 hr session
 
-  - \bullet \nobreakspace   Created modular .Rmd files to allow mix and match of lesson chunks for two different class visits (one for a cross-listed graduate/undergraduate class, and another for a senior-level undergraduate class)
+::: {.content-hidden}
 
-*Co-developed and teach curricula for multiple workshops* \hfill 2018-present
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Adapted and shortened from Data Carpentry lesson into one 1.25 hr session
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Created modular .Rmd files to allow mix and match of lesson chunks for two different class visits (one for a cross-listed graduate/undergraduate class, and another for a senior-level undergraduate class)
+
+:::
+
 
 - *Survival Skills: Managing Research Files*
 
@@ -141,19 +155,36 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 
 - *Survival Skills: Troubleshooting Computer Code*
 
-*Maintain and update workshops in collaboration with colleagues* \hfill 2018-present
+
+::: {.content-hidden}
+
+*Maintain and update workshops in collaboration with colleagues* <span> \color{lightgray} \dotfill </span> 2018-present
+
+::: 
+
+
 
 - *Formatting Your Data for Analysis*
 
-  - \bullet \nobreakspace   Adapted and shortened from Data Carpentry "tidy data" lesson
 
-*Instructing from existing curricula* \hfill 2017-present
+::: {.content-hidden}
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Adapted and shortened from Data Carpentry "tidy data" lesson
+
+*Instructing from existing curricula* <span> \color{lightgray} \dotfill </span> 2017-present
+
+:::
 
 - *R for Scientific Programming (Software Carpentry lesson)*
 
 - *Data Analysis and Visualisation in R for Ecologists (Data Carpentry lesson)*
 
-  - \bullet \nobreakspace   Including modifications for 1.25-2.5 hr short version for course instruction
+::: {.content-hidden}
+
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Including modifications for 1.25-2.5 hr short version for course instruction
+  
+:::
 
 - *R for Social Sciences (Data Carpentry lesson)*
 
@@ -165,25 +196,48 @@ Teach, develop, and adapt curricula to enhance researchers' abilities to process
 
 - *Tracking Changes with Version Control in Git/GitHub (Software Carpentry lesson)*
 
-  - \bullet \nobreakspace   Including modifications for 2.5 hr two-session shorter version
+
+::: {.content-hidden}
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Including modifications for 2.5 hr two-session shorter version
+
+:::
+
 
 - *Unix Shell (Bash) for Beginners (Software Carpentry lesson)*
 
-
-*Helping from existing curricula*
-
-- *All lessons above*
 
 - *Data Cleaning with OpenRefine for Ecologists (Data Carpentry lesson)*
 
 - *Python (Software Carpentry lesson)*
 
 
-## Library Instruction
+## Library Instruction  <span> \color{lightgray} \dotfill </span> 2018-present
 
-Reached 4,010 learners in 220 sessions from July 2018-2024.
 
-*Information literacy for STEM courses*
+Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach. Updating all classroom and asynchronous materials to improve accessibility.
+
+- *Data, reference, and statistical consultations*   <span> \color{lightgray} \dotfill </span> 1,842 consultations
+
+::: {.content-hidden}
+  - \cdot \nobreakspace 380 faculty sessions
+  - \cdot \nobreakspace 898 graduate student sessions
+  - \cdot \nobreakspace 135 post-docs/researcher sessions
+  - \cdot \nobreakspace 101 staff sessions
+  - \cdot \nobreakspace 233 undergraduate students sessions
+  - \cdot \nobreakspace 95 other and unknown sessions
+:::
+
+
+
+
+- *Information literacy and library resource introductions for STEM courses*  <span> \color{lightgray} \dotfill </span> 220 sessions
+
+
+
+::: {.content-hidden}
+
+Reached 4,010 learners since July 2018
 
 - \bullet \nobreakspace Teach, develop, and scaffold information literacy skills to undergraduate and graduate STEM students
 
@@ -193,260 +247,303 @@ Reached 4,010 learners in 220 sessions from July 2018-2024.
 
 - \bullet \nobreakspace Using ACRL Information Literacy for STEM guidelines to frame scaffolding suggestions within STEM degrees
 
-- \bullet \nobreakspace  Incorporating Carpentries instructor training around motivational language and cognitive load into my instructional approach
+- *Introduction to library resources and OU Libraries welcome presentations*
 
-*Introduction to library resources/ OU Libraries welcome presentations*
 
-- \bullet \nobreakspace  Orientations and professional development classes for graduate STEM programs
+\hangindent=0.5em \hangafter=1 \bullet \nobreakspace  Orientations and professional development classes for graduate STEM programs
 
-- \bullet \nobreakspace   First Year Research Experience class
+\hangindent=0.5em \hangafter=1 \bullet \nobreakspace   First Year Research Experience class
 
 - \bullet \nobreakspace On request by course instructors
 
+:::
 
-## Asynchronous Instruction
+- *Video series for STEM remote research method options* <span> \color{lightgray} \dotfill </span> 27 videos
 
-*Video series for STEM remote research method options*
+::: {.content-hidden}
 
--  \bullet \nobreakspace Created, produced, and transcribed during initial university closure during COVID pandemic in summer 2020 [(27 videos; external link)](https://mymedia.ou.edu/channel/University+Libraries%3A+Options+for+Remote+STEM+Research/163735832)
-
+    -  \cdot \nobreakspace   Created, produced, and transcribed 27 videos during initial university closure during COVID pandemic in summer 2020
+    
     -  \cdot \nobreakspace   Hosted lecture on meta-analysis
 
     -  \cdot \nobreakspace   Presented videos on data licensing, finding datasets, and literature searches
 
     -  \cdot \nobreakspace   Solicited guest appearances from campus partners like OU Writing Center, Expository Writing Program, and Center for Faculty Excellence
 
+:::
 
-*University of Oklahoma Libraries LibGuides*
+- *"Why Cite?" Tutorial* <span> \color{lightgray} \dotfill </span> video with quiz
 
-- \bullet \nobreakspace   Centralized guide to automate updating guide assets
+::: {.content-hidden}
 
-- \bullet \nobreakspace  Updating guides to meet internal accessibility standards
+    -  \cdot \nobreakspace  to explain necessary parts and rationale for citations beyond avoiding plagiarism
 
-- \bullet \nobreakspace   Updating subject guides for my departments
+:::
 
-- \bullet \nobreakspace   Creating and updating topic guides
+- *OU Libraries LibGuides* <span> \color{lightgray} \dotfill </span> assigned STEM subjects
 
-    - \cdot \nobreakspace   Data Analysis & Visualization
+::: {.content-hidden}
+\hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Updating subject guides for my departments
+:::
 
-    - \cdot \nobreakspace   Research Survival Skills (shared, based on "Survival Skills" workshop series)
+- *Research Data and Data Management LibGuides* <span> \color{lightgray} \dotfill </span> 3 guides
 
-    - \cdot \nobreakspace  Citation Management with Zotero (shared)
+::: {.content-hidden}
 
-*Tutorials*
+- \cdot \nobreakspace   Data Analysis & Visualization
 
-- \bullet \nobreakspace Co-created "Why Cite?" video to explain necessary parts and rationale for citations beyond avoiding plagiarism
+- \cdot \nobreakspace   Research Survival Skills (shared, based on "Survival Skills" workshop series)
+
+- \cdot \nobreakspace  Citation Management with Zotero (shared)
+
+:::
+
+
   
-  
-## Consultations as Instruction
 
-*Data, reference, and statistical consultations*
-
-- \bullet \nobreakspace 1,842 consultations since July 2018-2024 via email (816), virtual (626), in-person (354), phone (26), and other (20).
-
-  - \cdot \nobreakspace 380 faculty sessions
-  - \cdot \nobreakspace 898 graduate student sessions
-  - \cdot \nobreakspace 135 post-docs/researcher sessions
-  - \cdot \nobreakspace 101 staff sessions
-  - \cdot \nobreakspace 233 undergraduate students sessions
-  - \cdot \nobreakspace 95 other and unknown sessions
 
 ## Instructor of Record
 
-*Study Design and Quantitative Methods in Natural Resource Management*
+*Study Design and Quantitative Methods in Natural Resource Management (cross-listed, UM)* <span> \color{lightgray} \dotfill </span> winters 2015, 2016
 
--   Cross-listed graduate/undergraduate \hfill winter 2015, winter 2016
+- Co-instructor with Dr. Nicola Koper
 
--  \bullet \nobreakspace   Co-instructor with Dr. Nicola Koper
+
+::: {.content-hidden}
+
 
 -  \bullet \nobreakspace   Presenting R code to implement statistical methods; lecture on multivariate statistics; and grading half of assignments
 
-*Ecological Dimensions of Natural Resource Management*
+:::
 
--   Graduate level lecture class \hfill fall 2015
+*Ecological Dimensions of Natural Resource Management (graduate, UM)* <span> \color{lightgray} \dotfill </span> fall 2015
+
+
+::: {.content-hidden}
 
 -  \bullet \nobreakspace   Sessional instructor: Lecture, guide discussions, grade assignments
 
+:::
+
 ## Mentoring
 
-*University of Manitoba Students* \hfill 2014-2016
+*UM Students* <span> \color{lightgray} \dotfill </span> 2014-2016
+
+-  Experimental design - Master’s (16), undergraduate (1), and Ph.D. (2) students in the Natural Resources Institute and Biology departments.
+
+::: {.content-hidden}
+
 
 -  \bullet \nobreakspace   Guidance on project design, sampling, statistical analysis, and use of R and SAS for Master’s (14), undergraduate (1), and Ph.D. (1) students in Dr. Nicola Koper lab
 
 -  \bullet \nobreakspace   Master’s (2) and Ph.D. (1) students at the Natural Resources Institute and Biology departments.
 
-*University of Oklahoma Undergraduates*
+:::
 
-- *Alexandra Ainsworth* \hfill spring 2012
+*OU Students*
+
+- Independent study: Alexandra Ainsworth (undergraduate) <span> \color{lightgray} \dotfill </span> spring 2012
+
+
+::: {.content-hidden}
 
   -  \bullet \nobreakspace   Independent study (3 credit hours), PI: Dr. Michael A. Patten
 
   -  \bullet \nobreakspace   She fed captive birds, assisted with mate choice trial set-up, bird capture, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis.
 
+:::
 
-- *Sarai H. Stuart* \hfill January-April 2012, January-March 2013
+- Volunteer: Sarai H. Stuart (post-graduate) <span> \color{lightgray} \dotfill </span> January-April 2012, January-March 2013
+
+::: {.content-hidden}
 
   -  \bullet \nobreakspace Volunteer
 
   -  \bullet \nobreakspace Recent OU graduate wanting field experience before applying to jobs and/or graduate school. She learned about mist-netting, trapping, banding, setting up mate choice trials, maintaining captive birds, DNA extraction using Qiagen DNeasy kits, PCR, and agarose gel electrophoresis. Graduated with Ph.D. from University of Illinois at Champaign-Urbana.
 
+:::
+
+*External Students*
+
+- Undergraduate Diversity Mentor (2 mentees) at Evolution 2013 Conference in Snowbird, UT <span> \color{lightgray} \dotfill </span> 2013
+
 ## Graduate Teaching Assistantships
 
-*Intro. to Evolution, Ecology, and Diversity*
+*Intro. to Evolution, Ecology, and Diversity Lab (undergraduate majors, OU)* <span> \color{lightgray} \dotfill </span> spring 2012
 
-Undergraduate, majors lab \hfill spring 2012
+::: {.content-hidden}
 
 -  \bullet \nobreakspace Professor: Dr. Phil Gibson
 
 -  \bullet \nobreakspace Presentation of weekly lab materials, creating and grading quizzes, grading lecture exams, proctoring lecture and lab exams, and guiding students through lab experiments.
 
-*Entomology*
+:::
 
-Cross-listed undergraduate/graduate lab \hfill 2009-2012 (fall only - total four semesters)
+*Entomology Lab (cross-listed, OU)* <span> \color{lightgray} \dotfill </span> 2009-2012 (fall only - total four semesters)
+
+::: {.content-hidden}
 
 -  \bullet \nobreakspace   Professor: Dr. Ken Hobson (retired)
 
 -  \bullet \nobreakspace   Presentation of insect orders and families; creating and grading quizzes and exam; and leading students on field trips
 
-*Introductory Zoology Lab*
+:::
 
-Undergraduate, non-majors lab \hfill fall 2008, fall 2012
+*Introductory Zoology Lab (undergraduate non-majors, OU)* <span> \color{lightgray} \dotfill </span> fall 2008, fall 2012
 
--  \bullet \nobreakspace   Professor: Dr. Penny Hopkins (retired)
+
+::: {.content-hidden}
+
+
+- Professor: Dr. Penny Hopkins (retired)
 
 -  \bullet \nobreakspace   Lecturing on the day’s lab topic, assisting students with dissections, and writing, administering, and grading quizzes
 
-*Principles of Ecology*
+:::
 
-Undergraduate, majors lab \hfill 2009 (spring & fall), 2010-2011 (fall only)
+*Principles of Ecology Lab (undergraduate majors, OU)* <span> \color{lightgray} \dotfill </span> 2009 (spring & fall), 2010-2011 (fall only)
 
--  \bullet \nobreakspace   Professor: Dr. Ken Hobson (retired)
+::: {.content-hidden}
+
+- Professor: Dr. Ken Hobson (retired)
 
 -  \bullet \nobreakspace   Discussion of concepts, guiding students through field experiments; and grading lab reports.
 
+:::
+
 ## Undergraduate Teaching Assistantship
 
-*Insect Biology Lab*
+*Insect Biology Lab (cross-listed, UNT), volunteer* <span> \color{lightgray} \dotfill </span> fall 2006, fall 2007
 
-Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 
--  \bullet \nobreakspace   Professor: Dr. James Kennedy
+::: {.content-hidden}
 
--  \bullet \nobreakspace   Volunteer
+- Professor: Dr. James Kennedy
+
+- Volunteer
+
 
 -  \bullet \nobreakspace   Help students with keying insects, assist students on field trips, and proctor exams and quizzes with the graduate teaching assistants.
 
+:::
 
-# Training and skills
+{{< pagebreak >}}
+
+
+# Training and Skills
 
 ## Skills
 
-*Learner-centered flexible pedagogy*
+- *Learner-Centered Flexible Pedagogy*
 
-- \bullet \nobreakspace Classroom management and motivational pedagogy
+  - I work to empower learners to gain new skills and confidence. I incorporate motivational language and decrease cognitive load wherever possible, following Carpentries instructor practices. My materials incorporate active learning and follow universal design principles for accessibility that fit the teaching modality (virtual, in-person, or hybrid).
 
-  - \cdot \nobreakspace Deliver materials in-person, hybrid, and virtual with emphasis on active learning guided demonstrations and accessible content
 
-  - \cdot \nobreakspace Teach solo; with helpers; with trainees shadowing and helping; and in collaboration (for interdisciplinary courses)
+- *Working with People and Organizations*
 
-- \bullet \nobreakspace In consultations and reference interviews, emphasis on guiding learners to gain new skills for research independence
+    - Work with students, post-docs, staff, faculty, and community members
+
+    - Collaborate with campus partner organizations and co-workers
+    
+    - Maintain communications with departmental representatives
+    
+      - \cdot \nobreakspace  School of Biological Sciences
+
+      - \cdot \nobreakspace  Oklahoma Biological Station
+
+      - \cdot \nobreakspace  Department of Geography & Environmental Sustainability
+
+      - \cdot \nobreakspace  Psychology (shared)
+
+      - \cdot \nobreakspace  Health & Exercise Science (shared)
+
+      - \cdot \nobreakspace  Chemistry & Biochemistry (shared)
+
+
+    - Obtain permission and maintain good relationships for field work
+    
+      - \cdot \nobreakspace  Private ownership land (US and Canada)
+    
+      - \cdot \nobreakspace  State-owned land (US)
+    
+      - \cdot \nobreakspace  Federal land (US)
+
+    - Obtain permitting for avian research at university, state, provincial, and federal (US and Canada) levels
+
+
+- *Statistical and Data Consulting*
+
+    - Experimental design for field and lab work
+
+    - Data collection and management
+
+    - Univariate and multivariate statistical analysis
   
-  - \cdot \nobreakspace Interviewing patrons about their research and career goals for tailored assistance
-
-  - \cdot \nobreakspace Referrals to other liaison librarians, information specialists, and campus partners as needed
-
-  - \cdot \nobreakspace Incorporating Carpentries instructor training around motivational language and cognitive load into my ways of interacting with patrons one-on-one as well as in the classroom
-
-
-*Working with People and Organizations*
-
-- \bullet \nobreakspace Provide informational and instructional consultations to undergraduates, graduate students, post-doctoral researchers, staff, faculty, and community members
-
-  - \cdot \nobreakspace Collaborating with partner organizations and co-workers
-
-  - \cdot \nobreakspace Negotiating library instruction and workshop visits, logistics, and topics with faculty and instructors to meet information literacy standards and class needs
-
-  - \cdot \nobreakspace Maintaining communications with departmental representatives (faculty, staff, and students)
-
-    - \cdot \nobreakspace STEM Subject Liaison for School of Biological Sciences, Oklahoma Biological Station, and Department of Geography & Environmental Sustainability
-
-    - \cdot \nobreakspace Shared STEM liaison duties for departments of Psychology, Health & Exercise Science, and Chemistry & Biochemistry
-
-- \bullet \nobreakspace  Maintaining good relationships for permission for field work on private (US and Canada), state (US), and federal (US) land
-
-  - \cdot \nobreakspace  Obtaining permission for field work on private (US), state (US), and federal (US) land
-
-  - \cdot \nobreakspace  Permitting for avian research at university, state, provincial, and federal (US and Canada) levels
-
-
-*Statistical and Data Consulting*
-
-- \bullet \nobreakspace Experimental design for field and lab work
-
-- \bullet \nobreakspace Data collection and management
-
-- \bullet \nobreakspace Univariate and multivariate statistical analysis
+      - \cdot \nobreakspace Choice of approaches (frequentist vs model selection)
   
-  - \cdot \nobreakspace Choice of approaches (frequentist vs model selection)
+      - \cdot \nobreakspace Choice and guidance on specific statistical tests
   
-  - \cdot \nobreakspace Choice and guidance on specific statistical tests
+      - \cdot \nobreakspace Guidance searching discipline-specific literature for discipline-preferred approaches
   
-  - \cdot \nobreakspace Guidance checking discipline-specific literature for discipline-preferred approaches
-  
-  - \cdot \nobreakspace Choice and use of statistical programming software
+      - \cdot \nobreakspace Choice and use of statistical programming software
 
-*Collection Management*
 
-- \bullet \nobreakspace Determining need and performing for library assessment of collection needs for new academic degrees and certificates
+- *Collection Management*
 
-- \bullet \nobreakspace Approving book purchase requests
+  - Assessing collection needs for new academic degrees and certificates
 
-- \bullet \nobreakspace Analyzing usage provided by collections to determine journal subscription maintenance and cancellations
+  - Approving book purchase requests
 
-- \bullet \nobreakspace Coordinating journal subscription requests among interested departments
+  - Analyzing usage to determine journal subscriptions and cancellations
+
+  - Coordinating journal subscription requests among interested departments
 
 
 ## Software
 
-*Statistical Programs*
+- *Statistical Programs*
 
-- \bullet \nobreakspace   R 4.0+, as well as older versions through 3.6
+  - R 4.0+, as well as older versions through 3.6
 
-- \bullet \nobreakspace   SAS 9.2+
+  - SAS 9.2+
 
-- \bullet \nobreakspace   IBM SPSS Statistics 29+
+  - IBM SPSS Statistics 29+
 
-*Geographic Information Systems (GIS)*
+- *Geographic Information Systems (GIS)*
 
-- \bullet \nobreakspace   R packages for GIS
-
-- \bullet \nobreakspace   Quantum GIS v. 2.10+
-
-- \bullet \nobreakspace   ESRI ArcGIS 9.2+
+  - R packages for GIS
   
-  - \cdot \nobreakspace   Good relationship with vendor representatives at OU
+  - Quantum GIS v. 2.10+
   
-  - \cdot \nobreakspace   Assisting users with workflow migration to ArcGIS Pro from ArcMap via organizing training \hfill 2023
+  - ESRI ArcGIS 9.2+
   
-  - \cdot \nobreakspace   Completed course Introduction to GIS course (University of North Texas) \hfill fall 2007
+    - \cdot \nobreakspace   Maintain good relationship with vendor representatives at OU
   
-*Graphics and Data Visualization*
-
-- \bullet \nobreakspace   R package `ggplot2` and extensions such as `ggparty`
-
-- \bullet \nobreakspace   RShiny
-
-- \bullet \nobreakspace   Inkscape 0.48+
-
-*Data management and processing*
-
-- \bullet \nobreakspace   Data wrangling
-
-  - \cdot \nobreakspace   R packages such as `tidyverse` and `sqldf`
-
-  - \cdot \nobreakspace   OpenRefine
+    - \cdot \nobreakspace   Organized training to help users migrate to new ArcGIS Pro <span> \color{lightgray} \dotfill </span> 2023
   
-  - \cdot \nobreakspace   Version control
+    - \cdot \nobreakspace   Completed Introduction to GIS course (UNT) <span> \color{lightgray} \dotfill </span> fall 2007
+  
+- *Graphics and Data Visualization*
+
+  - R packages including
+  
+    - \cdot \nobreakspace `ggplot2`
+  
+    - \cdot \nobreakspace `ggparty`
+    
+    - \cdot \nobreakspace `RShiny`
+  
+  - Inkscape 0.48+
+
+- *Data Management and Processing*
+
+  - Data wrangling
+
+    - \cdot \nobreakspace   R `tidyverse`
+
+    - \cdot \nobreakspace   OpenRefine
+  
+  - Version control
     
     - \cdot \nobreakspace   Git for Windows, Linux, Mac
     
@@ -454,140 +551,200 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
     
     - \cdot \nobreakspace   Git Large File System for Windows
     
-  - \cdot \nobreakspace   Databases
+  - Databases
         
-      - \cdot \nobreakspace   SQLite
+    - \cdot \nobreakspace   SQLite
+    
+    - \cdot \nobreakspace   DB Browser for SQLite
       
-      - \cdot \nobreakspace   DB Browser for SQLite
-      
-      - \cdot \nobreakspace   PostgreSQL database language (queries, import and export of data)
+    - \cdot \nobreakspace   PostgreSQL database language (queries, import and export of data)
         
-      - \cdot \nobreakspace   pgAdmin III database interface and psql command line interface for use with PostgreSQL
+    - \cdot \nobreakspace   pgAdmin III database interface and psql command line interface for use with PostgreSQL
 
-      - \cdot \nobreakspace   LibreOffice 3.4+ Base
-       
-      - \cdot \nobreakspace   Microsoft Access (uses jetSQL)
+    - \cdot \nobreakspace   jetSQL (Microsoft Access)
 
-*Citation/reference management*
+- *Citation Management*
 
-- \bullet \nobreakspace   Zotero 3.0.7+ bibliography software
+  - Zotero 3.0.7+ bibliography software
 
-*Word Processing and Spreadsheets*
+- *Word Processing and Spreadsheets*
 
-- \bullet \nobreakspace   Microsoft Office 365: Word, Access, Excel, PowerPoint, OneNote
+  - Microsoft Office 365
+  
+      - \cdot \nobreakspace   Word 
+      
+      - \cdot \nobreakspace   Access
+      
+      - \cdot \nobreakspace   Excel
+      
+      - \cdot \nobreakspace   PowerPoint
+      
+      - \cdot \nobreakspace   OneNote
 
-- \bullet \nobreakspace   LibreOffice 3.3.0+: Writer (Word equivalent), Impress (PowerPoint equivalent), Base (Access equivalent)
+  - LibreOffice 3.3.0+
+  
+      - \cdot \nobreakspace Writer (Word equivalent)  
+  
+      - \cdot \nobreakspace Impress (PowerPoint equivalent)  
+  
+      - \cdot \nobreakspace Base (Access equivalent)
 
-*Specialized Software*
+- *Specialized Software*
 
-- \bullet \nobreakspace   Raven Pro 1.5 sound analysis software
+  - Raven Pro 1.5 sound analysis software
 
-- \bullet \nobreakspace   Phylogenetic software (basic procedures): MRBAYES 3.1.2, RAxML, GARLI 1.0, FigTree, and MEGA 4.0
+  - Phylogenetic software (basic procedures)
+  
+      - \cdot \nobreakspace   MRBAYES 3.1.2
+      
+      - \cdot \nobreakspace   RAxML
+      
+      - \cdot \nobreakspace   GARLI 1.0
+      
+      - \cdot \nobreakspace   FigTree
+      
+      - \cdot \nobreakspace   MEGA 4.0
 
 ## Research Methods
 
-*Library and literature-based methods*
+- *Library and Literature-Based Methods*
 
-- \bullet \nobreakspace   *Reproducible database searches*
+  - Reproducible database searches
 
-  - \cdot \nobreakspace   Controlled vocabulary and thesaurus searches
+    - \cdot \nobreakspace   Controlled vocabulary and thesaurus searches
 
-  - \cdot \nobreakspace   Choosing and modifying keywords
+    - \cdot \nobreakspace   Choosing and modifying keywords
 
-  - \cdot \nobreakspace  Boolean operators and wild cards
-
-- \bullet \nobreakspace   *Evidence synthesis*
-
-  - \cdot \nobreakspace   Evidence Synthesis Institute \hfill August 2022 cohort
-
-    - \cdot \nobreakspace   Using training to assist OU community members from departments of Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
+    - \cdot \nobreakspace  Boolean operators and wild cards
   
-  - \cdot \nobreakspace   Developed Evidence Synthesis LibGuide Page for initial information for community members
+  - Evidence synthesis
+
+    - \cdot \nobreakspace   Using training to assist OU community members from multiple departments
   
-  - \cdot \nobreakspace Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis
+    - \cdot \nobreakspace   Developed Evidence Synthesis LibGuide Page for initial information for community members
   
-  - \cdot \nobreakspace   Authored and co-authored two peer-reviewed narrative reviews
+    - \cdot \nobreakspace   Collaborating with Writing Center on a future questionnaire to guide users to specific types of synthesis
+  
+    - \cdot \nobreakspace   Authored and co-authored two peer-reviewed narrative reviews
 
-*Field methods*
+::: {.content-hidden}
+   
+    - \cdot \ nobreakspace  Social Work, Mathematics, Health and Exercise Science, Geography & Environmental Sustainability, Education
 
-- *Experimental design*
+:::
 
-  - \bullet \nobreakspace   Design and conduct randomized stratified lichen surveys
 
-  - \bullet \nobreakspace   Design and conduct behavioral assays for songbirds
+*Discipline-Specific Methods*
 
-  - \bullet \nobreakspace   Design and conduct transect and point counts for grassland and shrubland birds
+- *Experimental Design*
+
+  - Design and conduct surveys
+  
+    - \cdot \nobreakspace Randomized stratified point counts for lichens
+    
+    - \cdot \nobreakspace Behavioral assays for songbirds
+    
+    - \cdot \nobreakspace Transect and point counts for grassland and shrubland birds
 
   
-- *Organism handling, observation, and identification*
+- *Field Methods*
 
-  - \bullet \nobreakspace   Avian blood sampling for genetics
+  - Avian blood sampling for genetics
+  
+  - Banding and color-banding small songbirds
 
-  - \bullet \nobreakspace   Banding and color-banding small songbirds
+  - Nest and fledgling searching for grassland and shrubland birds
+    
+  - Terrestrial insect sampling
 
-  - \bullet \nobreakspace   Nest and fledgling searching for grassland and shrubland birds
+  - Sorting and identification of aquatic invertebrates
 
-  - \bullet \nobreakspace   Sorting and identification of aquatic invertebrates
+  - Habitat and vegetation measurements
 
-  - \bullet \nobreakspace   Vegetation measurements and habitat quantification
 
-  - \bullet \nobreakspace   Terrestrial insect sampling
 
-*Selected Trainings Attended*
+- *Selected Trainings Attended*
 
-- OU Military Support Forum Green Zone Suicide Prevention Training \hfill 2023
+  - Suicide Prevention Training (OU Military Support Forum Green Zone) <span> \color{lightgray} \dotfill </span> 2023
 
-- OU Green Zone (Veteran Support Center) \hfill 2023
+  - OU Green Zone (Veteran Support Center) <span> \color{lightgray} \dotfill </span> 2023
 
-- Navigating Tough Conversations in Statistical Collaboration Workshop (Oklahoma Chapter of the American Statistical Association) \hfill 2023
+  - Navigating Tough Conversations in Statistical Collaboration Workshop <span> \color{lightgray} \dotfill </span> 2023
+    
+    - \cdot \nobreakspace Oklahoma Chapter of the American Statistical Association
 
-- Virtual ACRL Framework Workshop for OU Libraries \hfill 2022
+  - Evidence Synthesis Institute (by application only) <span> \color{lightgray} \dotfill </span> August 2022
 
-- American Heart Association CPR/AED Course for Adult, Child, Infant \hfill 2022
+  - ACRL Framework <span> \color{lightgray} \dotfill </span> 2022
+  
+    - \cdot \nobreakspace Association of College & Research Libraries Framework Virtual Workshop for OU Libraries
 
-- Stop the Bleed training \hfill 2022
+  - American Heart Association CPR/AED Course for Adult, Child, Infant <span> \color{lightgray} \dotfill </span> 2022
 
-- Institutional Review Board training \hfill 2020
+  - American College of Surgeons STOP THE BLEED Training <span> \color{lightgray} \dotfill </span> 2022
 
-- Diversity Ally Training by OU HR \hfill 2019
-  - Unlearning Ableism
-  - Unlearning Classism
-  - Unlearning Racism
+  - Institutional Review Board Training <span> \color{lightgray} \dotfill </span> 2020
 
-- Mental Health First Aid \hfill 2019
+  - Diversity Ally Training by OU HR <span> \color{lightgray} \dotfill </span> 2019
+    
+    - \cdot \nobreakspace Unlearning Ableism
+    
+    - \cdot \nobreakspace Unlearning Classism
+    
+    - \cdot \nobreakspace Unlearning Racism
 
-- Question, Persuade, Refer, Suicide Prevention Training \hfill 2018
+  - Mental Health First Aid <span> \color{lightgray} \dotfill </span> 2019
 
-- LGBTQ Ally 2.0 Training (OU) \hfill 2018
+  - Software/Data Carpentries Instructor Training <span> \color{lightgray} \dotfill </span> 2018
+
+  - Question, Persuade, Refer, Suicide Prevention Training <span> \color{lightgray} \dotfill </span> 2018
+
+  - LGBTQ Ally 2.0 Training (OU) <span> \color{lightgray} \dotfill </span> 2018
 
 
 
 ## Supervisory Experience
 
-*Ahmed Sharaf* \hfill August 2022-August 2023
+- *Ahmed Sharaf (undergraduate)* <span> \color{lightgray} \dotfill </span> 2022-2023
 
-  - \bullet \nobreakspace   Undergraduate student web developer. Mentored in professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
+::: {.content-hidden}
 
-*Henry Dang* \hfill 2018
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   August 2022-August 2023Undergraduate student web developer. Mentored in professional skills like note taking, working with consultants, writing short project updates, creating and implementing project milestones, collaborative use of GitHub. Graduated December 2023.
 
-  - \bullet \nobreakspace   Undergraduate student cleaning and merging multiple database versions. Mentored in R and version control from complete novice to being able to create a package to calculate triangulation points for radio-tracked telemetry data.
+:::
 
-*Field technicians (3)* \hfill summer 2015
+- *Henry Dang (undergraduate) * <span> \color{lightgray} \dotfill </span> 2018
 
-  - \bullet \nobreakspace   Trained seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
+
+::: {.content-hidden}
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Undergraduate student cleaning and merging multiple database versions. Mentored in R and version control from complete novice to being able to create a package to calculate triangulation points for radio-tracked telemetry data.
+
+:::
+
+- *Seasonal field technicians (3)* <span> \color{lightgray} \dotfill </span> 2015
+
+
+::: {.content-hidden}
+
+  \hangindent=0.5em \hangafter=1 \bullet \nobreakspace   Trained seasonal technicians to band, color-band, and relocate birds for behavioral experiments, perform behavioral experiments, and cross-train with coordinating field teams for bird surveys.
+
+:::
+
+
 
 
 {{< pagebreak >}}
 
 
-# Work Products
+# Research and Creative Activities
 
 ## Peer-Reviewed Publications
 
 ::: {#refs-peer}
 :::
 
-## Technical Reports
+## Non-Peer-Reviewed Publications
 
 ::: {#refs-reports}
 :::
@@ -604,9 +761,11 @@ Cross-listed undergraduate/graduate lab \hfill fall 2006, fall 2007
 :::
 
 
-## Popular articles
+## Popular Articles
 
-Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger \hfill 2002-2013
+Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise County Messenger <span> \color{lightgray} \dotfill </span> 2002-2013
+
+::: {.content-hidden}
 
 - \bullet \nobreakspace September 2002-September 2007, volunteer columnist
 
@@ -614,162 +773,21 @@ Monthly “Birds and Beyond” column for a small Texas newspaper, the Wise Coun
 
 - \bullet \nobreakspace Articles generally focused on natural history and identification of north-central Texas birds, butterflies, plants, and other organisms and descriptions of trips in other areas of Texas and Oklahoma.
 
+:::
 
-:::{#refs-popular}
+::: {#refs-popular}
+:::
+
+## Public Talks
+
+::: {#refs-public_talks}
 :::
 
 
 
-# Awards, Honors, and Fellowships
+::: {.content-hidden}
 
-*Thomas & Catherine Luccock Library Award of Excellence* \hfill May 2022
-
--   University of Oklahoma Libraries “The Thomas & Catherine Luccock Library Award of Excellence is the highest honor awarded by the University of Oklahoma Libraries. This prestigious award will be presented annually to recognize and commend an individual for superior performance and contributions to the University of Oklahoma Libraries.”
-
-*Hidden Hero Award University of Oklahoma Libraries* \hfill September 2021
-
--   “Going above and beyond in the performance of your job duties.”
-
-*Collaborative Spirit Award (for STEM Services team) University of Oklahoma Libraries* \hfill April 2020
-
--   “Recognizes a work team or volunteer group that successfully works together to create a product or result that was strengthened by the effort of the team."
-
-*Elective Member American Ornithology Society* \hfill August 2017
-
--   Elected to honorary membership category recognizing contributions to ornithology.
-
-*GAANN (Graduate Assistance in Areas of National Need) Fellow Department of Education* \hfill August 2012-March 2014
-
--   Nominated by department; covers stipend, tuition, fees
-
-*Alumni Fellow University of Oklahoma Graduate College* \hfill 2008-2014
-
--   “emphasizes the recruitment and retention of outstanding graduate students”.
-
-*Biology Department Award for Excellence in Graduate Student Teaching* \hfill May 2013
-
--   University of Oklahoma Department of Biology Nominated for teaching Ecology and Entomology Labs.
-
-*Best oral presentation by a graduate student* \hfill October 2012
-
--   Oklahoma Ornithological Society Fall 2012 technical meeting
-
-*President’s List University of North Texas* \hfill spring 2005-fall 2007
-
--   For 4.00 GPA while completing at least 12 credit hours in a semester
-
-*National Grasslands Prairie Partner Award* \hfill 2003
-
--   National Grasslands Council For volunteer work at the Lyndon B. Johnson National Grasslands (shared with Mary Curry).
-
-# Service
-
-## Peer review
-
-[Publons profile (external link)](https://publons.com/a/1187905/)
-
--   Auk: Ornithological Advances
--   Avian Conservation and Ecology
--   Condor (now Ornithological Applications)
-    -   Member of the Cooper Ornithological Society's Early Career Editorial Board for Condor (2011-2012; graduated from the board at the end of that period).
--   Diversity and Distributions
--   Ecology and Evolution
--   Environmental Pollution
--   Evidence-based Toxicology
--   Ibis
--   Journal of Applied Ecology
--   Northeastern Naturalist
--   Rangeland Ecology and Management
--   Wilson Journal of Ornithology
-
-## Departmental
-
-- \bullet \nobreakspace  Research Workshops Committee (chair) for University Libraries \hfill 2021-present
-
-  - \cdot \nobreakspace Documentation of procedures for committee, workshop organization, and scheduling in coordination with University Libraries Marketing and Communcation and later OU Marketing and Communication to ensure timely and consistent outreach
-  
-  - \cdot \nobreakspace  Standardization of accessibility notices to include default captioning, modality, and logistics
-  
-  - \cdot \nobreakspace  Responsible for reminding instructors of scheduling
-  
-  - \cdot \nobreakspace  Automated reminder and registration emails via Zapier and Trello
-  
-  - \cdot \nobreakspace  Created cross-training document to find substitute instructors, helpers, and understand organizational needs for software instructors
-  
-  - \cdot \nobreakspace  Created RACI chart for team to understand who to contact during cancellations or rescheduling
-
-- \bullet \nobreakspace  Hiring committee (chair) for University Libraries STEM Instruction Librarian – 2024 (in progress)
-
-- \bullet \nobreakspace  Graduate Research Retreat Planning Committee (member) - 2023
-
-- \bullet \nobreakspace  Hiring committee for University Libraries National Weather Center Branch Library Manager – 2023 (successful search)
-
-- \bullet \nobreakspace  UL Awards committee (2023) Hiring committee for University Libraries Liaison Coordinator – 2022-2023 (unsuccessful searches)
-
-- \bullet \nobreakspace  New employee mentoring program for two new staff - 2021-2022
-
-- \bullet \nobreakspace  Hiring committee for University Libraries Marketing & Communication Search – 2021 (successful search)
-
-- \bullet \nobreakspace  Successful proposal (with assistance from LGBTQIA+ colleagues) to add option for pronouns to official University Libraries name badges for faculty/staff - 2021
-
-- \bullet \nobreakspace  University Libraries Strategic Planning Team 3b member - 2021
-
-- \bullet \nobreakspace  Department of Biology Graduate Selections Committee graduate student representative (2010-2013 academic years); provide comments on new graduate student applications to the department.
-
-- \bullet \nobreakspace  Founded and organize Ecology Journal Club at OU with weekly discussions by students and faculty of published papers (fall 2011-fall 2013; responsibilities passed to a new student during my last semester of spring 2014 and meetings continued through 2018).
-
-## University
-
-- \bullet \nobreakspace  Institutional Animal Care and Use Committee Scientist Member, February 2021-present
-
-- \bullet \nobreakspace  OU Coding Outreach for Data Education (CODE) Workshop helper for R and Python: fall 2020, fall 2021, fall 2022.
-
-- \bullet \nobreakspace  Judge for OU Honors College Undergraduate Research Day, April 2020.
-
-- \bullet \nobreakspace  Judge for OU Honors College Undergraduate Research Day, April 2019.
-
-- \bullet \nobreakspace   Reviewer for OU School of Architecture Program for Research Enhancement to provide layperson’s feedback: fall 2018, spring 2019, fall 2019.
-
-- \bullet \nobreakspace  Software and Data Carpentry helper and instructor: 2017-present.
-
-- \bullet \nobreakspace  Guest panelist in Earth Observation Science for Society and Sustainability (EOS 3) interdisciplinary certificate program class on “Building a better Ph.D. or M.S.” August 28, 2017. Class taught by Drs. Jeff Kelly, Andrea Contina, and Sara Mata, University of Oklahoma, Norman, OK, USA.
-
-- \bullet \nobreakspace  Nominated to serve as a OU Graduate College Academic Appeals and Misconduct student panelist (2011-2012 academic year); nominated by the OU Department of Zoology’s Graduate Liaison for being “an experienced Graduate Student and hav\[ing\] demonstrated the qualities necessary to serve as an Appeals or Misconduct panelist such as judgment, discretion and commitment.”
-
-## External
-
-- \bullet \nobreakspace  Instructor on TAGS (Geolocator Data Cleaning website) at Geolocation Workshop August 18-19, 2018. Preceding International Ornithological Congress: Vancouver, BC, Canada.
-
-- \bullet \nobreakspace  Session Chair (“Evolution”), 2018 American Ornithology Conference: Tuscon, AZ, USA.
-
-- \bullet \nobreakspace  Judged student presentations (oral presentations and posters) at 2018 American Ornithology Conference: Tuscon, AZ, USA.
-
-- \bullet \nobreakspace  Session Chair (“Landscape ecology”), 2017 American Ornithology Conference: East Lansing, MI, USA.
-
-- \bullet \nobreakspace  Judged student presentations (oral presentations and posters) at 2017 American Ornithology Conference: East Lansing, MI, USA.
-
-- \bullet \nobreakspace  Judged undergraduate presentations (oral presentations and posters) at North American Ornithological Conference 2016: Washington, DC., USA.
-
-- \bullet \nobreakspace  Presented and led discussion on project and risk management during Critical Skills for the Early Career Professional workshop at 2015 The Wildlife Society Meeting, Winnipeg, MB, October 2015.
-
-- \bullet \nobreakspace  Panelist on careers in biology at Prairie University Biology Symposium, Winnipeg, MB, February 2015; one of three early career biologists answering questions from graduate students.
-
-- \bullet \nobreakspace  Undergraduate Diversity Mentor for two undergraduates attending the Evolution 2013 meeting in Snowbird, UT.
-
-- \bullet \nobreakspace  Session Chair (“Diseases/parasites”), NAOC-V meeting, 14-18 August 2012, Vancouver BC.
-
-- \bullet \nobreakspace  Volunteer, Evolution 2011 meeting, 17-21 July, Norman OK; driving van.
-
-- \bullet \nobreakspace  Session Chair (“Diversification- Birds”), Evolution 2011 meeting, 17-21 July 2011, Norman OK.
-
-## Community
-
-*Presentations*
-
-:::{#refs-public_talks}
-:::
-
-Have co-presented talks about birds and ecology \hfill 2001-2007
+Have co-presented talks about birds and ecology <span> \color{lightgray} \dotfill </span> 2001-2007
 
 - \bullet \nobreakspace Denton County Master Gardeners (TX)
 
@@ -787,29 +805,342 @@ Have co-presented talks about birds and ecology \hfill 2001-2007
 
 - \bullet \nobreakspace 2001, 2006, and 2007 JAKES (Juniors Acquiring Knowledge, Ethics, and Sportsmanship) events (U.S. Forest Service; Texas Parks and Wildlife) at the Lyndon B. Johnson National Grasslands.
 
+:::
+
+
+# Awards, Honors, and Fellowships
+
+*Thomas & Catherine Luccock Library Award of Excellence* <span> \color{lightgray} \dotfill </span> May 2022
+
+::: {.content-hidden}
+
+
+-   University of Oklahoma Libraries “The Thomas & Catherine Luccock Library Award of Excellence is the highest honor awarded by the University of Oklahoma Libraries. This prestigious award will be presented annually to recognize and commend an individual for superior performance and contributions to the University of Oklahoma Libraries.”
+
+:::
+
+*Hidden Hero Award University of Oklahoma Libraries* <span> \color{lightgray} \dotfill </span> September 2021
+
+::: {.content-hidden}
+
+
+-   “Going above and beyond in the performance of your job duties.”
+
+:::
+
+
+*Collaborative Spirit Award (for STEM Services team) University of Oklahoma Libraries* <span> \color{lightgray} \dotfill </span> April 2020
+
+::: {.content-hidden}
+
+
+-   “Recognizes a work team or volunteer group that successfully works together to create a product or result that was strengthened by the effort of the team."
+
+:::
+
+
+*Elective Member American Ornithology Society* <span> \color{lightgray} \dotfill </span> August 2017
+
+::: {.content-hidden}
+
+
+-   Elected to honorary membership category recognizing contributions to ornithology.
+
+:::
+
+
+*GAANN (Graduate Assistance in Areas of National Need) Fellow* <span> \color{lightgray} \dotfill </span> August 2012-March 2014
 
 
 
-*Additional STEM outreach*
+::: {.content-hidden}
+*Department of Education*
 
-- \bullet \nobreakspace  Co-led nature walk for National Trails Day at Fort Richardson State Park, TX, with park manager in June 2012.
+-   Nominated by department; covers stipend, tuition, fees
 
-- \bullet \nobreakspace  Expert biologist at 2011 BioBlitz Oklahoma at Chickasaw National Recreation Area, Murray County, OK Guided bird walk for Fort Griffin State Historic Site, TX, June 2011.
+:::
 
-- \bullet \nobreakspace  Co-led monthly field trips to the Lyndon B. Johnson National Grasslands from February 2004 to January 2005.
 
-- \bullet \nobreakspace  Compiled checklists of Wise County birds and butterflies for distribution at the U.S. Forest Service office in Decatur, TX.
+*Alumni Fellow, University of Oklahoma Graduate College* <span> \color{lightgray} \dotfill </span> 2008-2014
 
-- \bullet \nobreakspace  Participated in Wise County Christmas Bird Count circle from 2000-2007.
+::: {.content-hidden}
 
-- \bullet \nobreakspace  Participated in Project Prairie Birds in winters of 2002-2006 on the Lyndon B. Johnson National Grasslands.
 
-- \bullet \nobreakspace  Co-editor of Tall Grass Tales, newsletter of Tallgrass Prairie Audubon Society, from December 2001 to October 2004.
+-   “emphasizes the recruitment and retention of outstanding graduate students”.
 
-- \bullet \nobreakspace  Assisted in preparing bird specimens and mounts for display at the U.S. Forest Service office in Decatur, TX.
+:::
 
-- \bullet \nobreakspace  Completed volunteer hours and advanced training hours for Elm Fork chapter of Texas Master Naturalist program, Class of 2000. Certified from 2000 to 2006; ended service to focus on undergraduate degree.
 
+*OU Biology Department Award for Excellence in Graduate Student Teaching* <span> \color{lightgray} \dotfill </span> May 2013
+
+::: {.content-hidden}
+
+
+-   University of Oklahoma Department of Biology Nominated for teaching Ecology and Entomology Labs.
+
+:::
+
+
+*Best oral presentation by a graduate student, Oklahoma Ornithological Society Technical Meeting* <span> \color{lightgray} \dotfill </span> October 2012
+
+::: {.content-hidden}
+
+
+-   Oklahoma Ornithological Society Fall 2012 technical meeting
+
+:::
+
+
+*President’s List, University of North Texas* <span> \color{lightgray} \dotfill </span> spring 2005-fall 2007
+
+::: {.content-hidden}
+
+
+-   For 4.00 GPA while completing at least 12 credit hours in a semester
+
+:::
+
+
+*National Grasslands Prairie Partner Award* <span> \color{lightgray} \dotfill </span> 2003
+
+
+::: {.content-hidden}
+
+
+-   National Grasslands Council For volunteer work at the Lyndon B. Johnson National Grasslands (shared with Mary Curry).
+
+:::
+
+
+# Service
+
+## Peer Review
+
+[Publons profile (external link)](https://publons.com/a/1187905/)
+
+-   Auk: Ornithological Advances
+-   Avian Conservation and Ecology
+-   Condor (now Ornithological Applications)
+    -   Cooper Ornithological Society's Early Career Editorial Board (member) <span> \color{lightgray} \dotfill </span>  2011-2012
+-   Diversity and Distributions
+-   Ecology and Evolution
+-   Environmental Pollution
+-   Evidence-based Toxicology
+-   Ibis
+-   Journal of Applied Ecology
+-   Northeastern Naturalist
+-   Rangeland Ecology and Management
+-   Wilson Journal of Ornithology
+
+## Departmental
+
+- *Research Workshops Committee (chair) for University Libraries* <span> \color{lightgray} \dotfill </span> 2021-present
+
+  - Documentation of procedures for committee and workshop organization
+  
+  - Coordination with Marketing and Communication to ensure timely and consistent outreach
+  
+  - Standardization of accessibility notices to include default captioning, modality, and logistics
+
+  - Automation of reminder and registration emails via Zapier and Trello
+
+::: {.content-hidden}
+
+- \cdot \nobreakspace  Created cross-training document to find substitute instructors, helpers, and understand organizational needs for software instructors
+  
+- \cdot \nobreakspace  Created RACI chart for team to understand who to contact during cancellations or rescheduling
+
+:::
+
+- *Hiring committee (chair) for University Libraries*
+
+  - Search: STEM Instruction Librarian <span> \color{lightgray} \dotfill </span>  2024 (in progress)
+  
+- *Hiring committee (member) for University Libraries*
+
+  - Search: National Weather Center Branch Library Manager <span> \color{lightgray} \dotfill </span>  2023
+
+  - Search: Liaison Coordinator <span> \color{lightgray} \dotfill </span> 2023
+
+  - Search: Liaison Coordinator <span> \color{lightgray} \dotfill </span> 2022
+
+  - Search: Director of Library Marketing & Communications <span> \color{lightgray} \dotfill </span> 2021
+
+
+- *Graduate Research Retreat Planning Committee (member)* <span> \color{lightgray} \dotfill </span>  2023
+
+- *OU Libraries Awards Committee (member)*  <span> \color{lightgray} \dotfill </span> 2023
+
+- *New employee mentoring program for two new staff*  <span> \color{lightgray} \dotfill </span> 2021-2022
+
+- *Successful proposal for new name tag design* <span> \color{lightgray} \dotfill </span> 2021
+  
+  - Added option for pronouns to official OU Libraries faculty/staff name badges
+  
+  - Requested comments and guidance from LGBTQIA+ colleagues
+
+- *OU Libraries Strategic Planning Team 3b (member)* <span> \color{lightgray} \dotfill </span>  2021
+
+- *OU Department of Biology Graduate Selections Committee (graduate student member)* <span> \color{lightgray} \dotfill </span> 2010-2013
+
+- *Founded and organizeed OU Ecology Journal Club* <span> \color{lightgray} \dotfill </span> 2011-2013
+
+::: {.content-hidden}
+
+with weekly discussions by students and faculty of published papers (fall 2011-fall 2013; responsibilities passed to a new student during my last semester of spring 2014 and meetings continued through 2018).
+
+:::
+
+## University
+
+- *Institutional Animal Care and Use Committee (scientist member)*  <span> \color{lightgray} \dotfill </span>February 2021-present
+
+- *OU Coding Outreach for Data Education (CODE) Workshop (helper)* <span> \color{lightgray} \dotfill </span>fall semesters, 2020-2022.
+
+- *OU Honors College Undergraduate Research Day (judge)* <span> \color{lightgray} \dotfill </span>April 2020.
+
+- *OU Honors College Undergraduate Research Day (judge)*  <span> \color{lightgray} \dotfill </span>April 2019.
+
+- *OU School of Architecture Program for Research Enhancement (lay reviewer)* <span> \color{lightgray} \dotfill </span> fall 2018, spring 2019, fall 2019.
+
+- *Software and Data Carpentry helper and instructor*  <span> \color{lightgray} \dotfill </span> 2017-present.
+
+- *Earth Observation Science for Society and Sustainability (EOS 3) (graduate certificate class, OU)* <span> \color{lightgray} \dotfill </span> August 28, 2017
+
+  - Panelist on “Building a better Ph.D. or M.S.”
+  
+  ::: {.content-hidden}
+  
+  - Class taught by Drs. Jeff Kelly, Andrea Contina, and Sara Mata, University of Oklahoma, Norman, OK, USA. 
+
+  ::: 
+  
+- *OU Graduate College Academic Appeals and Misconduct student panelist* <span> \color{lightgray} \dotfill </span> 2011-2012 academic year
+
+  - Nominated to serve by department
+
+
+
+::: {.content-hidden}
+
+
+nominated by the OU Department of Zoology’s Graduate Liaison for being “an experienced Graduate Student and hav\[ing\] demonstrated the qualities necessary to serve as an Appeals or Misconduct panelist such as judgment, discretion and commitment.”
+
+:::
+
+## External
+
+- *Instructor on TAGS (Geolocator Data Cleaning website) at Geolocation Workshop* <span> \color{lightgray} \dotfill </span> August 18-19, 2018.
+  
+  - Preceding International Ornithological Congress: Vancouver, BC, Canada
+
+- *Session Chair*
+  
+  - “Evolution”, American Ornithology Conference: Tuscon, AZ, USA <span> \color{lightgray} \dotfill </span>  2018
+  
+  - “Landscape ecology”, American Ornithology Conference: East Lansing, MI, USA <span> \color{lightgray} \dotfill </span> 2017
+  
+  - “Diseases/parasites”, NAOC-V meeting: Vancouver, BC, Canada <span> \color{lightgray} \dotfill </span> 2012
+
+  - “Diversification- Birds”, Evolution 2011: Norman OK, UISA <span> \color{lightgray} \dotfill </span> 2011
+  
+
+- *Judge*
+  
+  - Student presentations (oral presentations and posters) <span> \color{lightgray} \dotfill </span>  2018
+    
+    - \cdot \nobreakspace American Ornithology Conference: Tuscon, AZ, USA
+  
+  - Student presentations (oral presentations and posters) <span> \color{lightgray} \dotfill </span>  2017
+    
+    - \cdot \nobreakspace American Ornithology Conference: East Lansing, MI, USA 
+    
+  - Undergraduate oral presentations and posters <span> \color{lightgray} \dotfill </span> 2016
+    
+    - \cdot \nobreakspace North American Ornithological Conference: Washington, DC., USA
+    
+
+::: {.content-hidden}
+
+- *Volunteer, Evolution 2011 meeting, <span> \color{lightgray} \dotfill </span> 17-21 July, Norman OK; driving van.
+
+:::
+
+
+## Community
+
+- *Nature Walks*
+
+  - National Trails Day at Fort Richardson State Park, TX, co-lead with park manager <span> \color{lightgray} \dotfill </span>  2012
+  
+  ::: {.content-hidden}
+  
+  June 2012
+  
+  :::
+  
+  - Bird walk for Fort Griffin State Historic Site, TX, lead <span> \color{lightgray} \dotfill </span> 2011
+  
+  ::: {.content-hidden}
+  
+  June 2011
+  
+  :::
+  
+  - Monthly field trips to LBJ National Grasslands, co-lead <span> \color{lightgray} \dotfill </span>  2004-2005
+  
+  ::: {.content-hidden}
+  
+  February 2004 to January 2005
+  
+  :::
+  
+
+- *Volunteer Work*
+  
+  - Served as an Oklahoma BioBlitz expert biologist <span> \color{lightgray} \dotfill </span> 2011
+  
+  ::: {.content-hidden}
+
+  at 2011 BioBlitz Oklahoma at Chickasaw National Recreation Area, Murray County, OK
+  
+
+  - Compiled checklists of Wise County (TX) birds and butterflies for distribution at the U.S. Forest Service office in Decatur, TX.
+
+  :::
+  
+  - Participated in Wise County Christmas Bird Count circle <span> \color{lightgray} \dotfill </span>  2000-2007.
+
+  - Surveyed for Project Prairie Birds (Texas Parks & Wildlife Department)  <span> \color{lightgray} \dotfill </span> 2002-2006
+
+  ::: {.content-hidden}
+  
+  in winters of 2002-2006 on the Lyndon B. Johnson National Grasslands
+
+  :::
+  
+  - Co-edited Tall Grass Tales, newsletter of Tallgrass Prairie Audubon Society <span> \color{lightgray} \dotfill </span> 2001-2004
+  
+  ::: {.content-hidden}
+  
+  from December 2001 to October 2004. 
+  
+  - Assisted in preparing bird specimens and mounts for display at the U.S. Forest Service office in Decatur, TX
+  
+  :::
+  
+  - Certified Texas Master Naturalist (Elm Fork Chapter) <span> \color{lightgray} \dotfill </span> 2000-2006
+  
+
+    
+    ::: {.content-hidden}
+    
+    - \cdot \nobreakspace Class of 2000,     Completed volunteer hours and advanced training hours for Elm Fork chapter
+    
+    
+    - \cdot \nobreakspace Ended service to focus on undergraduate degree.
+    
+    :::
 
 # Funding
 
@@ -818,48 +1149,86 @@ Have co-presented talks about birds and ecology \hfill 2001-2007
 *Research*
 
 -   *Prairie Biotic Research, Inc. small grants program*
-    -   \$1500 \hfill March 2018
+    -   \$1500 <span> \color{lightgray} \dotfill </span> March 2018
     -   Proposal title, “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
     -   Co-PI Mary Curry
 -   *Amazon Web Services (AWS) Cloud Credits for Research program*
-    -   \$6500 in computing credits on AWS \hfill 2017
+    -   \$6500 in computing credits on AWS <span> \color{lightgray} \dotfill </span> 2017
     -   Proposal title “Predictive accuracy and efficiency of spatially explicit species distribution models”
 -   *Sigma Xi Grant-in-Aid of Research*
-    -   \$500 \hfill spring 2012
+    -   \$500 <span> \color{lightgray} \dotfill </span> spring 2012
     -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”, travel mileage to field sites
 -   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
-    -   \$2000 \hfill 2012-2013
+    -   \$2000 <span> \color{lightgray} \dotfill </span> 2012-2013
     -   Proposal title “Shadow of a doubt: species recognition in a complex avian hybrid zone”, research expenses and genetic analysis costs
 -   *American Museum of Natural History Frank M. Chapman Memorial Fund Grant*
-    -   \$2000 \hfill 2011-2013
+    -   \$2000 <span> \color{lightgray} \dotfill </span> 2011-2013
     -   Proposal title “Why songs change over space and time in a complex avian hybrid zone”, research expenses and genetic analysis costs
 -   *Oklahoma Ornithological Society*
-    -   \$500 \hfill 2012
+    -   \$500 <span> \color{lightgray} \dotfill </span> 2012
     -   Proposal title “Shadow of a doubt: species recognition and fitness in a complex avian hybrid zone”, research expenses
 -   *Oklahoma Ornithological Society*
-    -   \$400 \hfill 2010
+    -   \$400 <span> \color{lightgray} \dotfill </span> 2010
     -   Proposal title “Genetic and vocal dynamics of a complex avian hybrid zone”, research expenses
 
 *Travel Awards*
 
 -   *American Ornithological Society Post-Doctoral Travel Award*
-    -   \$290 \hfill August 2017
+    -   \$290 <span> \color{lightgray} \dotfill </span> August 2017
+    
+
+::: {.content-hidden}
+
+
     -   To attend 2017 American Ornithology Conference in East Lansing, MI
+
+:::
+
 -   *Association of Field Ornithologists’ Post-Doctoral Travel Award*
-    -   \$260 \hfill August 2016
+    -   \$260 <span> \color{lightgray} \dotfill </span> August 2016
+
+::: {.content-hidden}
+
     -   To attend NAOC2016 meeting in Washington, DC
+
+:::
+
 -   *American Ornithologists Union/Cooper Ornithological Society/Society of Canadian Ornithologists Joint Student Travel Award*
-    -   \$370 \hfill September 2014
+    -   \$370 <span> \color{lightgray} \dotfill </span> September 2014
+
+::: {.content-hidden}
+
     -   To attend AOU/COS/SCO joint meeting in Estes Park, CO
+
+:::
+
 -   *American Ornithologists Union/Cooper Ornithological Society Student Travel Award*
-    -   \$333 \hfill August 2013
+    -   \$333 <span> \color{lightgray} \dotfill </span> August 2013
+
+::: {.content-hidden}
+
     -   To attend AOU/COS joint meeting in Chicago, IL
+
+:::
+
 -   *American Society of Naturalists Student Travel Award*
-    -   \$500 \hfill June 2013
+    -   \$500 <span> \color{lightgray} \dotfill </span> June 2013
+
+::: {.content-hidden}
+
     -   To attend Evolution 2013 meeting in Snowbird, UT
+
+:::
+
 -   *Student Travel Award from 2012 North American Ornithological Conference*
-    -   \$300 \hfill 2012
+    -   \$300 <span> \color{lightgray} \dotfill </span> 2012
+
+::: {.content-hidden}
+
     -   To attend 2012 North American Ornithological Conference in Vancouver, BC
+
+:::
+
 
 
 ## Intramural
@@ -867,76 +1236,121 @@ Have co-presented talks about birds and ecology \hfill 2001-2007
 *Research and Projects*
 
 -   *OU Data Institute for Societal Challenges Seed Funding*
-    -   \$10,000 \hfill June 2022-August 2023
+    -   \$10,000 <span> \color{lightgray} \dotfill </span> June 2022-August 2023
     -   Seed funding to develop Statistics Helper educational website prototype
 -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-    -   \$2500 \hfill summer 2012
+    -   \$2500 <span> \color{lightgray} \dotfill </span> summer 2012
     -   Proposal title “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”; summer research assistantship in department
 -   *George Miksch Sutton Scholarship in Ornithology*
-    -   \$3500 \hfill 2012
+    -   \$3500 <span> \color{lightgray} \dotfill </span> 2012
     -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
 -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
-    -   \$1000 \hfill 2011-2012
+    -   \$1000 <span> \color{lightgray} \dotfill </span> 2011-2012
     -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
 -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-    -   \$2500 \hfill summer 2011
+    -   \$2500 <span> \color{lightgray} \dotfill </span> summer 2011
     -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
 -   *George Miksch Sutton Scholarship in Ornithology*
-    -   \$6700 \hfill 2011
+    -   \$6700 <span> \color{lightgray} \dotfill </span> 2011
     -   Proposal title “Testing hybrid zone models using the Tufted (Baeolophus bicolor) and Black-crested (B. atricristatus) Titmouse hybrid zone”, research equipment, travel, and lab expenses
 -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Academic Year Scholarship*
-    -   \$1000 \hfill 2010-2011
+    -   \$1000 <span> \color{lightgray} \dotfill </span> 2010-2011
     -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; for professional travel and research expenses
 -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-    -   \$756 \hfill summer 2010
+    -   \$756 <span> \color{lightgray} \dotfill </span> summer 2010
     -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; partial summer research assistantship in department (complements 2010 Sutton Scholarship stipend, below)
 -   *George Miksch Sutton Scholarship in Ornithology*
-    -   \$4800 \hfill 2010
+    -   \$4800 <span> \color{lightgray} \dotfill </span> 2010
     -   Proposal title “Dynamics of a complex avian hybrid zone”, research equipment, travel, lab expenses, and partial summer stipend
 -   *OU Graduate Student Senate Research and Creative Endeavors Grant*
-    -   \$224.82 \hfill spring 2010
+    -   \$224.82 <span> \color{lightgray} \dotfill </span> spring 2010
     -   Research equipment and travel to north-central Texas to examine field sites
 -   *OU Robberson Research Grant*
-    -   \$1000 (granted once per degree) \hfill February 2010
+    -   \$1000 (granted once per degree) <span> \color{lightgray} \dotfill </span> February 2010
     -   Research travel and genetic analysis costs
 -   *OU Graduate Student Senate Research and Creative Endeavors Grant*
-    -   \$315.62 \hfill fall 2009
+    -   \$315.62 <span> \color{lightgray} \dotfill </span> fall 2009
     -   Travel expenses to southwestern Oklahoma to examine field sites
 -   *M. Blanche Adams and M. Frances Adams Memorial Scholarships in Zoology: Summer Research Scholarship*
-    -   \$2500 \hfill summer 2009
+    -   \$2500 <span> \color{lightgray} \dotfill </span> summer 2009
     -   Proposal title “Behavioral and genetic dynamics of a complex avian hybrid zone”; summer research assistantship in department
 -   *George Miksch Sutton Scholarship in Ornithology*
-    -   \$5000 \hfill 2009
+    -   \$5000 <span> \color{lightgray} \dotfill </span> 2009
     -   Proposal title “Dynamics of a complex avian hybrid zone”; research equipment and travel expenses
 
 *Travel Awards*
 
 -   *OU College of Arts and Sciences Student Travel Fund*
-    -   \$750 \hfill August 2013
+    -   \$750 <span> \color{lightgray} \dotfill </span> August 2013
+
+::: {.content-hidden}
+
     -   Travel to joint meeting in Chicago, IL, Utah in August 2013, \$750.
+
+:::
+
 -   *OU Department of Biology Travel Funding*
-    -   \$250 \hfill May 2013
+    -   \$250 <span> \color{lightgray} \dotfill </span> May 2013
+
+::: {.content-hidden}
+
     -   To attend Evolution 2013 meeting in Snowbird, UT in June 2013
+
+:::
+
 -   *OU College of Arts and Sciences Student Travel Fund*
-    -   \$750 \hfill August 2012
+    -   \$750 <span> \color{lightgray} \dotfill </span> August 2012
+
+::: {.content-hidden}
+
     -   Travel to North American Ornithological Conference in Vancouver BC in August 2012
+
+:::
+
 -   *OU Department of Zoology travel funding*
-    -   \$250 \hfill February 2011
+    -   \$250 <span> \color{lightgray} \dotfill </span> February 2011
+
+::: {.content-hidden}
+
     -   Travel to Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society joint meeting in Kearney, Nebraska in March 2011
+
+:::
+
 -   *OU College of Arts and Sciences Student Travel Fund*
-    -   \$750 \hfill October 2010
+    -   \$750 <span> \color{lightgray} \dotfill </span> October 2010
+
+::: {.content-hidden}
+
     -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+
+:::
+
 -   *OU Robberson Travel Grant*
-    -   \$500 (granted once per degree) \hfill October 2010
+    -   \$500 (granted once per degree) <span> \color{lightgray} \dotfill </span> October 2010
+
+::: {.content-hidden}
+
     -   Travel to Association of Field Ornithologists' conference in Ogden, Utah in August 2010
+
+:::
+
 -   *OU Graduate Student Senate Conference and Creative Exhibition Grant*
-    -   \$79.86 \hfill spring 2010
+    -   \$79.86 <span> \color{lightgray} \dotfill </span> spring 2010
+
+::: {.content-hidden}
+
     -   Lodging and daily expenses at Southwestern Association of Naturalists’ meeting in Junction, TX
+
+:::
+
 -   *Carl and Pat Bynum Riggs Scholarship*
-    -   \$500 \hfill summer 2009
+    -   \$500 <span> \color{lightgray} \dotfill </span> summer 2009
+
+::: {.content-hidden}
+
     -   To defray expenses of course tuition and fees for O.U. Biological Station summer session; Molecular Techniques for Field Biology class
 
-
+:::
 
 {{< pagebreak >}}
 
@@ -946,21 +1360,21 @@ Have co-presented talks about birds and ecology \hfill 2001-2007
 
 *American Statistical Association*
 
--   Education Section and Oklahoma Chapter \hfill 2022-present
+-   Education Section and Oklahoma Chapter <span> \color{lightgray} \dotfill </span> 2022-present
 
 *American Ornithological Society*
 
--   Elective Member \hfill 2017-present
+-   Elective Member <span> \color{lightgray} \dotfill </span> 2017-present
 
--   Member \hfill 2010-2016
+-   Member <span> \color{lightgray} \dotfill </span> 2010-2016
 
 *Association of Field Ornithologists*
 
--   Member \hfill 2012-2022
+-   Member <span> \color{lightgray} \dotfill </span> 2012-2022
 
 *Research Data Preservation Association*
 
--   Member \hfill 2018-2019
+-   Member <span> \color{lightgray} \dotfill </span> 2018-2019
 
 {{< pagebreak >}}
 
