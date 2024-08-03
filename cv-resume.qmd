@@ -1152,10 +1152,21 @@ nominated by the OU Department of Zoology’s Graduate Liaison for being “an e
 -   *Prairie Biotic Research, Inc. small grants program*
     -   \$1500 <span> \color{lightgray} \dotfill </span> March 2018
     -   Proposal: “An Illustrated Checklist of the Lichens of Wise County, Texas, and Surrounding Areas”
-    -   Co-PI Mary Curry
+        -   Co-PI: Mary Curry
+      
 -   *Amazon Web Services (AWS) Cloud Credits for Research program*
     -   \$6500 in computing credits on AWS <span> \color{lightgray} \dotfill </span> 2017
     -   Proposal: “Predictive accuracy and efficiency of spatially explicit species distribution models”
+    
+-   *NSF ABI Development Grant 1458402*
+    - \$314,890 <span> \color{lightgray} \dotfill </span> 2015-2020
+    - Proposal: "The Electronic Transponder Analysis Gateway (ETAG): An Animal Behavior Observatory"
+      - PI: Claire M. Curry <span> \color{lightgray} \dotfill </span> 2018-2020
+      - PI: Mark Stacy <span> \color{lightgray} \dotfill </span> 2015-2018
+      - PI: Jonah M. Duckles <span> \color{lightgray} \dotfill </span> 2015
+      - Co-PI: Eli S. Bridge <span> \color{lightgray} \dotfill </span>2015-2020
+      - Co-PI: Jessica Ruyle <span> \color{lightgray} \dotfill </span>2015-2020
+    
 -   *Sigma Xi Grant-in-Aid of Research*
     -   \$500 <span> \color{lightgray} \dotfill </span> spring 2012
     -   Proposal: “Evolution of reproductive isolation in a spatially and temporally complex songbird hybrid zone”
