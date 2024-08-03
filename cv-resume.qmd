@@ -937,7 +937,7 @@ Publons profile: [https://publons.com/a/1187905/](https://publons.com/a/1187905/
 
   - Documentation of procedures for committee and workshop organization
   
-  - Coordination with Marketing and Communication to ensure timely and consistent outreach
+  - Coordination with Marketing and Communications to ensure timely and consistent outreach
   
   - Standardization of accessibility notices to include default captioning, modality, and logistics
 
@@ -951,19 +951,17 @@ Publons profile: [https://publons.com/a/1187905/](https://publons.com/a/1187905/
 
 :::
 
-- *Hiring committee (chair) for University Libraries*
+- *Hiring committees for University Libraries*
 
-  - Search: STEM Instruction Librarian <span> \color{lightgray} \dotfill </span>  2024
+  - Chair: STEM Instruction Librarian <span> \color{lightgray} \dotfill </span>  2024
   
-- *Hiring committee (member) for University Libraries*
+  - Member: National Weather Center Branch Library Manager <span> \color{lightgray} \dotfill </span>  2023
 
-  - Search: National Weather Center Branch Library Manager <span> \color{lightgray} \dotfill </span>  2023
+  - Member: Liaison Coordinator <span> \color{lightgray} \dotfill </span> 2023
 
-  - Search: Liaison Coordinator <span> \color{lightgray} \dotfill </span> 2023
+  - Member: Liaison Coordinator <span> \color{lightgray} \dotfill </span> 2022
 
-  - Search: Liaison Coordinator <span> \color{lightgray} \dotfill </span> 2022
-
-  - Search: Director of Library Marketing & Communications <span> \color{lightgray} \dotfill </span> 2021
+  - Member: Director of Library Marketing & Communications <span> \color{lightgray} \dotfill </span> 2021
 
 
 - *Graduate Research Retreat Planning Committee (member)* <span> \color{lightgray} \dotfill </span>  2023
