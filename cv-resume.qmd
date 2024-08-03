@@ -916,7 +916,7 @@ Have co-presented talks about birds and ecology <span> \color{lightgray} \dotfil
 
 ## Peer Review
 
-[Publons profile (external link)](https://publons.com/a/1187905/)
+Publons profile: [https://publons.com/a/1187905/](https://publons.com/a/1187905/)
 
 -   Auk: Ornithological Advances
 -   Avian Conservation and Ecology
