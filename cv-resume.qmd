@@ -810,6 +810,19 @@ Have co-presented talks about birds and ecology <span> \color{lightgray} \dotfil
 
 # Awards, Honors, and Fellowships
 
+
+*Hidden Hero Award University of Oklahoma Libraries* <span> \color{lightgray} \dotfill </span> December 2024
+
+::: {.content-hidden}
+
+
+-   “Going above and beyond in the performance of your job duties.”
+
+For upgrading the research workshops process.
+
+:::
+
+
 *Thomas & Catherine Luccock Library Award of Excellence* <span> \color{lightgray} \dotfill </span> May 2022
 
 ::: {.content-hidden}
@@ -941,7 +954,7 @@ Publons profile: [https://publons.com/a/1187905/](https://publons.com/a/1187905/
   
   - Standardization of accessibility notices to include default captioning, modality, and logistics
 
-  - Automation of reminder and registration emails via Zapier and Trello
+  - Automation of reminder and registration emails via Microsoft Power Automate
 
 ::: {.content-hidden}
 
